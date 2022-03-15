@@ -1,0 +1,9226 @@
+{
+  "Dagger": {
+    "ID": 1000000,
+    "materialSetId": 0
+  },
+  "Fire Dagger": {
+    "ID": 1000400,
+    "materialSetId": 0
+  },
+  "Flame Art Dagger": {
+    "ID": 1000500,
+    "materialSetId": 0
+  },
+  "Lightning Dagger": {
+    "ID": 1000600,
+    "materialSetId": 0
+  },
+  "Sacred Dagger": {
+    "ID": 1000700,
+    "materialSetId": 0
+  },
+  "Magic Dagger": {
+    "ID": 1000800,
+    "materialSetId": 0
+  },
+  "Cold Dagger": {
+    "ID": 1000900,
+    "materialSetId": 0
+  },
+  "Poison Dagger": {
+    "ID": 1001000,
+    "materialSetId": 0
+  },
+  "Blood Dagger": {
+    "ID": 1001100,
+    "materialSetId": 0
+  },
+  "Occult Dagger": {
+    "ID": 1001200,
+    "materialSetId": 0
+  },
+  "Black Knife": {
+    "ID": 1010000,
+    "materialSetId": 2200
+  },
+  "Parrying Dagger": {
+    "ID": 1020000,
+    "materialSetId": 0
+  },
+  "Fire Parrying Dagger": {
+    "ID": 1020400,
+    "materialSetId": 0
+  },
+  "Flame Art Parrying Dagger": {
+    "ID": 1020500,
+    "materialSetId": 0
+  },
+  "Lightning Parrying Dagger": {
+    "ID": 1020600,
+    "materialSetId": 0
+  },
+  "Sacred Parrying Dagger": {
+    "ID": 1020700,
+    "materialSetId": 0
+  },
+  "Magic Parrying Dagger": {
+    "ID": 1020800,
+    "materialSetId": 0
+  },
+  "Cold Parrying Dagger": {
+    "ID": 1020900,
+    "materialSetId": 0
+  },
+  "Poison Parrying Dagger": {
+    "ID": 1021000,
+    "materialSetId": 0
+  },
+  "Blood Parrying Dagger": {
+    "ID": 1021100,
+    "materialSetId": 0
+  },
+  "Occult Parrying Dagger": {
+    "ID": 1021200,
+    "materialSetId": 0
+  },
+  "Miséricorde": {
+    "ID": 1030000,
+    "materialSetId": 0
+  },
+  "Fire Miséricorde": {
+    "ID": 1030400,
+    "materialSetId": 0
+  },
+  "Flame Art Miséricorde": {
+    "ID": 1030500,
+    "materialSetId": 0
+  },
+  "Lightning Miséricorde": {
+    "ID": 1030600,
+    "materialSetId": 0
+  },
+  "Sacred Miséricorde": {
+    "ID": 1030700,
+    "materialSetId": 0
+  },
+  "Magic Miséricorde": {
+    "ID": 1030800,
+    "materialSetId": 0
+  },
+  "Cold Miséricorde": {
+    "ID": 1030900,
+    "materialSetId": 0
+  },
+  "Poison Miséricorde": {
+    "ID": 1031000,
+    "materialSetId": 0
+  },
+  "Blood Miséricorde": {
+    "ID": 1031100,
+    "materialSetId": 0
+  },
+  "Occult Miséricorde": {
+    "ID": 1031200,
+    "materialSetId": 0
+  },
+  "Reduvia": {
+    "ID": 1040000,
+    "materialSetId": 2200
+  },
+  "Crystal Knife": {
+    "ID": 1050000,
+    "materialSetId": 0
+  },
+  "Celebrant's Sickle": {
+    "ID": 1060000,
+    "materialSetId": 0
+  },
+  "Celebrant's Heavy Sickle": {
+    "ID": 1060100,
+    "materialSetId": 0
+  },
+  "Celebrant's Keen Sickle": {
+    "ID": 1060200,
+    "materialSetId": 0
+  },
+  "Celebrant's Quality Sickle": {
+    "ID": 1060300,
+    "materialSetId": 0
+  },
+  "Celebrant's Fire Sickle": {
+    "ID": 1060400,
+    "materialSetId": 0
+  },
+  "Celebrant's Flame Art Sickle": {
+    "ID": 1060500,
+    "materialSetId": 0
+  },
+  "Celebrant's Lightning Sickle": {
+    "ID": 1060600,
+    "materialSetId": 0
+  },
+  "Celebrant's Sacred Sickle": {
+    "ID": 1060700,
+    "materialSetId": 0
+  },
+  "Celebrant's Magic Sickle": {
+    "ID": 1060800,
+    "materialSetId": 0
+  },
+  "Celebrant's Cold Sickle": {
+    "ID": 1060900,
+    "materialSetId": 0
+  },
+  "Celebrant's Poison Sickle": {
+    "ID": 1061000,
+    "materialSetId": 0
+  },
+  "Celebrant's Blood Sickle": {
+    "ID": 1061100,
+    "materialSetId": 0
+  },
+  "Celebrant's Occult Sickle": {
+    "ID": 1061200,
+    "materialSetId": 0
+  },
+  "Glintstone Kris": {
+    "ID": 1070000,
+    "materialSetId": 2200
+  },
+  "Scorpion's Stinger": {
+    "ID": 1080000,
+    "materialSetId": 2200
+  },
+  "Great Knife": {
+    "ID": 1090000,
+    "materialSetId": 0
+  },
+  "Fire Great Knife": {
+    "ID": 1090400,
+    "materialSetId": 0
+  },
+  "Flame Art Great Knife": {
+    "ID": 1090500,
+    "materialSetId": 0
+  },
+  "Lightning Great Knife": {
+    "ID": 1090600,
+    "materialSetId": 0
+  },
+  "Sacred Great Knife": {
+    "ID": 1090700,
+    "materialSetId": 0
+  },
+  "Magic Great Knife": {
+    "ID": 1090800,
+    "materialSetId": 0
+  },
+  "Cold Great Knife": {
+    "ID": 1090900,
+    "materialSetId": 0
+  },
+  "Poison Great Knife": {
+    "ID": 1091000,
+    "materialSetId": 0
+  },
+  "Blood Great Knife": {
+    "ID": 1091100,
+    "materialSetId": 0
+  },
+  "Occult Great Knife": {
+    "ID": 1091200,
+    "materialSetId": 0
+  },
+  "Wakizashi": {
+    "ID": 1100000,
+    "materialSetId": 0
+  },
+  "Fire Wakizashi": {
+    "ID": 1100400,
+    "materialSetId": 0
+  },
+  "Flame Art Wakizashi": {
+    "ID": 1100500,
+    "materialSetId": 0
+  },
+  "Lightning Wakizashi": {
+    "ID": 1100600,
+    "materialSetId": 0
+  },
+  "Sacred Wakizashi": {
+    "ID": 1100700,
+    "materialSetId": 0
+  },
+  "Magic Wakizashi": {
+    "ID": 1100800,
+    "materialSetId": 0
+  },
+  "Cold Wakizashi": {
+    "ID": 1100900,
+    "materialSetId": 0
+  },
+  "Poison Wakizashi": {
+    "ID": 1101000,
+    "materialSetId": 0
+  },
+  "Blood Wakizashi": {
+    "ID": 1101100,
+    "materialSetId": 0
+  },
+  "Occult Wakizashi": {
+    "ID": 1101200,
+    "materialSetId": 0
+  },
+  "Cinquedea": {
+    "ID": 1110000,
+    "materialSetId": 2200
+  },
+  "Ivory Sickle": {
+    "ID": 1130000,
+    "materialSetId": 0
+  },
+  "Bloodstained Dagger": {
+    "ID": 1140000,
+    "materialSetId": 0
+  },
+  "Fire Bloodstained Dagger": {
+    "ID": 1140400,
+    "materialSetId": 0
+  },
+  "Flame Art Bloodstained Dagger": {
+    "ID": 1140500,
+    "materialSetId": 0
+  },
+  "Lightning Bloodstained Dagger": {
+    "ID": 1140600,
+    "materialSetId": 0
+  },
+  "Sacred Bloodstained Dagger": {
+    "ID": 1140700,
+    "materialSetId": 0
+  },
+  "Magic Bloodstained Dagger": {
+    "ID": 1140800,
+    "materialSetId": 0
+  },
+  "Cold Bloodstained Dagger": {
+    "ID": 1140900,
+    "materialSetId": 0
+  },
+  "Poison Bloodstained Dagger": {
+    "ID": 1141000,
+    "materialSetId": 0
+  },
+  "Blood Bloodstained Dagger": {
+    "ID": 1141100,
+    "materialSetId": 0
+  },
+  "Occult Bloodstained Dagger": {
+    "ID": 1141200,
+    "materialSetId": 0
+  },
+  "Erdsteel Dagger": {
+    "ID": 1150000,
+    "materialSetId": 0
+  },
+  "Fire Erdsteel Dagger": {
+    "ID": 1150400,
+    "materialSetId": 0
+  },
+  "Flame Art Erdsteel Dagger": {
+    "ID": 1150500,
+    "materialSetId": 0
+  },
+  "Lightning Erdsteel Dagger": {
+    "ID": 1150600,
+    "materialSetId": 0
+  },
+  "Sacred Erdsteel Dagger": {
+    "ID": 1150700,
+    "materialSetId": 0
+  },
+  "Magic Erdsteel Dagger": {
+    "ID": 1150800,
+    "materialSetId": 0
+  },
+  "Cold Erdsteel Dagger": {
+    "ID": 1150900,
+    "materialSetId": 0
+  },
+  "Poison Erdsteel Dagger": {
+    "ID": 1151000,
+    "materialSetId": 0
+  },
+  "Blood Erdsteel Dagger": {
+    "ID": 1151100,
+    "materialSetId": 0
+  },
+  "Occult Erdsteel Dagger": {
+    "ID": 1151200,
+    "materialSetId": 0
+  },
+  "Blade of Calling": {
+    "ID": 1160000,
+    "materialSetId": 2200
+  },
+  "": {
+    "ID": 99060000,
+    "materialSetId": 0
+  },
+  "Longsword": {
+    "ID": 2000000,
+    "materialSetId": 0
+  },
+  "Fire Longsword": {
+    "ID": 2000400,
+    "materialSetId": 0
+  },
+  "Flame Art Longsword": {
+    "ID": 2000500,
+    "materialSetId": 0
+  },
+  "Lightning Longsword": {
+    "ID": 2000600,
+    "materialSetId": 0
+  },
+  "Sacred Longsword": {
+    "ID": 2000700,
+    "materialSetId": 0
+  },
+  "Magic Longsword": {
+    "ID": 2000800,
+    "materialSetId": 0
+  },
+  "Cold Longsword": {
+    "ID": 2000900,
+    "materialSetId": 0
+  },
+  "Poison Longsword": {
+    "ID": 2001000,
+    "materialSetId": 0
+  },
+  "Bloody Longsword": {
+    "ID": 2001100,
+    "materialSetId": 0
+  },
+  "Occult Longsword": {
+    "ID": 2001200,
+    "materialSetId": 0
+  },
+  "Short Sword": {
+    "ID": 2010000,
+    "materialSetId": 0
+  },
+  "Fire Short Sword": {
+    "ID": 2010400,
+    "materialSetId": 0
+  },
+  "Flame Art Short Sword": {
+    "ID": 2010500,
+    "materialSetId": 0
+  },
+  "Lightning Short Sword": {
+    "ID": 2010600,
+    "materialSetId": 0
+  },
+  "Sacred Short Sword": {
+    "ID": 2010700,
+    "materialSetId": 0
+  },
+  "Magic Short Sword": {
+    "ID": 2010800,
+    "materialSetId": 0
+  },
+  "Cold Short Sword": {
+    "ID": 2010900,
+    "materialSetId": 0
+  },
+  "Poison Short Sword": {
+    "ID": 2011000,
+    "materialSetId": 0
+  },
+  "Blood Short Sword": {
+    "ID": 2011100,
+    "materialSetId": 0
+  },
+  "Occult Short Sword": {
+    "ID": 2011200,
+    "materialSetId": 0
+  },
+  "Broadsword": {
+    "ID": 2020000,
+    "materialSetId": 0
+  },
+  "Fire Broadsword": {
+    "ID": 2020400,
+    "materialSetId": 0
+  },
+  "Flame Art Broadsword": {
+    "ID": 2020500,
+    "materialSetId": 0
+  },
+  "Lightning Broadsword": {
+    "ID": 2020600,
+    "materialSetId": 0
+  },
+  "Sacred Broadsword": {
+    "ID": 2020700,
+    "materialSetId": 0
+  },
+  "Magic Broadsword": {
+    "ID": 2020800,
+    "materialSetId": 0
+  },
+  "Cold Broadsword": {
+    "ID": 2020900,
+    "materialSetId": 0
+  },
+  "Poison Broadsword": {
+    "ID": 2021000,
+    "materialSetId": 0
+  },
+  "Blood Broadsword": {
+    "ID": 2021100,
+    "materialSetId": 0
+  },
+  "Occult Broadsword": {
+    "ID": 2021200,
+    "materialSetId": 0
+  },
+  "Lordsworn's Straight Sword": {
+    "ID": 2040000,
+    "materialSetId": 0
+  },
+  "Lordsworn's Heavy Straight Sword": {
+    "ID": 2040100,
+    "materialSetId": 0
+  },
+  "Lordsworn's Keen Straight Sword": {
+    "ID": 2040200,
+    "materialSetId": 0
+  },
+  "Lordsworn's Quality Straight Sword": {
+    "ID": 2040300,
+    "materialSetId": 0
+  },
+  "Lordsworn's Fire Straight Sword": {
+    "ID": 2040400,
+    "materialSetId": 0
+  },
+  "Lordsworn's Flame Art Straight Sword": {
+    "ID": 2040500,
+    "materialSetId": 0
+  },
+  "Lordsworn's Lightning Straight Sword": {
+    "ID": 2040600,
+    "materialSetId": 0
+  },
+  "Lordsworn's Sacred Straight Sword": {
+    "ID": 2040700,
+    "materialSetId": 0
+  },
+  "Lordsworn's Magic Straight Sword": {
+    "ID": 2040800,
+    "materialSetId": 0
+  },
+  "Lordsworn's Cold Straight Sword": {
+    "ID": 2040900,
+    "materialSetId": 0
+  },
+  "Lordsworn's Poison Straight Sword": {
+    "ID": 2041000,
+    "materialSetId": 0
+  },
+  "Lordsworn's Blood Straight Sword": {
+    "ID": 2041100,
+    "materialSetId": 0
+  },
+  "Lordsworn's Occult Straight Sword": {
+    "ID": 2041200,
+    "materialSetId": 0
+  },
+  "Weathered Straight Sword": {
+    "ID": 2050000,
+    "materialSetId": 0
+  },
+  "Weathered Heavy Straight Sword": {
+    "ID": 2050100,
+    "materialSetId": 0
+  },
+  "Weathered Keen Straight Sword": {
+    "ID": 2050200,
+    "materialSetId": 0
+  },
+  "Weathered Quality Straight Sword": {
+    "ID": 2050300,
+    "materialSetId": 0
+  },
+  "Weathered Fire Straight Sword": {
+    "ID": 2050400,
+    "materialSetId": 0
+  },
+  "Weathered Flame Art Straight Sword": {
+    "ID": 2050500,
+    "materialSetId": 0
+  },
+  "Weathered Lightning Straight Sword": {
+    "ID": 2050600,
+    "materialSetId": 0
+  },
+  "Weathered Sacred Straight Sword": {
+    "ID": 2050700,
+    "materialSetId": 0
+  },
+  "Weathered Magic Straight Sword": {
+    "ID": 2050800,
+    "materialSetId": 0
+  },
+  "Weathered Cold Straight Sword": {
+    "ID": 2050900,
+    "materialSetId": 0
+  },
+  "Weathered Poison Straight Sword": {
+    "ID": 2051000,
+    "materialSetId": 0
+  },
+  "Weathered Blood Straight Sword": {
+    "ID": 2051100,
+    "materialSetId": 0
+  },
+  "Weathered Occult Straight Sword": {
+    "ID": 2051200,
+    "materialSetId": 0
+  },
+  "Ornamental Straight Sword": {
+    "ID": 2060000,
+    "materialSetId": 2200
+  },
+  "Golden Epitaph": {
+    "ID": 2070000,
+    "materialSetId": 2200
+  },
+  "Nox Flowing Sword": {
+    "ID": 2080000,
+    "materialSetId": 2200
+  },
+  "Inseparable Sword": {
+    "ID": 2090000,
+    "materialSetId": 2200
+  },
+  "Coded Sword": {
+    "ID": 2110000,
+    "materialSetId": 2200
+  },
+  "Sword of Night and Flame": {
+    "ID": 2140000,
+    "materialSetId": 2200
+  },
+  "Crystal Sword": {
+    "ID": 2150000,
+    "materialSetId": 2200
+  },
+  "Carian Knight's Sword": {
+    "ID": 2180000,
+    "materialSetId": 2200
+  },
+  "Sword of St. Trina": {
+    "ID": 2190000,
+    "materialSetId": 2200
+  },
+  "Miquellan Knight's Sword": {
+    "ID": 2200000,
+    "materialSetId": 2200
+  },
+  "Cane Sword": {
+    "ID": 2210000,
+    "materialSetId": 0
+  },
+  "Fire Cane Sword": {
+    "ID": 2210400,
+    "materialSetId": 0
+  },
+  "Flame Art Cane Sword": {
+    "ID": 2210500,
+    "materialSetId": 0
+  },
+  "Lightning Cane Sword": {
+    "ID": 2210600,
+    "materialSetId": 0
+  },
+  "Sacred Cane Sword": {
+    "ID": 2210700,
+    "materialSetId": 0
+  },
+  "Magic Cane Sword": {
+    "ID": 2210800,
+    "materialSetId": 0
+  },
+  "Cold Cane Sword": {
+    "ID": 2210900,
+    "materialSetId": 0
+  },
+  "Poison Cane Sword": {
+    "ID": 2211000,
+    "materialSetId": 0
+  },
+  "Blood Cane Sword": {
+    "ID": 2211100,
+    "materialSetId": 0
+  },
+  "Occult Cane Sword": {
+    "ID": 2211200,
+    "materialSetId": 0
+  },
+  "Regalia of Eochaid": {
+    "ID": 2220000,
+    "materialSetId": 2200
+  },
+  "Noble's Slender Sword": {
+    "ID": 2230000,
+    "materialSetId": 0
+  },
+  "Noble's Heavy Slender Sword": {
+    "ID": 2230100,
+    "materialSetId": 0
+  },
+  "Noble's Keen Slender Sword": {
+    "ID": 2230200,
+    "materialSetId": 0
+  },
+  "Noble's Quality Slender Sword": {
+    "ID": 2230300,
+    "materialSetId": 0
+  },
+  "Noble's Fire Slender Sword": {
+    "ID": 2230400,
+    "materialSetId": 0
+  },
+  "Noble's Flame Art Slender Sword": {
+    "ID": 2230500,
+    "materialSetId": 0
+  },
+  "Noble's Lightning Slender Sword": {
+    "ID": 2230600,
+    "materialSetId": 0
+  },
+  "Noble's Sacred Slender Sword": {
+    "ID": 2230700,
+    "materialSetId": 0
+  },
+  "Noble's Magic Slender Sword": {
+    "ID": 2230800,
+    "materialSetId": 0
+  },
+  "Noble's Cold Slender Sword": {
+    "ID": 2230900,
+    "materialSetId": 0
+  },
+  "Noble's Poison Slender Sword": {
+    "ID": 2231000,
+    "materialSetId": 0
+  },
+  "Noble's Blood Slender Sword": {
+    "ID": 2231100,
+    "materialSetId": 0
+  },
+  "Noble's Occult Slender Sword": {
+    "ID": 2231200,
+    "materialSetId": 0
+  },
+  "Warhawk's Talon": {
+    "ID": 2240000,
+    "materialSetId": 0
+  },
+  "Warhawk's Heavy Talon": {
+    "ID": 2240100,
+    "materialSetId": 0
+  },
+  "Warhawk's Keen Talon": {
+    "ID": 2240200,
+    "materialSetId": 0
+  },
+  "Warhawk's Quality Talon": {
+    "ID": 2240300,
+    "materialSetId": 0
+  },
+  "Warhawk's Fire Talon": {
+    "ID": 2240400,
+    "materialSetId": 0
+  },
+  "Warhawk's Flame Art Talon": {
+    "ID": 2240500,
+    "materialSetId": 0
+  },
+  "Warhawk's Lightning Talon": {
+    "ID": 2240600,
+    "materialSetId": 0
+  },
+  "Warhawk's Sacred Talon": {
+    "ID": 2240700,
+    "materialSetId": 0
+  },
+  "Warhawk's Magic Talon": {
+    "ID": 2240800,
+    "materialSetId": 0
+  },
+  "Warhawk's Cold Talon": {
+    "ID": 2240900,
+    "materialSetId": 0
+  },
+  "Warhawk's Poison Talon": {
+    "ID": 2241000,
+    "materialSetId": 0
+  },
+  "Warhawk's Blood Talon": {
+    "ID": 2241100,
+    "materialSetId": 0
+  },
+  "Warhawk's Occult Talon": {
+    "ID": 2241200,
+    "materialSetId": 0
+  },
+  "Lazuli Glintstone Sword": {
+    "ID": 2250000,
+    "materialSetId": 2200
+  },
+  "Rotten Crystal Sword": {
+    "ID": 2260000,
+    "materialSetId": 2200
+  },
+  "Bastard Sword": {
+    "ID": 3000000,
+    "materialSetId": 0
+  },
+  "Fire Bastard Sword": {
+    "ID": 3000400,
+    "materialSetId": 0
+  },
+  "Flame Art Bastard Sword": {
+    "ID": 3000500,
+    "materialSetId": 0
+  },
+  "Lightning Bastard Sword": {
+    "ID": 3000600,
+    "materialSetId": 0
+  },
+  "Sacred Bastard Sword": {
+    "ID": 3000700,
+    "materialSetId": 0
+  },
+  "Magic Bastard Sword": {
+    "ID": 3000800,
+    "materialSetId": 0
+  },
+  "Cold Bastard Sword": {
+    "ID": 3000900,
+    "materialSetId": 0
+  },
+  "Poison Bastard Sword": {
+    "ID": 3001000,
+    "materialSetId": 0
+  },
+  "Bloody Bastard Sword": {
+    "ID": 3001100,
+    "materialSetId": 0
+  },
+  "Occult Bastard Sword": {
+    "ID": 3001200,
+    "materialSetId": 0
+  },
+  "Forked Greatsword": {
+    "ID": 3010000,
+    "materialSetId": 0
+  },
+  "Fire Forked Greatsword": {
+    "ID": 3010400,
+    "materialSetId": 0
+  },
+  "Flame Art Forked Greatsword": {
+    "ID": 3010500,
+    "materialSetId": 0
+  },
+  "Lightning Forked Greatsword": {
+    "ID": 3010600,
+    "materialSetId": 0
+  },
+  "Sacred Forked Greatsword": {
+    "ID": 3010700,
+    "materialSetId": 0
+  },
+  "Magic Forked Greatsword": {
+    "ID": 3010800,
+    "materialSetId": 0
+  },
+  "Cold Forked Greatsword": {
+    "ID": 3010900,
+    "materialSetId": 0
+  },
+  "Poison Forked Greatsword": {
+    "ID": 3011000,
+    "materialSetId": 0
+  },
+  "Blood Forked Greatsword": {
+    "ID": 3011100,
+    "materialSetId": 0
+  },
+  "Occult Forked Greatsword": {
+    "ID": 3011200,
+    "materialSetId": 0
+  },
+  "Iron Greatsword": {
+    "ID": 3020000,
+    "materialSetId": 0
+  },
+  "Fire Iron Greatsword": {
+    "ID": 3020400,
+    "materialSetId": 0
+  },
+  "Flame Art Iron Greatsword": {
+    "ID": 3020500,
+    "materialSetId": 0
+  },
+  "Lightning Iron Greatsword": {
+    "ID": 3020600,
+    "materialSetId": 0
+  },
+  "Sacred Iron Greatsword": {
+    "ID": 3020700,
+    "materialSetId": 0
+  },
+  "Magic Iron Greatsword": {
+    "ID": 3020800,
+    "materialSetId": 0
+  },
+  "Cold Iron Greatsword": {
+    "ID": 3020900,
+    "materialSetId": 0
+  },
+  "Poison Iron Greatsword": {
+    "ID": 3021000,
+    "materialSetId": 0
+  },
+  "Blood Iron Greatsword": {
+    "ID": 3021100,
+    "materialSetId": 0
+  },
+  "Occult Iron Greatsword": {
+    "ID": 3021200,
+    "materialSetId": 0
+  },
+  "Lordsworn's Greatsword": {
+    "ID": 3030000,
+    "materialSetId": 0
+  },
+  "Lordsworn's Heavy Greatsword": {
+    "ID": 3030100,
+    "materialSetId": 0
+  },
+  "Lordsworn's Keen Greatsword": {
+    "ID": 3030200,
+    "materialSetId": 0
+  },
+  "Lordsworn's Quality Greatsword": {
+    "ID": 3030300,
+    "materialSetId": 0
+  },
+  "Lordsworn's Fire Greatsword": {
+    "ID": 3030400,
+    "materialSetId": 0
+  },
+  "Lordsworn's Flame Art Greatsword": {
+    "ID": 3030500,
+    "materialSetId": 0
+  },
+  "Lordsworn's Lightning Greatsword": {
+    "ID": 3030600,
+    "materialSetId": 0
+  },
+  "Lordsworn's Sacred Greatsword": {
+    "ID": 3030700,
+    "materialSetId": 0
+  },
+  "Lordsworn's Magic Greatsword": {
+    "ID": 3030800,
+    "materialSetId": 0
+  },
+  "Lordsworn's Cold Greatsword": {
+    "ID": 3030900,
+    "materialSetId": 0
+  },
+  "Lordsworn's Poison Greatsword": {
+    "ID": 3031000,
+    "materialSetId": 0
+  },
+  "Lordsworn's Blood Greatsword": {
+    "ID": 3031100,
+    "materialSetId": 0
+  },
+  "Lordsworn's Occult Greatsword": {
+    "ID": 3031200,
+    "materialSetId": 0
+  },
+  "Knight's Greatsword": {
+    "ID": 3040000,
+    "materialSetId": 0
+  },
+  "Knight's Heavy Greatsword": {
+    "ID": 3040100,
+    "materialSetId": 0
+  },
+  "Knight's Keen Greatsword": {
+    "ID": 3040200,
+    "materialSetId": 0
+  },
+  "Knight's Quality Greatsword": {
+    "ID": 3040300,
+    "materialSetId": 0
+  },
+  "Knight's Fire Greatsword": {
+    "ID": 3040400,
+    "materialSetId": 0
+  },
+  "Knight's Flame Art Greatsword": {
+    "ID": 3040500,
+    "materialSetId": 0
+  },
+  "Knight's Lightning Greatsword": {
+    "ID": 3040600,
+    "materialSetId": 0
+  },
+  "Knight's Sacred Greatsword": {
+    "ID": 3040700,
+    "materialSetId": 0
+  },
+  "Knight's Magic Greatsword": {
+    "ID": 3040800,
+    "materialSetId": 0
+  },
+  "Knight's Cold Greatsword": {
+    "ID": 3040900,
+    "materialSetId": 0
+  },
+  "Knight's Poison Greatsword": {
+    "ID": 3041000,
+    "materialSetId": 0
+  },
+  "Knight's Blood Greatsword": {
+    "ID": 3041100,
+    "materialSetId": 0
+  },
+  "Knight's Occult Greatsword": {
+    "ID": 3041200,
+    "materialSetId": 0
+  },
+  "Flamberge": {
+    "ID": 3050000,
+    "materialSetId": 0
+  },
+  "Fire Flamberge": {
+    "ID": 3050400,
+    "materialSetId": 0
+  },
+  "Flame Art Flamberge": {
+    "ID": 3050500,
+    "materialSetId": 0
+  },
+  "Lightning Flamberge": {
+    "ID": 3050600,
+    "materialSetId": 0
+  },
+  "Sacred Flamberge": {
+    "ID": 3050700,
+    "materialSetId": 0
+  },
+  "Magic Flamberge": {
+    "ID": 3050800,
+    "materialSetId": 0
+  },
+  "Cold Flamberge": {
+    "ID": 3050900,
+    "materialSetId": 0
+  },
+  "Poison Flamberge": {
+    "ID": 3051000,
+    "materialSetId": 0
+  },
+  "Blood Flamberge": {
+    "ID": 3051100,
+    "materialSetId": 0
+  },
+  "Occult Flamberge": {
+    "ID": 3051200,
+    "materialSetId": 0
+  },
+  "Ordovis's Greatsword": {
+    "ID": 3060000,
+    "materialSetId": 2200
+  },
+  "Alabaster Lord's Sword": {
+    "ID": 3070000,
+    "materialSetId": 2200
+  },
+  "Banished Knight's Greatsword": {
+    "ID": 3080000,
+    "materialSetId": 0
+  },
+  "Banished Knight's Heavy Greatsword": {
+    "ID": 3080100,
+    "materialSetId": 0
+  },
+  "Banished Knight's Keen Greatsword": {
+    "ID": 3080200,
+    "materialSetId": 0
+  },
+  "Banished Knight's Quality Greatsword": {
+    "ID": 3080300,
+    "materialSetId": 0
+  },
+  "Banished Knight's Fire Greatsword": {
+    "ID": 3080400,
+    "materialSetId": 0
+  },
+  "Banished Knight's Flame Art Greatsword": {
+    "ID": 3080500,
+    "materialSetId": 0
+  },
+  "Banished Knight's Lightning Greatsword": {
+    "ID": 3080600,
+    "materialSetId": 0
+  },
+  "Banished Knight's Sacred Greatsword": {
+    "ID": 3080700,
+    "materialSetId": 0
+  },
+  "Banished Knight's Magic Greatsword": {
+    "ID": 3080800,
+    "materialSetId": 0
+  },
+  "Banished Knight's Cold Greatsword": {
+    "ID": 3080900,
+    "materialSetId": 0
+  },
+  "Banished Knight's Poison Greatsword": {
+    "ID": 3081000,
+    "materialSetId": 0
+  },
+  "Banished Knight's Blood Greatsword": {
+    "ID": 3081100,
+    "materialSetId": 0
+  },
+  "Banished Knight's Occult Greatsword": {
+    "ID": 3081200,
+    "materialSetId": 0
+  },
+  "Dark Moon Greatsword": {
+    "ID": 3090000,
+    "materialSetId": 2200
+  },
+  "Sacred Relic Sword": {
+    "ID": 3100000,
+    "materialSetId": 2200
+  },
+  "Helphen's Steeple": {
+    "ID": 3130000,
+    "materialSetId": 2200
+  },
+  "Blasphemous Blade": {
+    "ID": 3140000,
+    "materialSetId": 2200
+  },
+  "Marais Executioner's Sword": {
+    "ID": 3150000,
+    "materialSetId": 2200
+  },
+  "Sword of Milos": {
+    "ID": 3160000,
+    "materialSetId": 2200
+  },
+  "Golden Order Greatsword": {
+    "ID": 3170000,
+    "materialSetId": 2200
+  },
+  "Claymore": {
+    "ID": 3180000,
+    "materialSetId": 0
+  },
+  "Fire Claymore": {
+    "ID": 3180400,
+    "materialSetId": 0
+  },
+  "Flame Art Claymore": {
+    "ID": 3180500,
+    "materialSetId": 0
+  },
+  "Lightning Claymore": {
+    "ID": 3180600,
+    "materialSetId": 0
+  },
+  "Sacred Claymore": {
+    "ID": 3180700,
+    "materialSetId": 0
+  },
+  "Magic Claymore": {
+    "ID": 3180800,
+    "materialSetId": 0
+  },
+  "Cold Claymore": {
+    "ID": 3180900,
+    "materialSetId": 0
+  },
+  "Poison Claymore": {
+    "ID": 3181000,
+    "materialSetId": 0
+  },
+  "Blood Claymore": {
+    "ID": 3181100,
+    "materialSetId": 0
+  },
+  "Occult Claymore": {
+    "ID": 3181200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Greatsword": {
+    "ID": 3190000,
+    "materialSetId": 0
+  },
+  "Gargoyle's Heavy Greatsword": {
+    "ID": 3190100,
+    "materialSetId": 0
+  },
+  "Gargoyle's Keen Greatsword": {
+    "ID": 3190200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Quality Greatsword": {
+    "ID": 3190300,
+    "materialSetId": 0
+  },
+  "Gargoyle's Fire Greatsword": {
+    "ID": 3190400,
+    "materialSetId": 0
+  },
+  "Gargoyle's Flame Art Greatsword": {
+    "ID": 3190500,
+    "materialSetId": 0
+  },
+  "Gargoyle's Lightning Greatsword": {
+    "ID": 3190600,
+    "materialSetId": 0
+  },
+  "Gargoyle's Sacred Greatsword": {
+    "ID": 3190700,
+    "materialSetId": 0
+  },
+  "Gargoyle's Magic Greatsword": {
+    "ID": 3190800,
+    "materialSetId": 0
+  },
+  "Gargoyle's Cold Greatsword": {
+    "ID": 3190900,
+    "materialSetId": 0
+  },
+  "Gargoyle's Poison Greatsword": {
+    "ID": 3191000,
+    "materialSetId": 0
+  },
+  "Gargoyle's Blood Greatsword": {
+    "ID": 3191100,
+    "materialSetId": 0
+  },
+  "Gargoyle's Occult Greatsword": {
+    "ID": 3191200,
+    "materialSetId": 0
+  },
+  "Death's Poker": {
+    "ID": 3200000,
+    "materialSetId": 2200
+  },
+  "Gargoyle's Blackblade": {
+    "ID": 3210000,
+    "materialSetId": 2200
+  },
+  "Greatsword": {
+    "ID": 4000000,
+    "materialSetId": 0
+  },
+  "Fire Greatsword": {
+    "ID": 4000400,
+    "materialSetId": 0
+  },
+  "Flame Art Greatsword": {
+    "ID": 4000500,
+    "materialSetId": 0
+  },
+  "Lightning Greatsword": {
+    "ID": 4000600,
+    "materialSetId": 0
+  },
+  "Sacred Greatsword": {
+    "ID": 4000700,
+    "materialSetId": 0
+  },
+  "Magic Greatsword": {
+    "ID": 4000800,
+    "materialSetId": 0
+  },
+  "Cold Greatsword": {
+    "ID": 4000900,
+    "materialSetId": 0
+  },
+  "Poison Greatsword": {
+    "ID": 4001000,
+    "materialSetId": 0
+  },
+  "Blood Greatsword": {
+    "ID": 4001100,
+    "materialSetId": 0
+  },
+  "Occult Greatsword": {
+    "ID": 4001200,
+    "materialSetId": 0
+  },
+  "Watchdog's Greatsword": {
+    "ID": 4010000,
+    "materialSetId": 0
+  },
+  "Watchdog's Heavy Greatsword": {
+    "ID": 4010100,
+    "materialSetId": 0
+  },
+  "Watchdog's Keen Greatsword": {
+    "ID": 4010200,
+    "materialSetId": 0
+  },
+  "Watchdog's Quality Greatsword": {
+    "ID": 4010300,
+    "materialSetId": 0
+  },
+  "Watchdog's Fire Greatsword": {
+    "ID": 4010400,
+    "materialSetId": 0
+  },
+  "Watchdog's Flame Art Greatsword": {
+    "ID": 4010500,
+    "materialSetId": 0
+  },
+  "Watchdog's Lightning Greatsword": {
+    "ID": 4010600,
+    "materialSetId": 0
+  },
+  "Watchdog's Sacred Greatsword": {
+    "ID": 4010700,
+    "materialSetId": 0
+  },
+  "Watchdog's Magic Greatsword": {
+    "ID": 4010800,
+    "materialSetId": 0
+  },
+  "Watchdog's Cold Greatsword": {
+    "ID": 4010900,
+    "materialSetId": 0
+  },
+  "Watchdog's Poison Greatsword": {
+    "ID": 4011000,
+    "materialSetId": 0
+  },
+  "Watchdog's Blood Greatsword": {
+    "ID": 4011100,
+    "materialSetId": 0
+  },
+  "Watchdog's Occult Greatsword": {
+    "ID": 4011200,
+    "materialSetId": 0
+  },
+  "Maliketh's Black Blade": {
+    "ID": 4020000,
+    "materialSetId": 2200
+  },
+  "Troll's Golden Sword": {
+    "ID": 4030000,
+    "materialSetId": 0
+  },
+  "Troll's Golden Heavy Sword": {
+    "ID": 4030100,
+    "materialSetId": 0
+  },
+  "Troll's Golden Keen Sword": {
+    "ID": 4030200,
+    "materialSetId": 0
+  },
+  "Troll's Golden Quality Sword": {
+    "ID": 4030300,
+    "materialSetId": 0
+  },
+  "Troll's Golden Fire Sword": {
+    "ID": 4030400,
+    "materialSetId": 0
+  },
+  "Troll's Golden Flame Art Sword": {
+    "ID": 4030500,
+    "materialSetId": 0
+  },
+  "Troll's Golden Lightning Sword": {
+    "ID": 4030600,
+    "materialSetId": 0
+  },
+  "Troll's Golden Sacred Sword": {
+    "ID": 4030700,
+    "materialSetId": 0
+  },
+  "Troll's Golden Magic Sword": {
+    "ID": 4030800,
+    "materialSetId": 0
+  },
+  "Troll's Golden Cold Sword": {
+    "ID": 4030900,
+    "materialSetId": 0
+  },
+  "Troll's Golden Poison Sword": {
+    "ID": 4031000,
+    "materialSetId": 0
+  },
+  "Troll's Golden Blood Sword": {
+    "ID": 4031100,
+    "materialSetId": 0
+  },
+  "Troll's Golden Occult Sword": {
+    "ID": 4031200,
+    "materialSetId": 0
+  },
+  "Zweihander": {
+    "ID": 4040000,
+    "materialSetId": 0
+  },
+  "Fire Zweihander": {
+    "ID": 4040400,
+    "materialSetId": 0
+  },
+  "Flame Art Zweihander": {
+    "ID": 4040500,
+    "materialSetId": 0
+  },
+  "Lightning Zweihander": {
+    "ID": 4040600,
+    "materialSetId": 0
+  },
+  "Sacred Zweihander": {
+    "ID": 4040700,
+    "materialSetId": 0
+  },
+  "Magic Zweihander": {
+    "ID": 4040800,
+    "materialSetId": 0
+  },
+  "Cold Zweihander": {
+    "ID": 4040900,
+    "materialSetId": 0
+  },
+  "Poison Zweihander": {
+    "ID": 4041000,
+    "materialSetId": 0
+  },
+  "Blood Zweihander": {
+    "ID": 4041100,
+    "materialSetId": 0
+  },
+  "Occult Zweihander": {
+    "ID": 4041200,
+    "materialSetId": 0
+  },
+  "Starscourge Greatsword": {
+    "ID": 4050000,
+    "materialSetId": 2200
+  },
+  "Royal Greatsword": {
+    "ID": 4060000,
+    "materialSetId": 2200
+  },
+  "Godslayer's Greatsword": {
+    "ID": 4070000,
+    "materialSetId": 2200
+  },
+  "Ruins Greatsword": {
+    "ID": 4080000,
+    "materialSetId": 2200
+  },
+  "Grafted Blade Greatsword": {
+    "ID": 4100000,
+    "materialSetId": 2200
+  },
+  "Troll Knight's Sword": {
+    "ID": 4110000,
+    "materialSetId": 2200
+  },
+  "Estoc": {
+    "ID": 5000000,
+    "materialSetId": 0
+  },
+  "Fire Estoc": {
+    "ID": 5000400,
+    "materialSetId": 0
+  },
+  "Flame Art Estoc": {
+    "ID": 5000500,
+    "materialSetId": 0
+  },
+  "Lightning Estoc": {
+    "ID": 5000600,
+    "materialSetId": 0
+  },
+  "Sacred Estoc": {
+    "ID": 5000700,
+    "materialSetId": 0
+  },
+  "Magic Estoc": {
+    "ID": 5000800,
+    "materialSetId": 0
+  },
+  "Cold Estoc": {
+    "ID": 5000900,
+    "materialSetId": 0
+  },
+  "Poison Estoc": {
+    "ID": 5001000,
+    "materialSetId": 0
+  },
+  "Blood Estoc": {
+    "ID": 5001100,
+    "materialSetId": 0
+  },
+  "Occult Estoc": {
+    "ID": 5001200,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Sword": {
+    "ID": 5010000,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Heavy Sword": {
+    "ID": 5010100,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Keen Sword": {
+    "ID": 5010200,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Quality Sword": {
+    "ID": 5010300,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Fire Sword": {
+    "ID": 5010400,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Flame Art Sword": {
+    "ID": 5010500,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Lightning Sword": {
+    "ID": 5010600,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Sacred Sword": {
+    "ID": 5010700,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Magic Sword": {
+    "ID": 5010800,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Cold Sword": {
+    "ID": 5010900,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Poison Sword": {
+    "ID": 5011000,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Blood Sword": {
+    "ID": 5011100,
+    "materialSetId": 0
+  },
+  "Cleanrot Knight's Occult Sword": {
+    "ID": 5011200,
+    "materialSetId": 0
+  },
+  "Rapier": {
+    "ID": 5020000,
+    "materialSetId": 0
+  },
+  "Fire Rapier": {
+    "ID": 5020400,
+    "materialSetId": 0
+  },
+  "Flame Art Rapier": {
+    "ID": 5020500,
+    "materialSetId": 0
+  },
+  "Lightning Rapier": {
+    "ID": 5020600,
+    "materialSetId": 0
+  },
+  "Sacred Rapier": {
+    "ID": 5020700,
+    "materialSetId": 0
+  },
+  "Magic Rapier": {
+    "ID": 5020800,
+    "materialSetId": 0
+  },
+  "Cold Rapier": {
+    "ID": 5020900,
+    "materialSetId": 0
+  },
+  "Poison Rapier": {
+    "ID": 5021000,
+    "materialSetId": 0
+  },
+  "Blood Rapier": {
+    "ID": 5021100,
+    "materialSetId": 0
+  },
+  "Occult Rapier": {
+    "ID": 5021200,
+    "materialSetId": 0
+  },
+  "Rogier's Rapier": {
+    "ID": 5030000,
+    "materialSetId": 0
+  },
+  "Rogier's Heavy Rapier": {
+    "ID": 5030100,
+    "materialSetId": 0
+  },
+  "Rogier's Keen Rapier": {
+    "ID": 5030200,
+    "materialSetId": 0
+  },
+  "Rogier's Quality Rapier": {
+    "ID": 5030300,
+    "materialSetId": 0
+  },
+  "Rogier's Fire Rapier": {
+    "ID": 5030400,
+    "materialSetId": 0
+  },
+  "Rogier's Flame Art Rapier": {
+    "ID": 5030500,
+    "materialSetId": 0
+  },
+  "Rogier's Lightning Rapier": {
+    "ID": 5030600,
+    "materialSetId": 0
+  },
+  "Rogier's Sacred Rapier": {
+    "ID": 5030700,
+    "materialSetId": 0
+  },
+  "Rogier's Magic Rapier": {
+    "ID": 5030800,
+    "materialSetId": 0
+  },
+  "Rogier's Cold Rapier": {
+    "ID": 5030900,
+    "materialSetId": 0
+  },
+  "Rogier's Poison Rapier": {
+    "ID": 5031000,
+    "materialSetId": 0
+  },
+  "Rogier's Blood Rapier": {
+    "ID": 5031100,
+    "materialSetId": 0
+  },
+  "Rogier's Occult Rapier": {
+    "ID": 5031200,
+    "materialSetId": 0
+  },
+  "Antspur Rapier": {
+    "ID": 5040000,
+    "materialSetId": 0
+  },
+  "Fire Antspur Rapier": {
+    "ID": 5040400,
+    "materialSetId": 0
+  },
+  "Flame Art Antspur Rapier": {
+    "ID": 5040500,
+    "materialSetId": 0
+  },
+  "Lightning Antspur Rapier": {
+    "ID": 5040600,
+    "materialSetId": 0
+  },
+  "Sacred Antspur Rapier": {
+    "ID": 5040700,
+    "materialSetId": 0
+  },
+  "Magic Antspur Rapier": {
+    "ID": 5040800,
+    "materialSetId": 0
+  },
+  "Cold Antspur Rapier": {
+    "ID": 5040900,
+    "materialSetId": 0
+  },
+  "Poison Antspur Rapier": {
+    "ID": 5041000,
+    "materialSetId": 0
+  },
+  "Blood Antspur Rapier": {
+    "ID": 5041100,
+    "materialSetId": 0
+  },
+  "Occult Antspur Rapier": {
+    "ID": 5041200,
+    "materialSetId": 0
+  },
+  "Frozen Needle": {
+    "ID": 5050000,
+    "materialSetId": 2200
+  },
+  "Noble's Estoc": {
+    "ID": 5060000,
+    "materialSetId": 0
+  },
+  "Noble's Heavy Estoc": {
+    "ID": 5060100,
+    "materialSetId": 0
+  },
+  "Noble's Keen Estoc": {
+    "ID": 5060200,
+    "materialSetId": 0
+  },
+  "Noble's Quality Estoc": {
+    "ID": 5060300,
+    "materialSetId": 0
+  },
+  "Noble's Fire Estoc": {
+    "ID": 5060400,
+    "materialSetId": 0
+  },
+  "Noble's Flame Art Estoc": {
+    "ID": 5060500,
+    "materialSetId": 0
+  },
+  "Noble's Lightning Estoc": {
+    "ID": 5060600,
+    "materialSetId": 0
+  },
+  "Noble's Sacred Estoc": {
+    "ID": 5060700,
+    "materialSetId": 0
+  },
+  "Noble's Magic Estoc": {
+    "ID": 5060800,
+    "materialSetId": 0
+  },
+  "Noble's Cold Estoc": {
+    "ID": 5060900,
+    "materialSetId": 0
+  },
+  "Noble's Poison Estoc": {
+    "ID": 5061000,
+    "materialSetId": 0
+  },
+  "Noble's Blood Estoc": {
+    "ID": 5061100,
+    "materialSetId": 0
+  },
+  "Noble's Occult Estoc": {
+    "ID": 5061200,
+    "materialSetId": 0
+  },
+  "Bloody Helice": {
+    "ID": 6000000,
+    "materialSetId": 2200
+  },
+  "Godskin Stitcher": {
+    "ID": 6010000,
+    "materialSetId": 0
+  },
+  "Fire Godskin Stitcher": {
+    "ID": 6010400,
+    "materialSetId": 0
+  },
+  "Flame Art Godskin Stitcher": {
+    "ID": 6010500,
+    "materialSetId": 0
+  },
+  "Lightning Godskin Stitcher": {
+    "ID": 6010600,
+    "materialSetId": 0
+  },
+  "Sacred Godskin Stitcher": {
+    "ID": 6010700,
+    "materialSetId": 0
+  },
+  "Magic Godskin Stitcher": {
+    "ID": 6010800,
+    "materialSetId": 0
+  },
+  "Cold Godskin Stitcher": {
+    "ID": 6010900,
+    "materialSetId": 0
+  },
+  "Poison Godskin Stitcher": {
+    "ID": 6011000,
+    "materialSetId": 0
+  },
+  "Blood Godskin Stitcher": {
+    "ID": 6011100,
+    "materialSetId": 0
+  },
+  "Occult Godskin Stitcher": {
+    "ID": 6011200,
+    "materialSetId": 0
+  },
+  "Great Épée": {
+    "ID": 6020000,
+    "materialSetId": 0
+  },
+  "Fire Great Épée": {
+    "ID": 6020400,
+    "materialSetId": 0
+  },
+  "Flame Art Great Épée": {
+    "ID": 6020500,
+    "materialSetId": 0
+  },
+  "Lightning Great Épée": {
+    "ID": 6020600,
+    "materialSetId": 0
+  },
+  "Sacred Great Épée": {
+    "ID": 6020700,
+    "materialSetId": 0
+  },
+  "Magic Great Épée": {
+    "ID": 6020800,
+    "materialSetId": 0
+  },
+  "Cold Great Épée": {
+    "ID": 6020900,
+    "materialSetId": 0
+  },
+  "Poison Great Épée": {
+    "ID": 6021000,
+    "materialSetId": 0
+  },
+  "Blood Great Épée": {
+    "ID": 6021100,
+    "materialSetId": 0
+  },
+  "Occult Great Épée": {
+    "ID": 6021200,
+    "materialSetId": 0
+  },
+  "Dragon King's Cragblade": {
+    "ID": 6040000,
+    "materialSetId": 2200
+  },
+  "Falchion": {
+    "ID": 7000000,
+    "materialSetId": 0
+  },
+  "Fire Falchion": {
+    "ID": 7000400,
+    "materialSetId": 0
+  },
+  "Flame Art Falchion": {
+    "ID": 7000500,
+    "materialSetId": 0
+  },
+  "Lightning Falchion": {
+    "ID": 7000600,
+    "materialSetId": 0
+  },
+  "Sacred Falchion": {
+    "ID": 7000700,
+    "materialSetId": 0
+  },
+  "Magic Falchion": {
+    "ID": 7000800,
+    "materialSetId": 0
+  },
+  "Cold Falchion": {
+    "ID": 7000900,
+    "materialSetId": 0
+  },
+  "Poison Falchion": {
+    "ID": 7001000,
+    "materialSetId": 0
+  },
+  "Blood Falchion": {
+    "ID": 7001100,
+    "materialSetId": 0
+  },
+  "Occult Falchion": {
+    "ID": 7001200,
+    "materialSetId": 0
+  },
+  "Beastman's Curved Sword": {
+    "ID": 7010000,
+    "materialSetId": 0
+  },
+  "Beastman's Heavy Curved Sword": {
+    "ID": 7010100,
+    "materialSetId": 0
+  },
+  "Beastman's Keen Curved Sword": {
+    "ID": 7010200,
+    "materialSetId": 0
+  },
+  "Beastman's Quality Curved Sword": {
+    "ID": 7010300,
+    "materialSetId": 0
+  },
+  "Beastman's Fire Curved Sword": {
+    "ID": 7010400,
+    "materialSetId": 0
+  },
+  "Beastman's Flame Art Curved Sword": {
+    "ID": 7010500,
+    "materialSetId": 0
+  },
+  "Beastman's Lightning Curved Sword": {
+    "ID": 7010600,
+    "materialSetId": 0
+  },
+  "Beastman's Sacred Curved Sword": {
+    "ID": 7010700,
+    "materialSetId": 0
+  },
+  "Beastman's Magic Curved Sword": {
+    "ID": 7010800,
+    "materialSetId": 0
+  },
+  "Beastman's Cold Curved Sword": {
+    "ID": 7010900,
+    "materialSetId": 0
+  },
+  "Beastman's Poison Curved Sword": {
+    "ID": 7011000,
+    "materialSetId": 0
+  },
+  "Beastman's Blood Curved Sword": {
+    "ID": 7011100,
+    "materialSetId": 0
+  },
+  "Beastman's Occult Curved Sword": {
+    "ID": 7011200,
+    "materialSetId": 0
+  },
+  "Shotel": {
+    "ID": 7020000,
+    "materialSetId": 0
+  },
+  "Fire Shotel": {
+    "ID": 7020400,
+    "materialSetId": 0
+  },
+  "Flame Art Shotel": {
+    "ID": 7020500,
+    "materialSetId": 0
+  },
+  "Lightning Shotel": {
+    "ID": 7020600,
+    "materialSetId": 0
+  },
+  "Sacred Shotel": {
+    "ID": 7020700,
+    "materialSetId": 0
+  },
+  "Magic Shotel": {
+    "ID": 7020800,
+    "materialSetId": 0
+  },
+  "Cold Shotel": {
+    "ID": 7020900,
+    "materialSetId": 0
+  },
+  "Poison Shotel": {
+    "ID": 7021000,
+    "materialSetId": 0
+  },
+  "Blood Shotel": {
+    "ID": 7021100,
+    "materialSetId": 0
+  },
+  "Occult Shotel": {
+    "ID": 7021200,
+    "materialSetId": 0
+  },
+  "Shamshir": {
+    "ID": 7030000,
+    "materialSetId": 0
+  },
+  "Fire Shamshir": {
+    "ID": 7030400,
+    "materialSetId": 0
+  },
+  "Flame Art Shamshir": {
+    "ID": 7030500,
+    "materialSetId": 0
+  },
+  "Lightning Shamshir": {
+    "ID": 7030600,
+    "materialSetId": 0
+  },
+  "Sacred Shamshir": {
+    "ID": 7030700,
+    "materialSetId": 0
+  },
+  "Magic Shamshir": {
+    "ID": 7030800,
+    "materialSetId": 0
+  },
+  "Cold Shamshir": {
+    "ID": 7030900,
+    "materialSetId": 0
+  },
+  "Poison Shamshir": {
+    "ID": 7031000,
+    "materialSetId": 0
+  },
+  "Blood Shamshir": {
+    "ID": 7031100,
+    "materialSetId": 0
+  },
+  "Occult Shamshir": {
+    "ID": 7031200,
+    "materialSetId": 0
+  },
+  "Bandit's Curved Sword": {
+    "ID": 7040000,
+    "materialSetId": 0
+  },
+  "Bandit's Heavy Curved Sword": {
+    "ID": 7040100,
+    "materialSetId": 0
+  },
+  "Bandit's Keen Curved Sword": {
+    "ID": 7040200,
+    "materialSetId": 0
+  },
+  "Bandit's Quality Curved Sword": {
+    "ID": 7040300,
+    "materialSetId": 0
+  },
+  "Bandit's Fire Curved Sword": {
+    "ID": 7040400,
+    "materialSetId": 0
+  },
+  "Bandit's Flame Art Curved Sword": {
+    "ID": 7040500,
+    "materialSetId": 0
+  },
+  "Bandit's Lightning Curved Sword": {
+    "ID": 7040600,
+    "materialSetId": 0
+  },
+  "Bandit's Sacred Curved Sword": {
+    "ID": 7040700,
+    "materialSetId": 0
+  },
+  "Bandit's Magic Curved Sword": {
+    "ID": 7040800,
+    "materialSetId": 0
+  },
+  "Bandit's Cold Curved Sword": {
+    "ID": 7040900,
+    "materialSetId": 0
+  },
+  "Bandit's Poison Curved Sword": {
+    "ID": 7041000,
+    "materialSetId": 0
+  },
+  "Bandit's Blood Curved Sword": {
+    "ID": 7041100,
+    "materialSetId": 0
+  },
+  "Bandit's Occult Curved Sword": {
+    "ID": 7041200,
+    "materialSetId": 0
+  },
+  "Magma Blade": {
+    "ID": 7050000,
+    "materialSetId": 2200
+  },
+  "Flowing Curved Sword": {
+    "ID": 7060000,
+    "materialSetId": 0
+  },
+  "Flowing Heavy Curved Sword": {
+    "ID": 7060100,
+    "materialSetId": 0
+  },
+  "Flowing Keen Curved Sword": {
+    "ID": 7060200,
+    "materialSetId": 0
+  },
+  "Flowing Quality Curved Sword": {
+    "ID": 7060300,
+    "materialSetId": 0
+  },
+  "Flowing Fire Curved Sword": {
+    "ID": 7060400,
+    "materialSetId": 0
+  },
+  "Flowing Flame Art Curved Sword": {
+    "ID": 7060500,
+    "materialSetId": 0
+  },
+  "Flowing Lightning Curved Sword": {
+    "ID": 7060600,
+    "materialSetId": 0
+  },
+  "Flowing Sacred Curved Sword": {
+    "ID": 7060700,
+    "materialSetId": 0
+  },
+  "Flowing Magic Curved Sword": {
+    "ID": 7060800,
+    "materialSetId": 0
+  },
+  "Flowing Cold Curved Sword": {
+    "ID": 7060900,
+    "materialSetId": 0
+  },
+  "Flowing Poison Curved Sword": {
+    "ID": 7061000,
+    "materialSetId": 0
+  },
+  "Flowing Blood Curved Sword": {
+    "ID": 7061100,
+    "materialSetId": 0
+  },
+  "Flowing Occult Curved Sword": {
+    "ID": 7061200,
+    "materialSetId": 0
+  },
+  "Wing of Astel": {
+    "ID": 7070000,
+    "materialSetId": 2200
+  },
+  "Scavenger's Curved Sword": {
+    "ID": 7080000,
+    "materialSetId": 0
+  },
+  "Scavenger's Heavy Curved Sword": {
+    "ID": 7080100,
+    "materialSetId": 0
+  },
+  "Scavenger's Keen Curved Sword": {
+    "ID": 7080200,
+    "materialSetId": 0
+  },
+  "Scavenger's Quality Curved Sword": {
+    "ID": 7080300,
+    "materialSetId": 0
+  },
+  "Scavenger's Fire Curved Sword": {
+    "ID": 7080400,
+    "materialSetId": 0
+  },
+  "Scavenger's Flame Art Curved Sword": {
+    "ID": 7080500,
+    "materialSetId": 0
+  },
+  "Scavenger's Lightning Curved Sword": {
+    "ID": 7080600,
+    "materialSetId": 0
+  },
+  "Scavenger's Sacred Curved Sword": {
+    "ID": 7080700,
+    "materialSetId": 0
+  },
+  "Scavenger's Magic Curved Sword": {
+    "ID": 7080800,
+    "materialSetId": 0
+  },
+  "Scavenger's Cold Curved Sword": {
+    "ID": 7080900,
+    "materialSetId": 0
+  },
+  "Scavenger's Poison Curved Sword": {
+    "ID": 7081000,
+    "materialSetId": 0
+  },
+  "Scavenger's Blood Curved Sword": {
+    "ID": 7081100,
+    "materialSetId": 0
+  },
+  "Scavenger's Occult Curved Sword": {
+    "ID": 7081200,
+    "materialSetId": 0
+  },
+  "Eclipse Shotel": {
+    "ID": 7100000,
+    "materialSetId": 2200
+  },
+  "Serpent-God's Curved Sword": {
+    "ID": 7110000,
+    "materialSetId": 0
+  },
+  "Serpent-God's Heavy Curved Sword": {
+    "ID": 7110100,
+    "materialSetId": 0
+  },
+  "Serpent-God's Keen Curved Sword": {
+    "ID": 7110200,
+    "materialSetId": 0
+  },
+  "Serpent-God's Quality Curved Sword": {
+    "ID": 7110300,
+    "materialSetId": 0
+  },
+  "Serpent-God's Fire Curved Sword": {
+    "ID": 7110400,
+    "materialSetId": 0
+  },
+  "Serpent-God's Flame Art Curved Sword": {
+    "ID": 7110500,
+    "materialSetId": 0
+  },
+  "Serpent-God's Lightning Curved Sword": {
+    "ID": 7110600,
+    "materialSetId": 0
+  },
+  "Serpent-God's Sacred Curved Sword": {
+    "ID": 7110700,
+    "materialSetId": 0
+  },
+  "Serpent-God's Magic Curved Sword": {
+    "ID": 7110800,
+    "materialSetId": 0
+  },
+  "Serpent-God's Cold Curved Sword": {
+    "ID": 7110900,
+    "materialSetId": 0
+  },
+  "Serpent-God's Poison Curved Sword": {
+    "ID": 7111000,
+    "materialSetId": 0
+  },
+  "Serpent-God's Blood Curved Sword": {
+    "ID": 7111100,
+    "materialSetId": 0
+  },
+  "Serpent-God's Occult Curved Sword": {
+    "ID": 7111200,
+    "materialSetId": 0
+  },
+  "Mantis Blade": {
+    "ID": 7120000,
+    "materialSetId": 0
+  },
+  "Fire Mantis Blade": {
+    "ID": 7120400,
+    "materialSetId": 0
+  },
+  "Flame Art Mantis Blade": {
+    "ID": 7120500,
+    "materialSetId": 0
+  },
+  "Lightning Mantis Blade": {
+    "ID": 7120600,
+    "materialSetId": 0
+  },
+  "Sacred Mantis Blade": {
+    "ID": 7120700,
+    "materialSetId": 0
+  },
+  "Magic Mantis Blade": {
+    "ID": 7120800,
+    "materialSetId": 0
+  },
+  "Cold Mantis Blade": {
+    "ID": 7120900,
+    "materialSetId": 0
+  },
+  "Poison Mantis Blade": {
+    "ID": 7121000,
+    "materialSetId": 0
+  },
+  "Blood Mantis Blade": {
+    "ID": 7121100,
+    "materialSetId": 0
+  },
+  "Occult Mantis Blade": {
+    "ID": 7121200,
+    "materialSetId": 0
+  },
+  "Scimitar": {
+    "ID": 7140000,
+    "materialSetId": 0
+  },
+  "Fire Scimitar": {
+    "ID": 7140400,
+    "materialSetId": 0
+  },
+  "Flame Art Scimitar": {
+    "ID": 7140500,
+    "materialSetId": 0
+  },
+  "Lightning Scimitar": {
+    "ID": 7140600,
+    "materialSetId": 0
+  },
+  "Sacred Scimitar": {
+    "ID": 7140700,
+    "materialSetId": 0
+  },
+  "Magic Scimitar": {
+    "ID": 7140800,
+    "materialSetId": 0
+  },
+  "Cold Scimitar": {
+    "ID": 7140900,
+    "materialSetId": 0
+  },
+  "Poison Scimitar": {
+    "ID": 7141000,
+    "materialSetId": 0
+  },
+  "Bloody Scimitar": {
+    "ID": 7141100,
+    "materialSetId": 0
+  },
+  "Occult Scimitar": {
+    "ID": 7141200,
+    "materialSetId": 0
+  },
+  "Grossmesser": {
+    "ID": 7150000,
+    "materialSetId": 0
+  },
+  "Fire Grossmesser": {
+    "ID": 7150400,
+    "materialSetId": 0
+  },
+  "Flame Art Grossmesser": {
+    "ID": 7150500,
+    "materialSetId": 0
+  },
+  "Lightning Grossmesser": {
+    "ID": 7150600,
+    "materialSetId": 0
+  },
+  "Sacred Grossmesser": {
+    "ID": 7150700,
+    "materialSetId": 0
+  },
+  "Magic Grossmesser": {
+    "ID": 7150800,
+    "materialSetId": 0
+  },
+  "Cold Grossmesser": {
+    "ID": 7150900,
+    "materialSetId": 0
+  },
+  "Poison Grossmesser": {
+    "ID": 7151000,
+    "materialSetId": 0
+  },
+  "Blood Grossmesser": {
+    "ID": 7151100,
+    "materialSetId": 0
+  },
+  "Occult Grossmesser": {
+    "ID": 7151200,
+    "materialSetId": 0
+  },
+  "Onyx Lord's Greatsword": {
+    "ID": 8010000,
+    "materialSetId": 2200
+  },
+  "Dismounter": {
+    "ID": 8020000,
+    "materialSetId": 0
+  },
+  "Fire Dismounter": {
+    "ID": 8020400,
+    "materialSetId": 0
+  },
+  "Flame Art Dismounter": {
+    "ID": 8020500,
+    "materialSetId": 0
+  },
+  "Lightning Dismounter": {
+    "ID": 8020600,
+    "materialSetId": 0
+  },
+  "Sacred Dismounter": {
+    "ID": 8020700,
+    "materialSetId": 0
+  },
+  "Magic Dismounter": {
+    "ID": 8020800,
+    "materialSetId": 0
+  },
+  "Cold Dismounter": {
+    "ID": 8020900,
+    "materialSetId": 0
+  },
+  "Poison Dismounter": {
+    "ID": 8021000,
+    "materialSetId": 0
+  },
+  "Blood Dismounter": {
+    "ID": 8021100,
+    "materialSetId": 0
+  },
+  "Occult Dismounter": {
+    "ID": 8021200,
+    "materialSetId": 0
+  },
+  "Bloodhound's Fang": {
+    "ID": 8030000,
+    "materialSetId": 2200
+  },
+  "Magma Wyrm's Scalesword": {
+    "ID": 8040000,
+    "materialSetId": 2200
+  },
+  "Zamor Curved Sword": {
+    "ID": 8050000,
+    "materialSetId": 2200
+  },
+  "Omen Cleaver": {
+    "ID": 8060000,
+    "materialSetId": 0
+  },
+  "Fire Omen Cleaver": {
+    "ID": 8060400,
+    "materialSetId": 0
+  },
+  "Flame Art Omen Cleaver": {
+    "ID": 8060500,
+    "materialSetId": 0
+  },
+  "Lightning Omen Cleaver": {
+    "ID": 8060600,
+    "materialSetId": 0
+  },
+  "Sacred Omen Cleaver": {
+    "ID": 8060700,
+    "materialSetId": 0
+  },
+  "Magic Omen Cleaver": {
+    "ID": 8060800,
+    "materialSetId": 0
+  },
+  "Cold Omen Cleaver": {
+    "ID": 8060900,
+    "materialSetId": 0
+  },
+  "Poison Omen Cleaver": {
+    "ID": 8061000,
+    "materialSetId": 0
+  },
+  "Blood Omen Cleaver": {
+    "ID": 8061100,
+    "materialSetId": 0
+  },
+  "Occult Omen Cleaver": {
+    "ID": 8061200,
+    "materialSetId": 0
+  },
+  "Monk's Flameblade": {
+    "ID": 8070000,
+    "materialSetId": 0
+  },
+  "Monk's Heavy Flameblade": {
+    "ID": 8070100,
+    "materialSetId": 0
+  },
+  "Monk's Keen Flameblade": {
+    "ID": 8070200,
+    "materialSetId": 0
+  },
+  "Monk's Quality Flameblade": {
+    "ID": 8070300,
+    "materialSetId": 0
+  },
+  "Monk's Fire Flameblade": {
+    "ID": 8070400,
+    "materialSetId": 0
+  },
+  "Monk's Flame Art Flameblade": {
+    "ID": 8070500,
+    "materialSetId": 0
+  },
+  "Monk's Lightning Flameblade": {
+    "ID": 8070600,
+    "materialSetId": 0
+  },
+  "Monk's Sacred Flameblade": {
+    "ID": 8070700,
+    "materialSetId": 0
+  },
+  "Monk's Magic Flameblade": {
+    "ID": 8070800,
+    "materialSetId": 0
+  },
+  "Monk's Cold Flameblade": {
+    "ID": 8070900,
+    "materialSetId": 0
+  },
+  "Monk's Poison Flameblade": {
+    "ID": 8071000,
+    "materialSetId": 0
+  },
+  "Monk's Blood Flameblade": {
+    "ID": 8071100,
+    "materialSetId": 0
+  },
+  "Monk's Occult Flameblade": {
+    "ID": 8071200,
+    "materialSetId": 0
+  },
+  "Beastman's Cleaver": {
+    "ID": 8080000,
+    "materialSetId": 0
+  },
+  "Beastman's Heavy Cleaver": {
+    "ID": 8080100,
+    "materialSetId": 0
+  },
+  "Beastman's Keen Cleaver": {
+    "ID": 8080200,
+    "materialSetId": 0
+  },
+  "Beastman's Quality Cleaver": {
+    "ID": 8080300,
+    "materialSetId": 0
+  },
+  "Beastman's Fire Cleaver": {
+    "ID": 8080400,
+    "materialSetId": 0
+  },
+  "Beastman's Flame Art Cleaver": {
+    "ID": 8080500,
+    "materialSetId": 0
+  },
+  "Beastman's Lightning Cleaver": {
+    "ID": 8080600,
+    "materialSetId": 0
+  },
+  "Beastman's Sacred Cleaver": {
+    "ID": 8080700,
+    "materialSetId": 0
+  },
+  "Beastman's Magic Cleaver": {
+    "ID": 8080800,
+    "materialSetId": 0
+  },
+  "Beastman's Cold Cleaver": {
+    "ID": 8080900,
+    "materialSetId": 0
+  },
+  "Beastman's Poison Cleaver": {
+    "ID": 8081000,
+    "materialSetId": 0
+  },
+  "Beastman's Blood Cleaver": {
+    "ID": 8081100,
+    "materialSetId": 0
+  },
+  "Beastman's Occult Cleaver": {
+    "ID": 8081200,
+    "materialSetId": 0
+  },
+  "Morgott's Cursed Sword": {
+    "ID": 8100000,
+    "materialSetId": 2200
+  },
+  "Uchigatana": {
+    "ID": 9000000,
+    "materialSetId": 0
+  },
+  "Fire Uchigatana": {
+    "ID": 9000400,
+    "materialSetId": 0
+  },
+  "Flame Art Uchigatana": {
+    "ID": 9000500,
+    "materialSetId": 0
+  },
+  "Lightning Uchigatana": {
+    "ID": 9000600,
+    "materialSetId": 0
+  },
+  "Sacred Uchigatana": {
+    "ID": 9000700,
+    "materialSetId": 0
+  },
+  "Magic Uchigatana": {
+    "ID": 9000800,
+    "materialSetId": 0
+  },
+  "Cold Uchigatana": {
+    "ID": 9000900,
+    "materialSetId": 0
+  },
+  "Poison Uchigatana": {
+    "ID": 9001000,
+    "materialSetId": 0
+  },
+  "Blood Uchigatana": {
+    "ID": 9001100,
+    "materialSetId": 0
+  },
+  "Occult Uchigatana": {
+    "ID": 9001200,
+    "materialSetId": 0
+  },
+  "Nagakiba": {
+    "ID": 9010000,
+    "materialSetId": 0
+  },
+  "Fire Nagakiba": {
+    "ID": 9010400,
+    "materialSetId": 0
+  },
+  "Flame Art Nagakiba": {
+    "ID": 9010500,
+    "materialSetId": 0
+  },
+  "Lightning Nagakiba": {
+    "ID": 9010600,
+    "materialSetId": 0
+  },
+  "Sacred Nagakiba": {
+    "ID": 9010700,
+    "materialSetId": 0
+  },
+  "Magic Nagakiba": {
+    "ID": 9010800,
+    "materialSetId": 0
+  },
+  "Cold Nagakiba": {
+    "ID": 9010900,
+    "materialSetId": 0
+  },
+  "Poison Nagakiba": {
+    "ID": 9011000,
+    "materialSetId": 0
+  },
+  "Blood Nagakiba": {
+    "ID": 9011100,
+    "materialSetId": 0
+  },
+  "Occult Nagakiba": {
+    "ID": 9011200,
+    "materialSetId": 0
+  },
+  "Hand of Malenia": {
+    "ID": 9020000,
+    "materialSetId": 2200
+  },
+  "Meteoric Ore Blade": {
+    "ID": 9030000,
+    "materialSetId": 2200
+  },
+  "Rivers of Blood": {
+    "ID": 9040000,
+    "materialSetId": 2200
+  },
+  "Moonveil": {
+    "ID": 9060000,
+    "materialSetId": 2200
+  },
+  "Dragonscale Blade": {
+    "ID": 9070000,
+    "materialSetId": 2200
+  },
+  "Serpentbone Blade": {
+    "ID": 9080000,
+    "materialSetId": 0
+  },
+  "Fire Serpentbone Blade": {
+    "ID": 9080400,
+    "materialSetId": 0
+  },
+  "Flame Art Serpentbone Blade": {
+    "ID": 9080500,
+    "materialSetId": 0
+  },
+  "Lightning Serpentbone Blade": {
+    "ID": 9080600,
+    "materialSetId": 0
+  },
+  "Sacred Serpentbone Blade": {
+    "ID": 9080700,
+    "materialSetId": 0
+  },
+  "Magic Serpentbone Blade": {
+    "ID": 9080800,
+    "materialSetId": 0
+  },
+  "Cold Serpentbone Blade": {
+    "ID": 9080900,
+    "materialSetId": 0
+  },
+  "Poison Serpentbone Blade": {
+    "ID": 9081000,
+    "materialSetId": 0
+  },
+  "Blood Serpentbone Blade": {
+    "ID": 9081100,
+    "materialSetId": 0
+  },
+  "Occult Serpentbone Blade": {
+    "ID": 9081200,
+    "materialSetId": 0
+  },
+  "Twinblade": {
+    "ID": 10000000,
+    "materialSetId": 0
+  },
+  "Fire Twinblade": {
+    "ID": 10000400,
+    "materialSetId": 0
+  },
+  "Flame Art Twinblade": {
+    "ID": 10000500,
+    "materialSetId": 0
+  },
+  "Lightning Twinblade": {
+    "ID": 10000600,
+    "materialSetId": 0
+  },
+  "Sacred Twinblade": {
+    "ID": 10000700,
+    "materialSetId": 0
+  },
+  "Magic Twinblade": {
+    "ID": 10000800,
+    "materialSetId": 0
+  },
+  "Cold Twinblade": {
+    "ID": 10000900,
+    "materialSetId": 0
+  },
+  "Poison Twinblade": {
+    "ID": 10001000,
+    "materialSetId": 0
+  },
+  "Bloody Twinblade": {
+    "ID": 10001100,
+    "materialSetId": 0
+  },
+  "Occult Twinblade": {
+    "ID": 10001200,
+    "materialSetId": 0
+  },
+  "Godskin Peeler": {
+    "ID": 10010000,
+    "materialSetId": 0
+  },
+  "Fire Godskin Peeler": {
+    "ID": 10010400,
+    "materialSetId": 0
+  },
+  "Flame Art Godskin Peeler": {
+    "ID": 10010500,
+    "materialSetId": 0
+  },
+  "Lightning Godskin Peeler": {
+    "ID": 10010600,
+    "materialSetId": 0
+  },
+  "Sacred Godskin Peeler": {
+    "ID": 10010700,
+    "materialSetId": 0
+  },
+  "Magic Godskin Peeler": {
+    "ID": 10010800,
+    "materialSetId": 0
+  },
+  "Cold Godskin Peeler": {
+    "ID": 10010900,
+    "materialSetId": 0
+  },
+  "Poison Godskin Peeler": {
+    "ID": 10011000,
+    "materialSetId": 0
+  },
+  "Blood Godskin Peeler": {
+    "ID": 10011100,
+    "materialSetId": 0
+  },
+  "Occult Godskin Peeler": {
+    "ID": 10011200,
+    "materialSetId": 0
+  },
+  "Twinned Knight Swords": {
+    "ID": 10030000,
+    "materialSetId": 0
+  },
+  "Fire Twinned Knight Swords": {
+    "ID": 10030400,
+    "materialSetId": 0
+  },
+  "Flame Art Twinned Knight Swords": {
+    "ID": 10030500,
+    "materialSetId": 0
+  },
+  "Lightning Twinned Knight Swords": {
+    "ID": 10030600,
+    "materialSetId": 0
+  },
+  "Sacred Twinned Knight Swords": {
+    "ID": 10030700,
+    "materialSetId": 0
+  },
+  "Magic Twinned Knight Swords": {
+    "ID": 10030800,
+    "materialSetId": 0
+  },
+  "Cold Twinned Knight Swords": {
+    "ID": 10030900,
+    "materialSetId": 0
+  },
+  "Poison Twinned Knight Swords": {
+    "ID": 10031000,
+    "materialSetId": 0
+  },
+  "Blood Twinned Knight Swords": {
+    "ID": 10031100,
+    "materialSetId": 0
+  },
+  "Occult Twinned Knight Swords": {
+    "ID": 10031200,
+    "materialSetId": 0
+  },
+  "Eleonora's Poleblade": {
+    "ID": 10050000,
+    "materialSetId": 2200
+  },
+  "Gargoyle's Twinblade": {
+    "ID": 10080000,
+    "materialSetId": 0
+  },
+  "Gargoyle's Heavy Twinblade": {
+    "ID": 10080100,
+    "materialSetId": 0
+  },
+  "Gargoyle's Keen Twinblade": {
+    "ID": 10080200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Quality Twinblade": {
+    "ID": 10080300,
+    "materialSetId": 0
+  },
+  "Gargoyle's Fire Twinblade": {
+    "ID": 10080400,
+    "materialSetId": 0
+  },
+  "Gargoyle's Flame Art Twinblade": {
+    "ID": 10080500,
+    "materialSetId": 0
+  },
+  "Gargoyle's Lightning Twinblade": {
+    "ID": 10080600,
+    "materialSetId": 0
+  },
+  "Gargoyle's Sacred Twinblade": {
+    "ID": 10080700,
+    "materialSetId": 0
+  },
+  "Gargoyle's Magic Twinblade": {
+    "ID": 10080800,
+    "materialSetId": 0
+  },
+  "Gargoyle's Cold Twinblade": {
+    "ID": 10080900,
+    "materialSetId": 0
+  },
+  "Gargoyle's Poison Twinblade": {
+    "ID": 10081000,
+    "materialSetId": 0
+  },
+  "Gargoyle's Blood Twinblade": {
+    "ID": 10081100,
+    "materialSetId": 0
+  },
+  "Gargoyle's Occult Twinblade": {
+    "ID": 10081200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Black Blades": {
+    "ID": 10090000,
+    "materialSetId": 2200
+  },
+  "Mace": {
+    "ID": 11000000,
+    "materialSetId": 0
+  },
+  "Fire Mace": {
+    "ID": 11000400,
+    "materialSetId": 0
+  },
+  "Flame Art Mace": {
+    "ID": 11000500,
+    "materialSetId": 0
+  },
+  "Lightning Mace": {
+    "ID": 11000600,
+    "materialSetId": 0
+  },
+  "Sacred Mace": {
+    "ID": 11000700,
+    "materialSetId": 0
+  },
+  "Magic Mace": {
+    "ID": 11000800,
+    "materialSetId": 0
+  },
+  "Cold Mace": {
+    "ID": 11000900,
+    "materialSetId": 0
+  },
+  "Poison Mace": {
+    "ID": 11001000,
+    "materialSetId": 0
+  },
+  "Blood Mace": {
+    "ID": 11001100,
+    "materialSetId": 0
+  },
+  "Occult Mace": {
+    "ID": 11001200,
+    "materialSetId": 0
+  },
+  "Club": {
+    "ID": 11010000,
+    "materialSetId": 0
+  },
+  "Fire Club": {
+    "ID": 11010400,
+    "materialSetId": 0
+  },
+  "Flame Art Club": {
+    "ID": 11010500,
+    "materialSetId": 0
+  },
+  "Lightning Club": {
+    "ID": 11010600,
+    "materialSetId": 0
+  },
+  "Sacred Club": {
+    "ID": 11010700,
+    "materialSetId": 0
+  },
+  "Magic Club": {
+    "ID": 11010800,
+    "materialSetId": 0
+  },
+  "Cold Club": {
+    "ID": 11010900,
+    "materialSetId": 0
+  },
+  "Poison Club": {
+    "ID": 11011000,
+    "materialSetId": 0
+  },
+  "Bloody Club": {
+    "ID": 11011100,
+    "materialSetId": 0
+  },
+  "Occult Club": {
+    "ID": 11011200,
+    "materialSetId": 0
+  },
+  "Curved Club": {
+    "ID": 11030000,
+    "materialSetId": 0
+  },
+  "Fire Curved Club": {
+    "ID": 11030400,
+    "materialSetId": 0
+  },
+  "Flame Art Curved Club": {
+    "ID": 11030500,
+    "materialSetId": 0
+  },
+  "Lightning Curved Club": {
+    "ID": 11030600,
+    "materialSetId": 0
+  },
+  "Sacred Curved Club": {
+    "ID": 11030700,
+    "materialSetId": 0
+  },
+  "Magic Curved Club": {
+    "ID": 11030800,
+    "materialSetId": 0
+  },
+  "Cold Curved Club": {
+    "ID": 11030900,
+    "materialSetId": 0
+  },
+  "Poison Curved Club": {
+    "ID": 11031000,
+    "materialSetId": 0
+  },
+  "Blood Curved Club": {
+    "ID": 11031100,
+    "materialSetId": 0
+  },
+  "Occult Curved Club": {
+    "ID": 11031200,
+    "materialSetId": 0
+  },
+  "Warpick": {
+    "ID": 11040000,
+    "materialSetId": 0
+  },
+  "Fire Warpick": {
+    "ID": 11040400,
+    "materialSetId": 0
+  },
+  "Flame Art Warpick": {
+    "ID": 11040500,
+    "materialSetId": 0
+  },
+  "Lightning Warpick": {
+    "ID": 11040600,
+    "materialSetId": 0
+  },
+  "Sacred Warpick": {
+    "ID": 11040700,
+    "materialSetId": 0
+  },
+  "Magic Warpick": {
+    "ID": 11040800,
+    "materialSetId": 0
+  },
+  "Cold Warpick": {
+    "ID": 11040900,
+    "materialSetId": 0
+  },
+  "Poison Warpick": {
+    "ID": 11041000,
+    "materialSetId": 0
+  },
+  "Blood Warpick": {
+    "ID": 11041100,
+    "materialSetId": 0
+  },
+  "Occult Warpick": {
+    "ID": 11041200,
+    "materialSetId": 0
+  },
+  "Morning Star": {
+    "ID": 11050000,
+    "materialSetId": 0
+  },
+  "Fire Morning Star": {
+    "ID": 11050400,
+    "materialSetId": 0
+  },
+  "Flame Art Morning Star": {
+    "ID": 11050500,
+    "materialSetId": 0
+  },
+  "Lightning Morning Star": {
+    "ID": 11050600,
+    "materialSetId": 0
+  },
+  "Sacred Morning Star": {
+    "ID": 11050700,
+    "materialSetId": 0
+  },
+  "Magic Morning Star": {
+    "ID": 11050800,
+    "materialSetId": 0
+  },
+  "Cold Morning Star": {
+    "ID": 11050900,
+    "materialSetId": 0
+  },
+  "Poison Morning Star": {
+    "ID": 11051000,
+    "materialSetId": 0
+  },
+  "Blood Morning Star": {
+    "ID": 11051100,
+    "materialSetId": 0
+  },
+  "Occult Morning Star": {
+    "ID": 11051200,
+    "materialSetId": 0
+  },
+  "Varré's Bouquet": {
+    "ID": 11060000,
+    "materialSetId": 2200
+  },
+  "Spiked Club": {
+    "ID": 11070000,
+    "materialSetId": 0
+  },
+  "Fire Spiked Club": {
+    "ID": 11070400,
+    "materialSetId": 0
+  },
+  "Flame Art Spiked Club": {
+    "ID": 11070500,
+    "materialSetId": 0
+  },
+  "Lightning Spiked Club": {
+    "ID": 11070600,
+    "materialSetId": 0
+  },
+  "Sacred Spiked Club": {
+    "ID": 11070700,
+    "materialSetId": 0
+  },
+  "Magic Spiked Club": {
+    "ID": 11070800,
+    "materialSetId": 0
+  },
+  "Cold Spiked Club": {
+    "ID": 11070900,
+    "materialSetId": 0
+  },
+  "Poison Spiked Club": {
+    "ID": 11071000,
+    "materialSetId": 0
+  },
+  "Blood Spiked Club": {
+    "ID": 11071100,
+    "materialSetId": 0
+  },
+  "Occult Spiked Club": {
+    "ID": 11071200,
+    "materialSetId": 0
+  },
+  "Hammer": {
+    "ID": 11080000,
+    "materialSetId": 0
+  },
+  "Fire Hammer": {
+    "ID": 11080400,
+    "materialSetId": 0
+  },
+  "Flame Art Hammer": {
+    "ID": 11080500,
+    "materialSetId": 0
+  },
+  "Lightning Hammer": {
+    "ID": 11080600,
+    "materialSetId": 0
+  },
+  "Sacred Hammer": {
+    "ID": 11080700,
+    "materialSetId": 0
+  },
+  "Magic Hammer": {
+    "ID": 11080800,
+    "materialSetId": 0
+  },
+  "Cold Hammer": {
+    "ID": 11080900,
+    "materialSetId": 0
+  },
+  "Poison Hammer": {
+    "ID": 11081000,
+    "materialSetId": 0
+  },
+  "Blood Hammer": {
+    "ID": 11081100,
+    "materialSetId": 0
+  },
+  "Occult Hammer": {
+    "ID": 11081200,
+    "materialSetId": 0
+  },
+  "Monk's Flamemace": {
+    "ID": 11090000,
+    "materialSetId": 0
+  },
+  "Monk's Heavy Flamemace": {
+    "ID": 11090100,
+    "materialSetId": 0
+  },
+  "Monk's Keen Flamemace": {
+    "ID": 11090200,
+    "materialSetId": 0
+  },
+  "Monk's Quality Flamemace": {
+    "ID": 11090300,
+    "materialSetId": 0
+  },
+  "Monk's Fire Flamemace": {
+    "ID": 11090400,
+    "materialSetId": 0
+  },
+  "Monk's Flame Art Flamemace": {
+    "ID": 11090500,
+    "materialSetId": 0
+  },
+  "Monk's Lightning Flamemace": {
+    "ID": 11090600,
+    "materialSetId": 0
+  },
+  "Monk's Sacred Flamemace": {
+    "ID": 11090700,
+    "materialSetId": 0
+  },
+  "Monk's Magic Flamemace": {
+    "ID": 11090800,
+    "materialSetId": 0
+  },
+  "Monk's Cold Flamemace": {
+    "ID": 11090900,
+    "materialSetId": 0
+  },
+  "Monk's Poison Flamemace": {
+    "ID": 11091000,
+    "materialSetId": 0
+  },
+  "Monk's Blood Flamemace": {
+    "ID": 11091100,
+    "materialSetId": 0
+  },
+  "Monk's Occult Flamemace": {
+    "ID": 11091200,
+    "materialSetId": 0
+  },
+  "Envoy's Horn": {
+    "ID": 11100000,
+    "materialSetId": 2200
+  },
+  "Scepter of the All-Knowing": {
+    "ID": 11110000,
+    "materialSetId": 2200
+  },
+  "Nox Flowing Hammer": {
+    "ID": 11120000,
+    "materialSetId": 2200
+  },
+  "Ringed Finger": {
+    "ID": 11130000,
+    "materialSetId": 2200
+  },
+  "Stone Club": {
+    "ID": 11140000,
+    "materialSetId": 0
+  },
+  "Fire Stone Club": {
+    "ID": 11140400,
+    "materialSetId": 0
+  },
+  "Flame Art Stone Club": {
+    "ID": 11140500,
+    "materialSetId": 0
+  },
+  "Lightning Stone Club": {
+    "ID": 11140600,
+    "materialSetId": 0
+  },
+  "Sacred Stone Club": {
+    "ID": 11140700,
+    "materialSetId": 0
+  },
+  "Magic Stone Club": {
+    "ID": 11140800,
+    "materialSetId": 0
+  },
+  "Cold Stone Club": {
+    "ID": 11140900,
+    "materialSetId": 0
+  },
+  "Poison Stone Club": {
+    "ID": 11141000,
+    "materialSetId": 0
+  },
+  "Blood Stone Club": {
+    "ID": 11141100,
+    "materialSetId": 0
+  },
+  "Occult Stone Club": {
+    "ID": 11141200,
+    "materialSetId": 0
+  },
+  "Marika's Hammer": {
+    "ID": 11150000,
+    "materialSetId": 2200
+  },
+  "Large Club": {
+    "ID": 12000000,
+    "materialSetId": 0
+  },
+  "Fire Large Club": {
+    "ID": 12000400,
+    "materialSetId": 0
+  },
+  "Flame Art Large Club": {
+    "ID": 12000500,
+    "materialSetId": 0
+  },
+  "Lightning Large Club": {
+    "ID": 12000600,
+    "materialSetId": 0
+  },
+  "Sacred Large Club": {
+    "ID": 12000700,
+    "materialSetId": 0
+  },
+  "Magic Large Club": {
+    "ID": 12000800,
+    "materialSetId": 0
+  },
+  "Cold Large Club": {
+    "ID": 12000900,
+    "materialSetId": 0
+  },
+  "Poison Large Club": {
+    "ID": 12001000,
+    "materialSetId": 0
+  },
+  "Blood Large Club": {
+    "ID": 12001100,
+    "materialSetId": 0
+  },
+  "Occult Large Club": {
+    "ID": 12001200,
+    "materialSetId": 0
+  },
+  "Greathorn Hammer": {
+    "ID": 12010000,
+    "materialSetId": 0
+  },
+  "Fire Greathorn Hammer": {
+    "ID": 12010400,
+    "materialSetId": 0
+  },
+  "Flame Art Greathorn Hammer": {
+    "ID": 12010500,
+    "materialSetId": 0
+  },
+  "Lightning Greathorn Hammer": {
+    "ID": 12010600,
+    "materialSetId": 0
+  },
+  "Sacred Greathorn Hammer": {
+    "ID": 12010700,
+    "materialSetId": 0
+  },
+  "Magic Greathorn Hammer": {
+    "ID": 12010800,
+    "materialSetId": 0
+  },
+  "Cold Greathorn Hammer": {
+    "ID": 12010900,
+    "materialSetId": 0
+  },
+  "Poison Greathorn Hammer": {
+    "ID": 12011000,
+    "materialSetId": 0
+  },
+  "Blood Greathorn Hammer": {
+    "ID": 12011100,
+    "materialSetId": 0
+  },
+  "Occult Greathorn Hammer": {
+    "ID": 12011200,
+    "materialSetId": 0
+  },
+  "Battle Hammer": {
+    "ID": 12020000,
+    "materialSetId": 0
+  },
+  "Fire Battle Hammer": {
+    "ID": 12020400,
+    "materialSetId": 0
+  },
+  "Flame Art Battle Hammer": {
+    "ID": 12020500,
+    "materialSetId": 0
+  },
+  "Lightning Battle Hammer": {
+    "ID": 12020600,
+    "materialSetId": 0
+  },
+  "Sacred Battle Hammer": {
+    "ID": 12020700,
+    "materialSetId": 0
+  },
+  "Magic Battle Hammer": {
+    "ID": 12020800,
+    "materialSetId": 0
+  },
+  "Cold Battle Hammer": {
+    "ID": 12020900,
+    "materialSetId": 0
+  },
+  "Poison Battle Hammer": {
+    "ID": 12021000,
+    "materialSetId": 0
+  },
+  "Blood Battle Hammer": {
+    "ID": 12021100,
+    "materialSetId": 0
+  },
+  "Occult Battle Hammer": {
+    "ID": 12021200,
+    "materialSetId": 0
+  },
+  "Great Mace": {
+    "ID": 12060000,
+    "materialSetId": 0
+  },
+  "Fire Great Mace": {
+    "ID": 12060400,
+    "materialSetId": 0
+  },
+  "Flame Art Great Mace": {
+    "ID": 12060500,
+    "materialSetId": 0
+  },
+  "Lightning Great Mace": {
+    "ID": 12060600,
+    "materialSetId": 0
+  },
+  "Sacred Great Mace": {
+    "ID": 12060700,
+    "materialSetId": 0
+  },
+  "Magic Great Mace": {
+    "ID": 12060800,
+    "materialSetId": 0
+  },
+  "Cold Great Mace": {
+    "ID": 12060900,
+    "materialSetId": 0
+  },
+  "Poison Great Mace": {
+    "ID": 12061000,
+    "materialSetId": 0
+  },
+  "Blood Great Mace": {
+    "ID": 12061100,
+    "materialSetId": 0
+  },
+  "Occult Great Mace": {
+    "ID": 12061200,
+    "materialSetId": 0
+  },
+  "Curved Great Club": {
+    "ID": 12080000,
+    "materialSetId": 0
+  },
+  "Fire Curved Great Club": {
+    "ID": 12080400,
+    "materialSetId": 0
+  },
+  "Flame Art Curved Great Club": {
+    "ID": 12080500,
+    "materialSetId": 0
+  },
+  "Lightning Curved Great Club": {
+    "ID": 12080600,
+    "materialSetId": 0
+  },
+  "Sacred Curved Great Club": {
+    "ID": 12080700,
+    "materialSetId": 0
+  },
+  "Magic Curved Great Club": {
+    "ID": 12080800,
+    "materialSetId": 0
+  },
+  "Cold Curved Great Club": {
+    "ID": 12080900,
+    "materialSetId": 0
+  },
+  "Poison Curved Great Club": {
+    "ID": 12081000,
+    "materialSetId": 0
+  },
+  "Blood Curved Great Club": {
+    "ID": 12081100,
+    "materialSetId": 0
+  },
+  "Occult Curved Great Club": {
+    "ID": 12081200,
+    "materialSetId": 0
+  },
+  "Celebrant's Skull": {
+    "ID": 12130000,
+    "materialSetId": 0
+  },
+  "Celebrant's Heavy Skull": {
+    "ID": 12130100,
+    "materialSetId": 0
+  },
+  "Celebrant's Keen Skull": {
+    "ID": 12130200,
+    "materialSetId": 0
+  },
+  "Celebrant's Quality Skull": {
+    "ID": 12130300,
+    "materialSetId": 0
+  },
+  "Celebrant's Fire Skull": {
+    "ID": 12130400,
+    "materialSetId": 0
+  },
+  "Celebrant's Flame Art Skull": {
+    "ID": 12130500,
+    "materialSetId": 0
+  },
+  "Celebrant's Lightning Skull": {
+    "ID": 12130600,
+    "materialSetId": 0
+  },
+  "Celebrant's Sacred Skull": {
+    "ID": 12130700,
+    "materialSetId": 0
+  },
+  "Celebrant's Magic Skull": {
+    "ID": 12130800,
+    "materialSetId": 0
+  },
+  "Celebrant's Cold Skull": {
+    "ID": 12130900,
+    "materialSetId": 0
+  },
+  "Celebrant's Poison Skull": {
+    "ID": 12131000,
+    "materialSetId": 0
+  },
+  "Celebrant's Blood Skull": {
+    "ID": 12131100,
+    "materialSetId": 0
+  },
+  "Celebrant's Occult Skull": {
+    "ID": 12131200,
+    "materialSetId": 0
+  },
+  "Pickaxe": {
+    "ID": 12140000,
+    "materialSetId": 0
+  },
+  "Fire Pickaxe": {
+    "ID": 12140400,
+    "materialSetId": 0
+  },
+  "Flame Art Pickaxe": {
+    "ID": 12140500,
+    "materialSetId": 0
+  },
+  "Lightning Pickaxe": {
+    "ID": 12140600,
+    "materialSetId": 0
+  },
+  "Sacred Pickaxe": {
+    "ID": 12140700,
+    "materialSetId": 0
+  },
+  "Magic Pickaxe": {
+    "ID": 12140800,
+    "materialSetId": 0
+  },
+  "Cold Pickaxe": {
+    "ID": 12140900,
+    "materialSetId": 0
+  },
+  "Poison Pickaxe": {
+    "ID": 12141000,
+    "materialSetId": 0
+  },
+  "Blood Pickaxe": {
+    "ID": 12141100,
+    "materialSetId": 0
+  },
+  "Occult Pickaxe": {
+    "ID": 12141200,
+    "materialSetId": 0
+  },
+  "Beastclaw Greathammer": {
+    "ID": 12150000,
+    "materialSetId": 2200
+  },
+  "Envoy's Long Horn": {
+    "ID": 12160000,
+    "materialSetId": 2200
+  },
+  "Cranial Vessel Candlestand": {
+    "ID": 12170000,
+    "materialSetId": 2200
+  },
+  "Great Stars": {
+    "ID": 12180000,
+    "materialSetId": 0
+  },
+  "Fire Great Stars": {
+    "ID": 12180400,
+    "materialSetId": 0
+  },
+  "Flame Art Great Stars": {
+    "ID": 12180500,
+    "materialSetId": 0
+  },
+  "Lightning Great Stars": {
+    "ID": 12180600,
+    "materialSetId": 0
+  },
+  "Sacred Great Stars": {
+    "ID": 12180700,
+    "materialSetId": 0
+  },
+  "Magic Great Stars": {
+    "ID": 12180800,
+    "materialSetId": 0
+  },
+  "Cold Great Stars": {
+    "ID": 12180900,
+    "materialSetId": 0
+  },
+  "Poison Great Stars": {
+    "ID": 12181000,
+    "materialSetId": 0
+  },
+  "Blood Great Stars": {
+    "ID": 12181100,
+    "materialSetId": 0
+  },
+  "Occult Great Stars": {
+    "ID": 12181200,
+    "materialSetId": 0
+  },
+  "Brick Hammer": {
+    "ID": 12190000,
+    "materialSetId": 0
+  },
+  "Fire Brick Hammer": {
+    "ID": 12190400,
+    "materialSetId": 0
+  },
+  "Flame Art Brick Hammer": {
+    "ID": 12190500,
+    "materialSetId": 0
+  },
+  "Lightning Brick Hammer": {
+    "ID": 12190600,
+    "materialSetId": 0
+  },
+  "Sacred Brick Hammer": {
+    "ID": 12190700,
+    "materialSetId": 0
+  },
+  "Magic Brick Hammer": {
+    "ID": 12190800,
+    "materialSetId": 0
+  },
+  "Cold Brick Hammer": {
+    "ID": 12190900,
+    "materialSetId": 0
+  },
+  "Poison Brick Hammer": {
+    "ID": 12191000,
+    "materialSetId": 0
+  },
+  "Blood Brick Hammer": {
+    "ID": 12191100,
+    "materialSetId": 0
+  },
+  "Occult Brick Hammer": {
+    "ID": 12191200,
+    "materialSetId": 0
+  },
+  "Devourer's Scepter": {
+    "ID": 12200000,
+    "materialSetId": 2200
+  },
+  "Rotten Battle Hammer": {
+    "ID": 12210000,
+    "materialSetId": 0
+  },
+  "Fire Rotten Battle Hammer": {
+    "ID": 12210400,
+    "materialSetId": 0
+  },
+  "Flame Art Rotten Battle Hammer": {
+    "ID": 12210500,
+    "materialSetId": 0
+  },
+  "Lightning Rotten Battle Hammer": {
+    "ID": 12210600,
+    "materialSetId": 0
+  },
+  "Sacred Rotten Battle Hammer": {
+    "ID": 12210700,
+    "materialSetId": 0
+  },
+  "Magic Rotten Battle Hammer": {
+    "ID": 12210800,
+    "materialSetId": 0
+  },
+  "Cold Rotten Battle Hammer": {
+    "ID": 12210900,
+    "materialSetId": 0
+  },
+  "Poison Rotten Battle Hammer": {
+    "ID": 12211000,
+    "materialSetId": 0
+  },
+  "Blood Rotten Battle Hammer": {
+    "ID": 12211100,
+    "materialSetId": 0
+  },
+  "Occult Rotten Battle Hammer": {
+    "ID": 12211200,
+    "materialSetId": 0
+  },
+  "Nightrider Flail": {
+    "ID": 13000000,
+    "materialSetId": 0
+  },
+  "Fire Nightrider Flail": {
+    "ID": 13000400,
+    "materialSetId": 0
+  },
+  "Flame Art Nightrider Flail": {
+    "ID": 13000500,
+    "materialSetId": 0
+  },
+  "Lightning Nightrider Flail": {
+    "ID": 13000600,
+    "materialSetId": 0
+  },
+  "Sacred Nightrider Flail": {
+    "ID": 13000700,
+    "materialSetId": 0
+  },
+  "Magic Nightrider Flail": {
+    "ID": 13000800,
+    "materialSetId": 0
+  },
+  "Cold Nightrider Flail": {
+    "ID": 13000900,
+    "materialSetId": 0
+  },
+  "Poison Nightrider Flail": {
+    "ID": 13001000,
+    "materialSetId": 0
+  },
+  "Blood Nightrider Flail": {
+    "ID": 13001100,
+    "materialSetId": 0
+  },
+  "Occult Nightrider Flail": {
+    "ID": 13001200,
+    "materialSetId": 0
+  },
+  "Flail": {
+    "ID": 13010000,
+    "materialSetId": 0
+  },
+  "Fire Flail": {
+    "ID": 13010400,
+    "materialSetId": 0
+  },
+  "Flame Art Flail": {
+    "ID": 13010500,
+    "materialSetId": 0
+  },
+  "Lightning Flail": {
+    "ID": 13010600,
+    "materialSetId": 0
+  },
+  "Sacred Flail": {
+    "ID": 13010700,
+    "materialSetId": 0
+  },
+  "Magic Flail": {
+    "ID": 13010800,
+    "materialSetId": 0
+  },
+  "Cold Flail": {
+    "ID": 13010900,
+    "materialSetId": 0
+  },
+  "Poison Flail": {
+    "ID": 13011000,
+    "materialSetId": 0
+  },
+  "Blood Flail": {
+    "ID": 13011100,
+    "materialSetId": 0
+  },
+  "Occult Flail": {
+    "ID": 13011200,
+    "materialSetId": 0
+  },
+  "Family Heads": {
+    "ID": 13020000,
+    "materialSetId": 2200
+  },
+  "Bastard's Stars": {
+    "ID": 13030000,
+    "materialSetId": 2200
+  },
+  "Chainlink Flail": {
+    "ID": 13040000,
+    "materialSetId": 0
+  },
+  "Fire Chainlink Flail": {
+    "ID": 13040400,
+    "materialSetId": 0
+  },
+  "Flame Art Chainlink Flail": {
+    "ID": 13040500,
+    "materialSetId": 0
+  },
+  "Lightning Chainlink Flail": {
+    "ID": 13040600,
+    "materialSetId": 0
+  },
+  "Sacred Chainlink Flail": {
+    "ID": 13040700,
+    "materialSetId": 0
+  },
+  "Magic Chainlink Flail": {
+    "ID": 13040800,
+    "materialSetId": 0
+  },
+  "Cold Chainlink Flail": {
+    "ID": 13040900,
+    "materialSetId": 0
+  },
+  "Poison Chainlink Flail": {
+    "ID": 13041000,
+    "materialSetId": 0
+  },
+  "Blood Chainlink Flail": {
+    "ID": 13041100,
+    "materialSetId": 0
+  },
+  "Occult Chainlink Flail": {
+    "ID": 13041200,
+    "materialSetId": 0
+  },
+  "Battle Axe": {
+    "ID": 14000000,
+    "materialSetId": 0
+  },
+  "Fire Battle Axe": {
+    "ID": 14000400,
+    "materialSetId": 0
+  },
+  "Flame Art Battle Axe": {
+    "ID": 14000500,
+    "materialSetId": 0
+  },
+  "Lightning Battle Axe": {
+    "ID": 14000600,
+    "materialSetId": 0
+  },
+  "Sacred Battle Axe": {
+    "ID": 14000700,
+    "materialSetId": 0
+  },
+  "Magic Battle Axe": {
+    "ID": 14000800,
+    "materialSetId": 0
+  },
+  "Cold Battle Axe": {
+    "ID": 14000900,
+    "materialSetId": 0
+  },
+  "Poison Battle Axe": {
+    "ID": 14001000,
+    "materialSetId": 0
+  },
+  "Blood Battle Axe": {
+    "ID": 14001100,
+    "materialSetId": 0
+  },
+  "Occult Battle Axe": {
+    "ID": 14001200,
+    "materialSetId": 0
+  },
+  "Forked Hatchet": {
+    "ID": 14010000,
+    "materialSetId": 0
+  },
+  "Fire Forked Hatchet": {
+    "ID": 14010400,
+    "materialSetId": 0
+  },
+  "Flame Art Forked Hatchet": {
+    "ID": 14010500,
+    "materialSetId": 0
+  },
+  "Lightning Forked Hatchet": {
+    "ID": 14010600,
+    "materialSetId": 0
+  },
+  "Sacred Forked Hatchet": {
+    "ID": 14010700,
+    "materialSetId": 0
+  },
+  "Magic Forked Hatchet": {
+    "ID": 14010800,
+    "materialSetId": 0
+  },
+  "Cold Forked Hatchet": {
+    "ID": 14010900,
+    "materialSetId": 0
+  },
+  "Poison Forked Hatchet": {
+    "ID": 14011000,
+    "materialSetId": 0
+  },
+  "Blood Forked Hatchet": {
+    "ID": 14011100,
+    "materialSetId": 0
+  },
+  "Occult Forked Hatchet": {
+    "ID": 14011200,
+    "materialSetId": 0
+  },
+  "Hand Axe": {
+    "ID": 14020000,
+    "materialSetId": 0
+  },
+  "Fire Hand Axe": {
+    "ID": 14020400,
+    "materialSetId": 0
+  },
+  "Flame Art Hand Axe": {
+    "ID": 14020500,
+    "materialSetId": 0
+  },
+  "Lightning Hand Axe": {
+    "ID": 14020600,
+    "materialSetId": 0
+  },
+  "Sacred Hand Axe": {
+    "ID": 14020700,
+    "materialSetId": 0
+  },
+  "Magic Hand Axe": {
+    "ID": 14020800,
+    "materialSetId": 0
+  },
+  "Cold Hand Axe": {
+    "ID": 14020900,
+    "materialSetId": 0
+  },
+  "Poison Hand Axe": {
+    "ID": 14021000,
+    "materialSetId": 0
+  },
+  "Blood Hand Axe": {
+    "ID": 14021100,
+    "materialSetId": 0
+  },
+  "Occult Hand Axe": {
+    "ID": 14021200,
+    "materialSetId": 0
+  },
+  "Jawbone Axe": {
+    "ID": 14030000,
+    "materialSetId": 0
+  },
+  "Fire Jawbone Axe": {
+    "ID": 14030400,
+    "materialSetId": 0
+  },
+  "Flame Art Jawbone Axe": {
+    "ID": 14030500,
+    "materialSetId": 0
+  },
+  "Lightning Jawbone Axe": {
+    "ID": 14030600,
+    "materialSetId": 0
+  },
+  "Sacred Jawbone Axe": {
+    "ID": 14030700,
+    "materialSetId": 0
+  },
+  "Magic Jawbone Axe": {
+    "ID": 14030800,
+    "materialSetId": 0
+  },
+  "Cold Jawbone Axe": {
+    "ID": 14030900,
+    "materialSetId": 0
+  },
+  "Poison Jawbone Axe": {
+    "ID": 14031000,
+    "materialSetId": 0
+  },
+  "Blood Jawbone Axe": {
+    "ID": 14031100,
+    "materialSetId": 0
+  },
+  "Occult Jawbone Axe": {
+    "ID": 14031200,
+    "materialSetId": 0
+  },
+  "Iron Cleaver": {
+    "ID": 14040000,
+    "materialSetId": 0
+  },
+  "Fire Iron Cleaver": {
+    "ID": 14040400,
+    "materialSetId": 0
+  },
+  "Flame Art Iron Cleaver": {
+    "ID": 14040500,
+    "materialSetId": 0
+  },
+  "Lightning Iron Cleaver": {
+    "ID": 14040600,
+    "materialSetId": 0
+  },
+  "Sacred Iron Cleaver": {
+    "ID": 14040700,
+    "materialSetId": 0
+  },
+  "Magic Iron Cleaver": {
+    "ID": 14040800,
+    "materialSetId": 0
+  },
+  "Cold Iron Cleaver": {
+    "ID": 14040900,
+    "materialSetId": 0
+  },
+  "Poison Iron Cleaver": {
+    "ID": 14041000,
+    "materialSetId": 0
+  },
+  "Blood Iron Cleaver": {
+    "ID": 14041100,
+    "materialSetId": 0
+  },
+  "Occult Iron Cleaver": {
+    "ID": 14041200,
+    "materialSetId": 0
+  },
+  "Ripple Blade": {
+    "ID": 14050000,
+    "materialSetId": 0
+  },
+  "Celebrant's Cleaver": {
+    "ID": 14060000,
+    "materialSetId": 0
+  },
+  "Celebrant's Heavy Cleaver": {
+    "ID": 14060100,
+    "materialSetId": 0
+  },
+  "Celebrant's Keen Cleaver": {
+    "ID": 14060200,
+    "materialSetId": 0
+  },
+  "Celebrant's Quality Cleaver": {
+    "ID": 14060300,
+    "materialSetId": 0
+  },
+  "Celebrant's Fire Cleaver": {
+    "ID": 14060400,
+    "materialSetId": 0
+  },
+  "Celebrant's Flame Art Cleaver Blades": {
+    "ID": 14060500,
+    "materialSetId": 0
+  },
+  "Celebrant's Lightning Cleaver": {
+    "ID": 14060600,
+    "materialSetId": 0
+  },
+  "Celebrant's Sacred Cleaver": {
+    "ID": 14060700,
+    "materialSetId": 0
+  },
+  "Celebrant's Magic Cleaver": {
+    "ID": 14060800,
+    "materialSetId": 0
+  },
+  "Celebrant's Cold Cleaver": {
+    "ID": 14060900,
+    "materialSetId": 0
+  },
+  "Celebrant's Poison Cleaver": {
+    "ID": 14061000,
+    "materialSetId": 0
+  },
+  "Celebrant's Blood Cleaver": {
+    "ID": 14061100,
+    "materialSetId": 0
+  },
+  "Celebrant's Occult Cleaver": {
+    "ID": 14061200,
+    "materialSetId": 0
+  },
+  "Icerind Hatchet": {
+    "ID": 14080000,
+    "materialSetId": 2200
+  },
+  "Highland Axe": {
+    "ID": 14100000,
+    "materialSetId": 0
+  },
+  "Fire Highland Axe": {
+    "ID": 14100400,
+    "materialSetId": 0
+  },
+  "Flame Art Highland Axe": {
+    "ID": 14100500,
+    "materialSetId": 0
+  },
+  "Lightning Highland Axe": {
+    "ID": 14100600,
+    "materialSetId": 0
+  },
+  "Sacred Highland Axe": {
+    "ID": 14100700,
+    "materialSetId": 0
+  },
+  "Magic Highland Axe": {
+    "ID": 14100800,
+    "materialSetId": 0
+  },
+  "Cold Highland Axe": {
+    "ID": 14100900,
+    "materialSetId": 0
+  },
+  "Poison Highland Axe": {
+    "ID": 14101000,
+    "materialSetId": 0
+  },
+  "Bloody Highland Axe": {
+    "ID": 14101100,
+    "materialSetId": 0
+  },
+  "Occult Highland Axe": {
+    "ID": 14101200,
+    "materialSetId": 0
+  },
+  "Sacrificial Axe": {
+    "ID": 14110000,
+    "materialSetId": 0
+  },
+  "Fire Sacrificial Axe": {
+    "ID": 14110400,
+    "materialSetId": 0
+  },
+  "Flame Art Sacrificial Axe": {
+    "ID": 14110500,
+    "materialSetId": 0
+  },
+  "Lightning Sacrificial Axe": {
+    "ID": 14110600,
+    "materialSetId": 0
+  },
+  "Sacred Sacrificial Axe": {
+    "ID": 14110700,
+    "materialSetId": 0
+  },
+  "Magic Sacrificial Axe": {
+    "ID": 14110800,
+    "materialSetId": 0
+  },
+  "Cold Sacrificial Axe": {
+    "ID": 14110900,
+    "materialSetId": 0
+  },
+  "Poison Sacrificial Axe": {
+    "ID": 14111000,
+    "materialSetId": 0
+  },
+  "Blood Sacrificial Axe": {
+    "ID": 14111100,
+    "materialSetId": 0
+  },
+  "Occult Sacrificial Axe": {
+    "ID": 14111200,
+    "materialSetId": 0
+  },
+  "Rosus' Axe": {
+    "ID": 14120000,
+    "materialSetId": 2200
+  },
+  "Stormhawk Axe": {
+    "ID": 14140000,
+    "materialSetId": 2200
+  },
+  "Greataxe": {
+    "ID": 15000000,
+    "materialSetId": 0
+  },
+  "Fire Greataxe": {
+    "ID": 15000400,
+    "materialSetId": 0
+  },
+  "Flame Art Greataxe": {
+    "ID": 15000500,
+    "materialSetId": 0
+  },
+  "Lightning Greataxe": {
+    "ID": 15000600,
+    "materialSetId": 0
+  },
+  "Sacred Greataxe": {
+    "ID": 15000700,
+    "materialSetId": 0
+  },
+  "Magic Greataxe": {
+    "ID": 15000800,
+    "materialSetId": 0
+  },
+  "Cold Greataxe": {
+    "ID": 15000900,
+    "materialSetId": 0
+  },
+  "Poison Greataxe": {
+    "ID": 15001000,
+    "materialSetId": 0
+  },
+  "Blood Greataxe": {
+    "ID": 15001100,
+    "materialSetId": 0
+  },
+  "Occult Greataxe": {
+    "ID": 15001200,
+    "materialSetId": 0
+  },
+  "Warped Axe": {
+    "ID": 15010000,
+    "materialSetId": 0
+  },
+  "Fire Warped Axe": {
+    "ID": 15010400,
+    "materialSetId": 0
+  },
+  "Flame Art Warped Axe": {
+    "ID": 15010500,
+    "materialSetId": 0
+  },
+  "Lightning Warped Axe": {
+    "ID": 15010600,
+    "materialSetId": 0
+  },
+  "Sacred Warped Axe": {
+    "ID": 15010700,
+    "materialSetId": 0
+  },
+  "Magic Warped Axe": {
+    "ID": 15010800,
+    "materialSetId": 0
+  },
+  "Cold Warped Axe": {
+    "ID": 15010900,
+    "materialSetId": 0
+  },
+  "Poison Warped Axe": {
+    "ID": 15011000,
+    "materialSetId": 0
+  },
+  "Blood Warped Axe": {
+    "ID": 15011100,
+    "materialSetId": 0
+  },
+  "Occult Warped Axe": {
+    "ID": 15011200,
+    "materialSetId": 0
+  },
+  "Great Omenkiller Cleaver": {
+    "ID": 15020000,
+    "materialSetId": 0
+  },
+  "Fire Great Omenkiller Cleaver": {
+    "ID": 15020400,
+    "materialSetId": 0
+  },
+  "Flame Art Great Omenkiller Cleaver": {
+    "ID": 15020500,
+    "materialSetId": 0
+  },
+  "Lightning Great Omenkiller Cleaver": {
+    "ID": 15020600,
+    "materialSetId": 0
+  },
+  "Sacred Great Omenkiller Cleaver": {
+    "ID": 15020700,
+    "materialSetId": 0
+  },
+  "Magic Great Omenkiller Cleaver": {
+    "ID": 15020800,
+    "materialSetId": 0
+  },
+  "Cold Great Omenkiller Cleaver": {
+    "ID": 15020900,
+    "materialSetId": 0
+  },
+  "Poison Great Omenkiller Cleaver": {
+    "ID": 15021000,
+    "materialSetId": 0
+  },
+  "Blood Great Omenkiller Cleaver": {
+    "ID": 15021100,
+    "materialSetId": 0
+  },
+  "Occult Great Omenkiller Cleaver": {
+    "ID": 15021200,
+    "materialSetId": 0
+  },
+  "Crescent Moon Axe": {
+    "ID": 15030000,
+    "materialSetId": 0
+  },
+  "Fire Crescent Moon Axe": {
+    "ID": 15030400,
+    "materialSetId": 0
+  },
+  "Flame Art Crescent Moon Axe": {
+    "ID": 15030500,
+    "materialSetId": 0
+  },
+  "Lightning Crescent Moon Axe": {
+    "ID": 15030600,
+    "materialSetId": 0
+  },
+  "Sacred Crescent Moon Axe": {
+    "ID": 15030700,
+    "materialSetId": 0
+  },
+  "Magic Crescent Moon Axe": {
+    "ID": 15030800,
+    "materialSetId": 0
+  },
+  "Cold Crescent Moon Axe": {
+    "ID": 15030900,
+    "materialSetId": 0
+  },
+  "Poison Crescent Moon Axe": {
+    "ID": 15031000,
+    "materialSetId": 0
+  },
+  "Blood Crescent Moon Axe": {
+    "ID": 15031100,
+    "materialSetId": 0
+  },
+  "Occult Crescent Moon Axe": {
+    "ID": 15031200,
+    "materialSetId": 0
+  },
+  "Axe of Godrick": {
+    "ID": 15040000,
+    "materialSetId": 2200
+  },
+  "Longhaft Axe": {
+    "ID": 15050000,
+    "materialSetId": 0
+  },
+  "Fire Longhaft Axe": {
+    "ID": 15050400,
+    "materialSetId": 0
+  },
+  "Flame Art Longhaft Axe": {
+    "ID": 15050500,
+    "materialSetId": 0
+  },
+  "Lightning Longhaft Axe": {
+    "ID": 15050600,
+    "materialSetId": 0
+  },
+  "Sacred Longhaft Axe": {
+    "ID": 15050700,
+    "materialSetId": 0
+  },
+  "Magic Longhaft Axe": {
+    "ID": 15050800,
+    "materialSetId": 0
+  },
+  "Cold Longhaft Axe": {
+    "ID": 15050900,
+    "materialSetId": 0
+  },
+  "Poison Longhaft Axe": {
+    "ID": 15051000,
+    "materialSetId": 0
+  },
+  "Blood Longhaft Axe": {
+    "ID": 15051100,
+    "materialSetId": 0
+  },
+  "Occult Longhaft Axe": {
+    "ID": 15051200,
+    "materialSetId": 0
+  },
+  "Rusted Anchor": {
+    "ID": 15060000,
+    "materialSetId": 0
+  },
+  "Fire Rusted Anchor": {
+    "ID": 15060400,
+    "materialSetId": 0
+  },
+  "Flame Art Rusted Anchor": {
+    "ID": 15060500,
+    "materialSetId": 0
+  },
+  "Lightning Rusted Anchor": {
+    "ID": 15060600,
+    "materialSetId": 0
+  },
+  "Sacred Rusted Anchor": {
+    "ID": 15060700,
+    "materialSetId": 0
+  },
+  "Magic Rusted Anchor": {
+    "ID": 15060800,
+    "materialSetId": 0
+  },
+  "Cold Rusted Anchor": {
+    "ID": 15060900,
+    "materialSetId": 0
+  },
+  "Poison Rusted Anchor": {
+    "ID": 15061000,
+    "materialSetId": 0
+  },
+  "Blood Rusted Anchor": {
+    "ID": 15061100,
+    "materialSetId": 0
+  },
+  "Occult Rusted Anchor": {
+    "ID": 15061200,
+    "materialSetId": 0
+  },
+  "Executioner's Greataxe": {
+    "ID": 15080000,
+    "materialSetId": 0
+  },
+  "Executioner's Heavy Greataxe": {
+    "ID": 15080100,
+    "materialSetId": 0
+  },
+  "Executioner's Keen Greataxe": {
+    "ID": 15080200,
+    "materialSetId": 0
+  },
+  "Executioner's Quality Greataxe": {
+    "ID": 15080300,
+    "materialSetId": 0
+  },
+  "Executioner's Fire Greataxe": {
+    "ID": 15080400,
+    "materialSetId": 0
+  },
+  "Executioner's Flame Art Greataxe": {
+    "ID": 15080500,
+    "materialSetId": 0
+  },
+  "Executioner's Lightning Greataxe": {
+    "ID": 15080600,
+    "materialSetId": 0
+  },
+  "Executioner's Sacred Greataxe": {
+    "ID": 15080700,
+    "materialSetId": 0
+  },
+  "Executioner's Magic Greataxe": {
+    "ID": 15080800,
+    "materialSetId": 0
+  },
+  "Executioner's Cold Greataxe": {
+    "ID": 15080900,
+    "materialSetId": 0
+  },
+  "Executioner's Poison Greataxe": {
+    "ID": 15081000,
+    "materialSetId": 0
+  },
+  "Executioner's Blood Greataxe": {
+    "ID": 15081100,
+    "materialSetId": 0
+  },
+  "Executioner's Occult Greataxe": {
+    "ID": 15081200,
+    "materialSetId": 0
+  },
+  "Winged Greathorn": {
+    "ID": 15110000,
+    "materialSetId": 2200
+  },
+  "Butchering Knife": {
+    "ID": 15120000,
+    "materialSetId": 0
+  },
+  "Fire Butchering Knife": {
+    "ID": 15120400,
+    "materialSetId": 0
+  },
+  "Flame Art Butchering Knife": {
+    "ID": 15120500,
+    "materialSetId": 0
+  },
+  "Lightning Butchering Knife": {
+    "ID": 15120600,
+    "materialSetId": 0
+  },
+  "Sacred Butchering Knife": {
+    "ID": 15120700,
+    "materialSetId": 0
+  },
+  "Magic Butchering Knife": {
+    "ID": 15120800,
+    "materialSetId": 0
+  },
+  "Cold Butchering Knife": {
+    "ID": 15120900,
+    "materialSetId": 0
+  },
+  "Poison Butchering Knife": {
+    "ID": 15121000,
+    "materialSetId": 0
+  },
+  "Blood Butchering Knife": {
+    "ID": 15121100,
+    "materialSetId": 0
+  },
+  "Occult Butchering Knife": {
+    "ID": 15121200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Great Axe": {
+    "ID": 15130000,
+    "materialSetId": 0
+  },
+  "Gargoyle's Heavy Great Axe": {
+    "ID": 15130100,
+    "materialSetId": 0
+  },
+  "Gargoyle's Keen Great Axe": {
+    "ID": 15130200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Quality Great Axe": {
+    "ID": 15130300,
+    "materialSetId": 0
+  },
+  "Gargoyle's Fire Great Axe": {
+    "ID": 15130400,
+    "materialSetId": 0
+  },
+  "Gargoyle's Flame Art Great Axe": {
+    "ID": 15130500,
+    "materialSetId": 0
+  },
+  "Gargoyle's Lightning Great Axe": {
+    "ID": 15130600,
+    "materialSetId": 0
+  },
+  "Gargoyle's Sacred Great Axe": {
+    "ID": 15130700,
+    "materialSetId": 0
+  },
+  "Gargoyle's Magic Great Axe": {
+    "ID": 15130800,
+    "materialSetId": 0
+  },
+  "Gargoyle's Cold Great Axe": {
+    "ID": 15130900,
+    "materialSetId": 0
+  },
+  "Gargoyle's Poison Great Axe": {
+    "ID": 15131000,
+    "materialSetId": 0
+  },
+  "Gargoyle's Blood Great Axe": {
+    "ID": 15131100,
+    "materialSetId": 0
+  },
+  "Gargoyle's Occult Great Axe": {
+    "ID": 15131200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Black Axe": {
+    "ID": 15140000,
+    "materialSetId": 2200
+  },
+  "Short Spear": {
+    "ID": 16000000,
+    "materialSetId": 0
+  },
+  "Fire Short Spear": {
+    "ID": 16000400,
+    "materialSetId": 0
+  },
+  "Flame Art Short Spear": {
+    "ID": 16000500,
+    "materialSetId": 0
+  },
+  "Lightning Short Spear": {
+    "ID": 16000600,
+    "materialSetId": 0
+  },
+  "Sacred Short Spear": {
+    "ID": 16000700,
+    "materialSetId": 0
+  },
+  "Magic Short Spear": {
+    "ID": 16000800,
+    "materialSetId": 0
+  },
+  "Cold Short Spear": {
+    "ID": 16000900,
+    "materialSetId": 0
+  },
+  "Poison Short Spear": {
+    "ID": 16001000,
+    "materialSetId": 0
+  },
+  "Blood Short Spear": {
+    "ID": 16001100,
+    "materialSetId": 0
+  },
+  "Occult Short Spear": {
+    "ID": 16001200,
+    "materialSetId": 0
+  },
+  "Spear": {
+    "ID": 16010000,
+    "materialSetId": 0
+  },
+  "Fire Spear": {
+    "ID": 16010400,
+    "materialSetId": 0
+  },
+  "Flame Art Spear": {
+    "ID": 16010500,
+    "materialSetId": 0
+  },
+  "Lightning Spear": {
+    "ID": 16010600,
+    "materialSetId": 0
+  },
+  "Sacred Spear": {
+    "ID": 16010700,
+    "materialSetId": 0
+  },
+  "Magic Spear": {
+    "ID": 16010800,
+    "materialSetId": 0
+  },
+  "Cold Spear": {
+    "ID": 16010900,
+    "materialSetId": 0
+  },
+  "Poison Spear": {
+    "ID": 16011000,
+    "materialSetId": 0
+  },
+  "Bloody Spear": {
+    "ID": 16011100,
+    "materialSetId": 0
+  },
+  "Occult Spear": {
+    "ID": 16011200,
+    "materialSetId": 0
+  },
+  "Crystal Spear": {
+    "ID": 16020000,
+    "materialSetId": 2200
+  },
+  "Clayman's Harpoon": {
+    "ID": 16030000,
+    "materialSetId": 0
+  },
+  "Clayman's Heavy Harpoon": {
+    "ID": 16030100,
+    "materialSetId": 0
+  },
+  "Clayman's Keen Harpoon": {
+    "ID": 16030200,
+    "materialSetId": 0
+  },
+  "Clayman's Quality Harpoon": {
+    "ID": 16030300,
+    "materialSetId": 0
+  },
+  "Clayman's Fire Harpoon": {
+    "ID": 16030400,
+    "materialSetId": 0
+  },
+  "Clayman's Flame Art Harpoon": {
+    "ID": 16030500,
+    "materialSetId": 0
+  },
+  "Clayman's Lightning Harpoon": {
+    "ID": 16030600,
+    "materialSetId": 0
+  },
+  "Clayman's Sacred Harpoon": {
+    "ID": 16030700,
+    "materialSetId": 0
+  },
+  "Clayman's Magic Harpoon": {
+    "ID": 16030800,
+    "materialSetId": 0
+  },
+  "Clayman's Cold Harpoon": {
+    "ID": 16030900,
+    "materialSetId": 0
+  },
+  "Clayman's Poison Harpoon": {
+    "ID": 16031000,
+    "materialSetId": 0
+  },
+  "Clayman's Blood Harpoon": {
+    "ID": 16031100,
+    "materialSetId": 0
+  },
+  "Clayman's Occult Harpoon": {
+    "ID": 16031200,
+    "materialSetId": 0
+  },
+  "Cleanrot Spear": {
+    "ID": 16040000,
+    "materialSetId": 2200
+  },
+  "Partisan": {
+    "ID": 16050000,
+    "materialSetId": 0
+  },
+  "Fire Partisan": {
+    "ID": 16050400,
+    "materialSetId": 0
+  },
+  "Flame Art Partisan": {
+    "ID": 16050500,
+    "materialSetId": 0
+  },
+  "Lightning Partisan": {
+    "ID": 16050600,
+    "materialSetId": 0
+  },
+  "Sacred Partisan": {
+    "ID": 16050700,
+    "materialSetId": 0
+  },
+  "Magic Partisan": {
+    "ID": 16050800,
+    "materialSetId": 0
+  },
+  "Cold Partisan": {
+    "ID": 16050900,
+    "materialSetId": 0
+  },
+  "Poison Partisan": {
+    "ID": 16051000,
+    "materialSetId": 0
+  },
+  "Blood Partisan": {
+    "ID": 16051100,
+    "materialSetId": 0
+  },
+  "Occult Partisan": {
+    "ID": 16051200,
+    "materialSetId": 0
+  },
+  "Celebrant's Rib-Rake": {
+    "ID": 16060000,
+    "materialSetId": 0
+  },
+  "Celebrant's Heavy Rib-Rake": {
+    "ID": 16060100,
+    "materialSetId": 0
+  },
+  "Celebrant's Keen Rib-Rake": {
+    "ID": 16060200,
+    "materialSetId": 0
+  },
+  "Celebrant's Quality Rib-Rake": {
+    "ID": 16060300,
+    "materialSetId": 0
+  },
+  "Celebrant's Fire Rib-Rake": {
+    "ID": 16060400,
+    "materialSetId": 0
+  },
+  "Celebrant's Flame Art Rib-Rake": {
+    "ID": 16060500,
+    "materialSetId": 0
+  },
+  "Celebrant's Lightning Rib-Rake": {
+    "ID": 16060600,
+    "materialSetId": 0
+  },
+  "Celebrant's Sacred Rib-Rake": {
+    "ID": 16060700,
+    "materialSetId": 0
+  },
+  "Celebrant's Magic Rib-Rake": {
+    "ID": 16060800,
+    "materialSetId": 0
+  },
+  "Celebrant's Cold Rib-Rake": {
+    "ID": 16060900,
+    "materialSetId": 0
+  },
+  "Celebrant's Poison Rib-Rake": {
+    "ID": 16061000,
+    "materialSetId": 0
+  },
+  "Celebrant's Blood Rib-Rake": {
+    "ID": 16061100,
+    "materialSetId": 0
+  },
+  "Celebrant's Occult Rib-Rake": {
+    "ID": 16061200,
+    "materialSetId": 0
+  },
+  "Pike": {
+    "ID": 16070000,
+    "materialSetId": 0
+  },
+  "Fire Pike": {
+    "ID": 16070400,
+    "materialSetId": 0
+  },
+  "Flame Art Pike": {
+    "ID": 16070500,
+    "materialSetId": 0
+  },
+  "Lightning Pike": {
+    "ID": 16070600,
+    "materialSetId": 0
+  },
+  "Sacred Pike": {
+    "ID": 16070700,
+    "materialSetId": 0
+  },
+  "Magic Pike": {
+    "ID": 16070800,
+    "materialSetId": 0
+  },
+  "Cold Pike": {
+    "ID": 16070900,
+    "materialSetId": 0
+  },
+  "Poison Pike": {
+    "ID": 16071000,
+    "materialSetId": 0
+  },
+  "Blood Pike": {
+    "ID": 16071100,
+    "materialSetId": 0
+  },
+  "Occult Pike": {
+    "ID": 16071200,
+    "materialSetId": 0
+  },
+  "Torchpole": {
+    "ID": 16080000,
+    "materialSetId": 0
+  },
+  "Cross-Naginata": {
+    "ID": 16110000,
+    "materialSetId": 0
+  },
+  "Fire Cross-Naginata": {
+    "ID": 16110400,
+    "materialSetId": 0
+  },
+  "Flame Art Cross-Naginata": {
+    "ID": 16110500,
+    "materialSetId": 0
+  },
+  "Lightning Cross-Naginata": {
+    "ID": 16110600,
+    "materialSetId": 0
+  },
+  "Sacred Cross-Naginata": {
+    "ID": 16110700,
+    "materialSetId": 0
+  },
+  "Magic Cross-Naginata": {
+    "ID": 16110800,
+    "materialSetId": 0
+  },
+  "Cold Cross-Naginata": {
+    "ID": 16110900,
+    "materialSetId": 0
+  },
+  "Poison Cross-Naginata": {
+    "ID": 16111000,
+    "materialSetId": 0
+  },
+  "Blood Cross-Naginata": {
+    "ID": 16111100,
+    "materialSetId": 0
+  },
+  "Occult Cross-Naginata": {
+    "ID": 16111200,
+    "materialSetId": 0
+  },
+  "Death Ritual Spear": {
+    "ID": 16120000,
+    "materialSetId": 2200
+  },
+  "Inquisitor's Girandole": {
+    "ID": 16130000,
+    "materialSetId": 2200
+  },
+  "Spiked Spear": {
+    "ID": 16140000,
+    "materialSetId": 0
+  },
+  "Fire Spiked Spear": {
+    "ID": 16140400,
+    "materialSetId": 0
+  },
+  "Flame Art Spiked Spear": {
+    "ID": 16140500,
+    "materialSetId": 0
+  },
+  "Lightning Spiked Spear": {
+    "ID": 16140600,
+    "materialSetId": 0
+  },
+  "Sacred Spiked Spear": {
+    "ID": 16140700,
+    "materialSetId": 0
+  },
+  "Magic Spiked Spear": {
+    "ID": 16140800,
+    "materialSetId": 0
+  },
+  "Cold Spiked Spear": {
+    "ID": 16140900,
+    "materialSetId": 0
+  },
+  "Poison Spiked Spear": {
+    "ID": 16141000,
+    "materialSetId": 0
+  },
+  "Blood Spiked Spear": {
+    "ID": 16141100,
+    "materialSetId": 0
+  },
+  "Occult Spiked Spear": {
+    "ID": 16141200,
+    "materialSetId": 0
+  },
+  "Iron Spear": {
+    "ID": 16150000,
+    "materialSetId": 0
+  },
+  "Fire Iron Spear": {
+    "ID": 16150400,
+    "materialSetId": 0
+  },
+  "Flame Art Iron Spear": {
+    "ID": 16150500,
+    "materialSetId": 0
+  },
+  "Lightning Iron Spear": {
+    "ID": 16150600,
+    "materialSetId": 0
+  },
+  "Sacred Iron Spear": {
+    "ID": 16150700,
+    "materialSetId": 0
+  },
+  "Magic Iron Spear": {
+    "ID": 16150800,
+    "materialSetId": 0
+  },
+  "Cold Iron Spear": {
+    "ID": 16150900,
+    "materialSetId": 0
+  },
+  "Poison Iron Spear": {
+    "ID": 16151000,
+    "materialSetId": 0
+  },
+  "Blood Iron Spear": {
+    "ID": 16151100,
+    "materialSetId": 0
+  },
+  "Occult Iron Spear": {
+    "ID": 16151200,
+    "materialSetId": 0
+  },
+  "Rotten Crystal Spear": {
+    "ID": 16160000,
+    "materialSetId": 2200
+  },
+  "Mohgwyn's Sacred Spear": {
+    "ID": 17010000,
+    "materialSetId": 2200
+  },
+  "Siluria's Tree": {
+    "ID": 17020000,
+    "materialSetId": 2200
+  },
+  "Serpent-Hunter": {
+    "ID": 17030000,
+    "materialSetId": 2200
+  },
+  "Vyke's War Spear": {
+    "ID": 17050000,
+    "materialSetId": 2200
+  },
+  "Lance": {
+    "ID": 17060000,
+    "materialSetId": 0
+  },
+  "Fire Lance": {
+    "ID": 17060400,
+    "materialSetId": 0
+  },
+  "Flame Art Lance": {
+    "ID": 17060500,
+    "materialSetId": 0
+  },
+  "Lightning Lance": {
+    "ID": 17060600,
+    "materialSetId": 0
+  },
+  "Sacred Lance": {
+    "ID": 17060700,
+    "materialSetId": 0
+  },
+  "Magic Lance": {
+    "ID": 17060800,
+    "materialSetId": 0
+  },
+  "Cold Lance": {
+    "ID": 17060900,
+    "materialSetId": 0
+  },
+  "Poison Lance": {
+    "ID": 17061000,
+    "materialSetId": 0
+  },
+  "Bloody Lance": {
+    "ID": 17061100,
+    "materialSetId": 0
+  },
+  "Occult Lance": {
+    "ID": 17061200,
+    "materialSetId": 0
+  },
+  "Treespear": {
+    "ID": 17070000,
+    "materialSetId": 0
+  },
+  "Fire Treespear": {
+    "ID": 17070400,
+    "materialSetId": 0
+  },
+  "Flame Art Treespear": {
+    "ID": 17070500,
+    "materialSetId": 0
+  },
+  "Lightning Treespear": {
+    "ID": 17070600,
+    "materialSetId": 0
+  },
+  "Sacred Treespear": {
+    "ID": 17070700,
+    "materialSetId": 0
+  },
+  "Magic Treespear": {
+    "ID": 17070800,
+    "materialSetId": 0
+  },
+  "Cold Treespear": {
+    "ID": 17070900,
+    "materialSetId": 0
+  },
+  "Poison Treespear": {
+    "ID": 17071000,
+    "materialSetId": 0
+  },
+  "Blood Treespear": {
+    "ID": 17071100,
+    "materialSetId": 0
+  },
+  "Occult Treespear": {
+    "ID": 17071200,
+    "materialSetId": 0
+  },
+  "Halberd": {
+    "ID": 18000000,
+    "materialSetId": 0
+  },
+  "Fire Halberd": {
+    "ID": 18000400,
+    "materialSetId": 0
+  },
+  "Flame Art Halberd": {
+    "ID": 18000500,
+    "materialSetId": 0
+  },
+  "Lightning Halberd": {
+    "ID": 18000600,
+    "materialSetId": 0
+  },
+  "Sacred Halberd": {
+    "ID": 18000700,
+    "materialSetId": 0
+  },
+  "Magic Halberd": {
+    "ID": 18000800,
+    "materialSetId": 0
+  },
+  "Cold Halberd": {
+    "ID": 18000900,
+    "materialSetId": 0
+  },
+  "Poison Halberd": {
+    "ID": 18001000,
+    "materialSetId": 0
+  },
+  "Blood Halberd": {
+    "ID": 18001100,
+    "materialSetId": 0
+  },
+  "Occult Halberd": {
+    "ID": 18001200,
+    "materialSetId": 0
+  },
+  "Pest's Glaive": {
+    "ID": 18010000,
+    "materialSetId": 0
+  },
+  "Pest's Heavy Glaive": {
+    "ID": 18010100,
+    "materialSetId": 0
+  },
+  "Pest's Keen Glaive": {
+    "ID": 18010200,
+    "materialSetId": 0
+  },
+  "Pest's Quality Glaive": {
+    "ID": 18010300,
+    "materialSetId": 0
+  },
+  "Pest's Fire Glaive": {
+    "ID": 18010400,
+    "materialSetId": 0
+  },
+  "Pest's Flame Art Glaive": {
+    "ID": 18010500,
+    "materialSetId": 0
+  },
+  "Pest's Lightning Glaive": {
+    "ID": 18010600,
+    "materialSetId": 0
+  },
+  "Pest's Sacred Glaive": {
+    "ID": 18010700,
+    "materialSetId": 0
+  },
+  "Pest's Magic Glaive": {
+    "ID": 18010800,
+    "materialSetId": 0
+  },
+  "Pest's Cold Glaive": {
+    "ID": 18010900,
+    "materialSetId": 0
+  },
+  "Pest's Poison Glaive": {
+    "ID": 18011000,
+    "materialSetId": 0
+  },
+  "Pest's Blood Glaive": {
+    "ID": 18011100,
+    "materialSetId": 0
+  },
+  "Pest's Occult Glaive": {
+    "ID": 18011200,
+    "materialSetId": 0
+  },
+  "Lucerne": {
+    "ID": 18020000,
+    "materialSetId": 0
+  },
+  "Fire Lucerne": {
+    "ID": 18020400,
+    "materialSetId": 0
+  },
+  "Flame Art Lucerne": {
+    "ID": 18020500,
+    "materialSetId": 0
+  },
+  "Lightning Lucerne": {
+    "ID": 18020600,
+    "materialSetId": 0
+  },
+  "Sacred Lucerne": {
+    "ID": 18020700,
+    "materialSetId": 0
+  },
+  "Magic Lucerne": {
+    "ID": 18020800,
+    "materialSetId": 0
+  },
+  "Cold Lucerne": {
+    "ID": 18020900,
+    "materialSetId": 0
+  },
+  "Poison Lucerne": {
+    "ID": 18021000,
+    "materialSetId": 0
+  },
+  "Blood Lucerne": {
+    "ID": 18021100,
+    "materialSetId": 0
+  },
+  "Occult Lucerne": {
+    "ID": 18021200,
+    "materialSetId": 0
+  },
+  "Banished Knight's Halberd": {
+    "ID": 18030000,
+    "materialSetId": 0
+  },
+  "Banished Knight's Heavy Halberd": {
+    "ID": 18030100,
+    "materialSetId": 0
+  },
+  "Banished Knight's Keen Halberd": {
+    "ID": 18030200,
+    "materialSetId": 0
+  },
+  "Banished Knight's Quality Halberd": {
+    "ID": 18030300,
+    "materialSetId": 0
+  },
+  "Banished Knight's Fire Halberd": {
+    "ID": 18030400,
+    "materialSetId": 0
+  },
+  "Banished Knight's Flame Art Halberd": {
+    "ID": 18030500,
+    "materialSetId": 0
+  },
+  "Banished Knight's Lightning Halberd": {
+    "ID": 18030600,
+    "materialSetId": 0
+  },
+  "Banished Knight's Sacred Halberd": {
+    "ID": 18030700,
+    "materialSetId": 0
+  },
+  "Banished Knight's Magic Halberd": {
+    "ID": 18030800,
+    "materialSetId": 0
+  },
+  "Banished Knight's Cold Halberd": {
+    "ID": 18030900,
+    "materialSetId": 0
+  },
+  "Banished Knight's Poison Halberd": {
+    "ID": 18031000,
+    "materialSetId": 0
+  },
+  "Banished Knight's Blood Halberd": {
+    "ID": 18031100,
+    "materialSetId": 0
+  },
+  "Banished Knight's Occult Halberd": {
+    "ID": 18031200,
+    "materialSetId": 0
+  },
+  "Commander's Standard": {
+    "ID": 18040000,
+    "materialSetId": 2200
+  },
+  "Nightrider Glaive": {
+    "ID": 18050000,
+    "materialSetId": 0
+  },
+  "Fire Nightrider Glaive": {
+    "ID": 18050400,
+    "materialSetId": 0
+  },
+  "Flame Art Nightrider Glaive": {
+    "ID": 18050500,
+    "materialSetId": 0
+  },
+  "Lightning Nightrider Glaive": {
+    "ID": 18050600,
+    "materialSetId": 0
+  },
+  "Sacred Nightrider Glaive": {
+    "ID": 18050700,
+    "materialSetId": 0
+  },
+  "Magic Nightrider Glaive": {
+    "ID": 18050800,
+    "materialSetId": 0
+  },
+  "Cold Nightrider Glaive": {
+    "ID": 18050900,
+    "materialSetId": 0
+  },
+  "Poison Nightrider Glaive": {
+    "ID": 18051000,
+    "materialSetId": 0
+  },
+  "Blood Nightrider Glaive": {
+    "ID": 18051100,
+    "materialSetId": 0
+  },
+  "Occult Nightrider Glaive": {
+    "ID": 18051200,
+    "materialSetId": 0
+  },
+  "Ripple Crescent Halberd": {
+    "ID": 18060000,
+    "materialSetId": 0
+  },
+  "Vulgar Militia Saw": {
+    "ID": 18070000,
+    "materialSetId": 0
+  },
+  "Fire Vulgar Militia Saw": {
+    "ID": 18070400,
+    "materialSetId": 0
+  },
+  "Flame Art Vulgar Militia Saw": {
+    "ID": 18070500,
+    "materialSetId": 0
+  },
+  "Lightning Vulgar Militia Saw": {
+    "ID": 18070600,
+    "materialSetId": 0
+  },
+  "Sacred Vulgar Militia Saw": {
+    "ID": 18070700,
+    "materialSetId": 0
+  },
+  "Magic Vulgar Militia Saw": {
+    "ID": 18070800,
+    "materialSetId": 0
+  },
+  "Cold Vulgar Militia Saw": {
+    "ID": 18070900,
+    "materialSetId": 0
+  },
+  "Poison Vulgar Militia Saw": {
+    "ID": 18071000,
+    "materialSetId": 0
+  },
+  "Blood Vulgar Militia Saw": {
+    "ID": 18071100,
+    "materialSetId": 0
+  },
+  "Occult Vulgar Militia Saw": {
+    "ID": 18071200,
+    "materialSetId": 0
+  },
+  "Golden Halberd": {
+    "ID": 18080000,
+    "materialSetId": 2200
+  },
+  "Glaive": {
+    "ID": 18090000,
+    "materialSetId": 0
+  },
+  "Fire Glaive": {
+    "ID": 18090400,
+    "materialSetId": 0
+  },
+  "Flame Art Glaive": {
+    "ID": 18090500,
+    "materialSetId": 0
+  },
+  "Lightning Glaive": {
+    "ID": 18090600,
+    "materialSetId": 0
+  },
+  "Sacred Glaive": {
+    "ID": 18090700,
+    "materialSetId": 0
+  },
+  "Magic Glaive": {
+    "ID": 18090800,
+    "materialSetId": 0
+  },
+  "Cold Glaive": {
+    "ID": 18090900,
+    "materialSetId": 0
+  },
+  "Poison Glaive": {
+    "ID": 18091000,
+    "materialSetId": 0
+  },
+  "Blood Glaive": {
+    "ID": 18091100,
+    "materialSetId": 0
+  },
+  "Occult Glaive": {
+    "ID": 18091200,
+    "materialSetId": 0
+  },
+  "Loretta's War Sickle": {
+    "ID": 18100000,
+    "materialSetId": 2200
+  },
+  "Guardian's Swordspear": {
+    "ID": 18110000,
+    "materialSetId": 0
+  },
+  "Guardian's Heavy Swordspear": {
+    "ID": 18110100,
+    "materialSetId": 0
+  },
+  "Guardian's Keen Swordspear": {
+    "ID": 18110200,
+    "materialSetId": 0
+  },
+  "Guardian's Quality Swordspear": {
+    "ID": 18110300,
+    "materialSetId": 0
+  },
+  "Guardian's Fire Swordspear": {
+    "ID": 18110400,
+    "materialSetId": 0
+  },
+  "Guardian's Flame Art Swordspear": {
+    "ID": 18110500,
+    "materialSetId": 0
+  },
+  "Guardian's Lightning Swordspear": {
+    "ID": 18110600,
+    "materialSetId": 0
+  },
+  "Guardian's Sacred Swordspear": {
+    "ID": 18110700,
+    "materialSetId": 0
+  },
+  "Guardian's Magic Swordspear": {
+    "ID": 18110800,
+    "materialSetId": 0
+  },
+  "Guardian's Cold Swordspear": {
+    "ID": 18110900,
+    "materialSetId": 0
+  },
+  "Guardian's Poison Swordspear": {
+    "ID": 18111000,
+    "materialSetId": 0
+  },
+  "Guardian's Blood Swordspear": {
+    "ID": 18111100,
+    "materialSetId": 0
+  },
+  "Guardian's Occult Swordspear": {
+    "ID": 18111200,
+    "materialSetId": 0
+  },
+  "Vulgar Militia Shotel": {
+    "ID": 18130000,
+    "materialSetId": 0
+  },
+  "Fire Vulgar Militia Shotel": {
+    "ID": 18130400,
+    "materialSetId": 0
+  },
+  "Flame Art Vulgar Militia Shotel": {
+    "ID": 18130500,
+    "materialSetId": 0
+  },
+  "Lightning Vulgar Militia Shotel": {
+    "ID": 18130600,
+    "materialSetId": 0
+  },
+  "Sacred Vulgar Militia Shotel": {
+    "ID": 18130700,
+    "materialSetId": 0
+  },
+  "Magic Vulgar Militia Shotel": {
+    "ID": 18130800,
+    "materialSetId": 0
+  },
+  "Cold Vulgar Militia Shotel": {
+    "ID": 18130900,
+    "materialSetId": 0
+  },
+  "Poison Vulgar Militia Shotel": {
+    "ID": 18131000,
+    "materialSetId": 0
+  },
+  "Blood Vulgar Militia Shotel": {
+    "ID": 18131100,
+    "materialSetId": 0
+  },
+  "Occult Vulgar Militia Shotel": {
+    "ID": 18131200,
+    "materialSetId": 0
+  },
+  "Dragon Halberd": {
+    "ID": 18140000,
+    "materialSetId": 2200
+  },
+  "Gargoyle's Halberd": {
+    "ID": 18150000,
+    "materialSetId": 0
+  },
+  "Gargoyle's Heavy Halberd": {
+    "ID": 18150100,
+    "materialSetId": 0
+  },
+  "Gargoyle's Keen Halberd": {
+    "ID": 18150200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Quality Halberd": {
+    "ID": 18150300,
+    "materialSetId": 0
+  },
+  "Gargoyle's Fire Halberd": {
+    "ID": 18150400,
+    "materialSetId": 0
+  },
+  "Gargoyle's Flame Art Halberd": {
+    "ID": 18150500,
+    "materialSetId": 0
+  },
+  "Gargoyle's Lightning Halberd": {
+    "ID": 18150600,
+    "materialSetId": 0
+  },
+  "Gargoyle's Sacred Halberd": {
+    "ID": 18150700,
+    "materialSetId": 0
+  },
+  "Gargoyle's Magic Halberd": {
+    "ID": 18150800,
+    "materialSetId": 0
+  },
+  "Gargoyle's Cold Halberd": {
+    "ID": 18150900,
+    "materialSetId": 0
+  },
+  "Gargoyle's Poison Halberd": {
+    "ID": 18151000,
+    "materialSetId": 0
+  },
+  "Gargoyle's Blood Halberd": {
+    "ID": 18151100,
+    "materialSetId": 0
+  },
+  "Gargoyle's Occult Halberd": {
+    "ID": 18151200,
+    "materialSetId": 0
+  },
+  "Gargoyle's Black Halberd": {
+    "ID": 18160000,
+    "materialSetId": 2200
+  },
+  "Scythe": {
+    "ID": 19000000,
+    "materialSetId": 0
+  },
+  "Fire Scythe": {
+    "ID": 19000400,
+    "materialSetId": 0
+  },
+  "Flame Art Scythe": {
+    "ID": 19000500,
+    "materialSetId": 0
+  },
+  "Lightning Scythe": {
+    "ID": 19000600,
+    "materialSetId": 0
+  },
+  "Sacred Scythe": {
+    "ID": 19000700,
+    "materialSetId": 0
+  },
+  "Magic Scythe": {
+    "ID": 19000800,
+    "materialSetId": 0
+  },
+  "Cold Scythe": {
+    "ID": 19000900,
+    "materialSetId": 0
+  },
+  "Poison Scythe": {
+    "ID": 19001000,
+    "materialSetId": 0
+  },
+  "Blood Scythe": {
+    "ID": 19001100,
+    "materialSetId": 0
+  },
+  "Occult Scythe": {
+    "ID": 19001200,
+    "materialSetId": 0
+  },
+  "Grave Scythe": {
+    "ID": 19010000,
+    "materialSetId": 0
+  },
+  "Fire Grave Scythe": {
+    "ID": 19010400,
+    "materialSetId": 0
+  },
+  "Flame Art Grave Scythe": {
+    "ID": 19010500,
+    "materialSetId": 0
+  },
+  "Lightning Grave Scythe": {
+    "ID": 19010600,
+    "materialSetId": 0
+  },
+  "Sacred Grave Scythe": {
+    "ID": 19010700,
+    "materialSetId": 0
+  },
+  "Magic Grave Scythe": {
+    "ID": 19010800,
+    "materialSetId": 0
+  },
+  "Cold Grave Scythe": {
+    "ID": 19010900,
+    "materialSetId": 0
+  },
+  "Poison Grave Scythe": {
+    "ID": 19011000,
+    "materialSetId": 0
+  },
+  "Blood Grave Scythe": {
+    "ID": 19011100,
+    "materialSetId": 0
+  },
+  "Occult Grave Scythe": {
+    "ID": 19011200,
+    "materialSetId": 0
+  },
+  "Halo Scythe": {
+    "ID": 19020000,
+    "materialSetId": 2200
+  },
+  "Winged Scythe": {
+    "ID": 19060000,
+    "materialSetId": 2200
+  },
+  "Whip": {
+    "ID": 20000000,
+    "materialSetId": 0
+  },
+  "Fire Whip": {
+    "ID": 20000400,
+    "materialSetId": 0
+  },
+  "Flame Art Whip": {
+    "ID": 20000500,
+    "materialSetId": 0
+  },
+  "Lightning Whip": {
+    "ID": 20000600,
+    "materialSetId": 0
+  },
+  "Sacred Whip": {
+    "ID": 20000700,
+    "materialSetId": 0
+  },
+  "Magic Whip": {
+    "ID": 20000800,
+    "materialSetId": 0
+  },
+  "Cold Whip": {
+    "ID": 20000900,
+    "materialSetId": 0
+  },
+  "Poison Whip": {
+    "ID": 20001000,
+    "materialSetId": 0
+  },
+  "Blood Whip": {
+    "ID": 20001100,
+    "materialSetId": 0
+  },
+  "Occult Whip": {
+    "ID": 20001200,
+    "materialSetId": 0
+  },
+  "Thorned Whip": {
+    "ID": 20020000,
+    "materialSetId": 0
+  },
+  "Fire Thorned Whip": {
+    "ID": 20020400,
+    "materialSetId": 0
+  },
+  "Flame Art Thorned Whip": {
+    "ID": 20020500,
+    "materialSetId": 0
+  },
+  "Lightning Thorned Whip": {
+    "ID": 20020600,
+    "materialSetId": 0
+  },
+  "Sacred Thorned Whip": {
+    "ID": 20020700,
+    "materialSetId": 0
+  },
+  "Magic Thorned Whip": {
+    "ID": 20020800,
+    "materialSetId": 0
+  },
+  "Cold Thorned Whip": {
+    "ID": 20020900,
+    "materialSetId": 0
+  },
+  "Poison Thorned Whip": {
+    "ID": 20021000,
+    "materialSetId": 0
+  },
+  "Blood Thorned Whip": {
+    "ID": 20021100,
+    "materialSetId": 0
+  },
+  "Occult Thorned Whip": {
+    "ID": 20021200,
+    "materialSetId": 0
+  },
+  "Magma Whip Candlestick": {
+    "ID": 20030000,
+    "materialSetId": 2200
+  },
+  "Hoslow's Petal Whip": {
+    "ID": 20050000,
+    "materialSetId": 0
+  },
+  "Hoslow's Heavy Petal Whip": {
+    "ID": 20050100,
+    "materialSetId": 0
+  },
+  "Hoslow's Keen Petal Whip": {
+    "ID": 20050200,
+    "materialSetId": 0
+  },
+  "Hoslow's Quality Petal Whip": {
+    "ID": 20050300,
+    "materialSetId": 0
+  },
+  "Hoslow's Fire Petal Whip": {
+    "ID": 20050400,
+    "materialSetId": 0
+  },
+  "Hoslow's Flame Art Petal Whip": {
+    "ID": 20050500,
+    "materialSetId": 0
+  },
+  "Hoslow's Lightning Petal Whip": {
+    "ID": 20050600,
+    "materialSetId": 0
+  },
+  "Hoslow's Sacred Petal Whip": {
+    "ID": 20050700,
+    "materialSetId": 0
+  },
+  "Hoslow's Magic Petal Whip": {
+    "ID": 20050800,
+    "materialSetId": 0
+  },
+  "Hoslow's Cold Petal Whip": {
+    "ID": 20050900,
+    "materialSetId": 0
+  },
+  "Hoslow's Poison Petal Whip": {
+    "ID": 20051000,
+    "materialSetId": 0
+  },
+  "Hoslow's Blood Petal Whip": {
+    "ID": 20051100,
+    "materialSetId": 0
+  },
+  "Hoslow's Occult Petal Whip": {
+    "ID": 20051200,
+    "materialSetId": 0
+  },
+  "Giant's Red Braid": {
+    "ID": 20060000,
+    "materialSetId": 2200
+  },
+  "Urumi": {
+    "ID": 20070000,
+    "materialSetId": 0
+  },
+  "Fire Urumi": {
+    "ID": 20070400,
+    "materialSetId": 0
+  },
+  "Flame Art Urumi": {
+    "ID": 20070500,
+    "materialSetId": 0
+  },
+  "Lightning Urumi": {
+    "ID": 20070600,
+    "materialSetId": 0
+  },
+  "Sacred Urumi": {
+    "ID": 20070700,
+    "materialSetId": 0
+  },
+  "Magic Urumi": {
+    "ID": 20070800,
+    "materialSetId": 0
+  },
+  "Cold Urumi": {
+    "ID": 20070900,
+    "materialSetId": 0
+  },
+  "Poison Urumi": {
+    "ID": 20071000,
+    "materialSetId": 0
+  },
+  "Blood Urumi": {
+    "ID": 20071100,
+    "materialSetId": 0
+  },
+  "Occult Urumi": {
+    "ID": 20071200,
+    "materialSetId": 0
+  },
+  "Caestus": {
+    "ID": 21000000,
+    "materialSetId": 0
+  },
+  "Fire Caestus": {
+    "ID": 21000400,
+    "materialSetId": 0
+  },
+  "Flame Art Caestus": {
+    "ID": 21000500,
+    "materialSetId": 0
+  },
+  "Lightning Caestus": {
+    "ID": 21000600,
+    "materialSetId": 0
+  },
+  "Sacred Caestus": {
+    "ID": 21000700,
+    "materialSetId": 0
+  },
+  "Magic Caestus": {
+    "ID": 21000800,
+    "materialSetId": 0
+  },
+  "Cold Caestus": {
+    "ID": 21000900,
+    "materialSetId": 0
+  },
+  "Poison Caestus": {
+    "ID": 21001000,
+    "materialSetId": 0
+  },
+  "Blood Caestus": {
+    "ID": 21001100,
+    "materialSetId": 0
+  },
+  "Occult Caestus": {
+    "ID": 21001200,
+    "materialSetId": 0
+  },
+  "Spiked Caestus": {
+    "ID": 21010000,
+    "materialSetId": 0
+  },
+  "Fire Spiked Caestus": {
+    "ID": 21010400,
+    "materialSetId": 0
+  },
+  "Flame Art Spiked Caestus": {
+    "ID": 21010500,
+    "materialSetId": 0
+  },
+  "Lightning Spiked Caestus": {
+    "ID": 21010600,
+    "materialSetId": 0
+  },
+  "Sacred Spiked Caestus": {
+    "ID": 21010700,
+    "materialSetId": 0
+  },
+  "Magic Spiked Caestus": {
+    "ID": 21010800,
+    "materialSetId": 0
+  },
+  "Cold Spiked Caestus": {
+    "ID": 21010900,
+    "materialSetId": 0
+  },
+  "Poison Spiked Caestus": {
+    "ID": 21011000,
+    "materialSetId": 0
+  },
+  "Blood Spiked Caestus": {
+    "ID": 21011100,
+    "materialSetId": 0
+  },
+  "Occult Spiked Caestus": {
+    "ID": 21011200,
+    "materialSetId": 0
+  },
+  "Grafted Dragon": {
+    "ID": 21060000,
+    "materialSetId": 2200
+  },
+  "Iron Ball": {
+    "ID": 21070000,
+    "materialSetId": 0
+  },
+  "Fire Iron Ball": {
+    "ID": 21070400,
+    "materialSetId": 0
+  },
+  "Flame Art Iron Ball": {
+    "ID": 21070500,
+    "materialSetId": 0
+  },
+  "Lightning Iron Ball": {
+    "ID": 21070600,
+    "materialSetId": 0
+  },
+  "Sacred Iron Ball": {
+    "ID": 21070700,
+    "materialSetId": 0
+  },
+  "Magic Iron Ball": {
+    "ID": 21070800,
+    "materialSetId": 0
+  },
+  "Cold Iron Ball": {
+    "ID": 21070900,
+    "materialSetId": 0
+  },
+  "Poison Iron Ball": {
+    "ID": 21071000,
+    "materialSetId": 0
+  },
+  "Blood Iron Ball": {
+    "ID": 21071100,
+    "materialSetId": 0
+  },
+  "Occult Iron Ball": {
+    "ID": 21071200,
+    "materialSetId": 0
+  },
+  "Star Fist": {
+    "ID": 21080000,
+    "materialSetId": 0
+  },
+  "Fire Star Fist": {
+    "ID": 21080400,
+    "materialSetId": 0
+  },
+  "Flame Art Star Fist": {
+    "ID": 21080500,
+    "materialSetId": 0
+  },
+  "Lightning Star Fist": {
+    "ID": 21080600,
+    "materialSetId": 0
+  },
+  "Sacred Star Fist": {
+    "ID": 21080700,
+    "materialSetId": 0
+  },
+  "Magic Star Fist": {
+    "ID": 21080800,
+    "materialSetId": 0
+  },
+  "Cold Star Fist": {
+    "ID": 21080900,
+    "materialSetId": 0
+  },
+  "Poison Star Fist": {
+    "ID": 21081000,
+    "materialSetId": 0
+  },
+  "Blood Star Fist": {
+    "ID": 21081100,
+    "materialSetId": 0
+  },
+  "Occult Star Fist": {
+    "ID": 21081200,
+    "materialSetId": 0
+  },
+  "Katar": {
+    "ID": 21100000,
+    "materialSetId": 0
+  },
+  "Fire Katar": {
+    "ID": 21100400,
+    "materialSetId": 0
+  },
+  "Flame Art Katar": {
+    "ID": 21100500,
+    "materialSetId": 0
+  },
+  "Lightning Katar": {
+    "ID": 21100600,
+    "materialSetId": 0
+  },
+  "Sacred Katar": {
+    "ID": 21100700,
+    "materialSetId": 0
+  },
+  "Magic Katar": {
+    "ID": 21100800,
+    "materialSetId": 0
+  },
+  "Cold Katar": {
+    "ID": 21100900,
+    "materialSetId": 0
+  },
+  "Poison Katar": {
+    "ID": 21101000,
+    "materialSetId": 0
+  },
+  "Blood Katar": {
+    "ID": 21101100,
+    "materialSetId": 0
+  },
+  "Occult Katar": {
+    "ID": 21101200,
+    "materialSetId": 0
+  },
+  "Clinging Bone": {
+    "ID": 21110000,
+    "materialSetId": 2200
+  },
+  "Veteran's Prosthesis": {
+    "ID": 21120000,
+    "materialSetId": 2200
+  },
+  "Cipher Pata": {
+    "ID": 21130000,
+    "materialSetId": 2200
+  },
+  "Hookclaws": {
+    "ID": 22000000,
+    "materialSetId": 0
+  },
+  "Fire Hookclaws": {
+    "ID": 22000400,
+    "materialSetId": 0
+  },
+  "Flame Art Hookclaws": {
+    "ID": 22000500,
+    "materialSetId": 0
+  },
+  "Lightning Hookclaws": {
+    "ID": 22000600,
+    "materialSetId": 0
+  },
+  "Sacred Hookclaws": {
+    "ID": 22000700,
+    "materialSetId": 0
+  },
+  "Magic Hookclaws": {
+    "ID": 22000800,
+    "materialSetId": 0
+  },
+  "Cold Hookclaws": {
+    "ID": 22000900,
+    "materialSetId": 0
+  },
+  "Poison Hookclaws": {
+    "ID": 22001000,
+    "materialSetId": 0
+  },
+  "Blood Hookclaws": {
+    "ID": 22001100,
+    "materialSetId": 0
+  },
+  "Occult Hookclaws": {
+    "ID": 22001200,
+    "materialSetId": 0
+  },
+  "Venomous Fang": {
+    "ID": 22010000,
+    "materialSetId": 0
+  },
+  "Fire Venomous Fang": {
+    "ID": 22010400,
+    "materialSetId": 0
+  },
+  "Flame Art Venomous Fang": {
+    "ID": 22010500,
+    "materialSetId": 0
+  },
+  "Lightning Venomous Fang": {
+    "ID": 22010600,
+    "materialSetId": 0
+  },
+  "Sacred Venomous Fang": {
+    "ID": 22010700,
+    "materialSetId": 0
+  },
+  "Magic Venomous Fang": {
+    "ID": 22010800,
+    "materialSetId": 0
+  },
+  "Cold Venomous Fang": {
+    "ID": 22010900,
+    "materialSetId": 0
+  },
+  "Poison Venomous Fang": {
+    "ID": 22011000,
+    "materialSetId": 0
+  },
+  "Blood Venomous Fang": {
+    "ID": 22011100,
+    "materialSetId": 0
+  },
+  "Occult Venomous Fang": {
+    "ID": 22011200,
+    "materialSetId": 0
+  },
+  "Bloodhound Claws": {
+    "ID": 22020000,
+    "materialSetId": 0
+  },
+  "Fire Bloodhound Claws": {
+    "ID": 22020400,
+    "materialSetId": 0
+  },
+  "Flame Art Bloodhound Claws": {
+    "ID": 22020500,
+    "materialSetId": 0
+  },
+  "Lightning Bloodhound Claws": {
+    "ID": 22020600,
+    "materialSetId": 0
+  },
+  "Sacred Bloodhound Claws": {
+    "ID": 22020700,
+    "materialSetId": 0
+  },
+  "Magic Bloodhound Claws": {
+    "ID": 22020800,
+    "materialSetId": 0
+  },
+  "Cold Bloodhound Claws": {
+    "ID": 22020900,
+    "materialSetId": 0
+  },
+  "Poison Bloodhound Claws": {
+    "ID": 22021000,
+    "materialSetId": 0
+  },
+  "Blood Bloodhound Claws": {
+    "ID": 22021100,
+    "materialSetId": 0
+  },
+  "Occult Bloodhound Claws": {
+    "ID": 22021200,
+    "materialSetId": 0
+  },
+  "Raptor Talons": {
+    "ID": 22030000,
+    "materialSetId": 0
+  },
+  "Fire Raptor Talons": {
+    "ID": 22030400,
+    "materialSetId": 0
+  },
+  "Flame Art Raptor Talons": {
+    "ID": 22030500,
+    "materialSetId": 0
+  },
+  "Lightning Raptor Talons": {
+    "ID": 22030600,
+    "materialSetId": 0
+  },
+  "Sacred Raptor Talons": {
+    "ID": 22030700,
+    "materialSetId": 0
+  },
+  "Magic Raptor Talons": {
+    "ID": 22030800,
+    "materialSetId": 0
+  },
+  "Cold Raptor Talons": {
+    "ID": 22030900,
+    "materialSetId": 0
+  },
+  "Poison Raptor Talons": {
+    "ID": 22031000,
+    "materialSetId": 0
+  },
+  "Blood Raptor Talons": {
+    "ID": 22031100,
+    "materialSetId": 0
+  },
+  "Occult Raptor Talons": {
+    "ID": 22031200,
+    "materialSetId": 0
+  },
+  "Prelate's Inferno Crozier": {
+    "ID": 23000000,
+    "materialSetId": 0
+  },
+  "Prelate's Heavy Inferno Crozier": {
+    "ID": 23000100,
+    "materialSetId": 0
+  },
+  "Prelate's Keen Inferno Crozier": {
+    "ID": 23000200,
+    "materialSetId": 0
+  },
+  "Prelate's Quality Inferno Crozier": {
+    "ID": 23000300,
+    "materialSetId": 0
+  },
+  "Prelate's Fire Inferno Crozier": {
+    "ID": 23000400,
+    "materialSetId": 0
+  },
+  "Prelate's Flame Art Inferno Crozier": {
+    "ID": 23000500,
+    "materialSetId": 0
+  },
+  "Prelate's Lightning Inferno Crozier": {
+    "ID": 23000600,
+    "materialSetId": 0
+  },
+  "Prelate's Sacred Inferno Crozier": {
+    "ID": 23000700,
+    "materialSetId": 0
+  },
+  "Prelate's Magic Inferno Crozier": {
+    "ID": 23000800,
+    "materialSetId": 0
+  },
+  "Prelate's Cold Inferno Crozier": {
+    "ID": 23000900,
+    "materialSetId": 0
+  },
+  "Prelate's Poison Inferno Crozier": {
+    "ID": 23001000,
+    "materialSetId": 0
+  },
+  "Prelate's Blood Inferno Crozier": {
+    "ID": 23001100,
+    "materialSetId": 0
+  },
+  "Prelate's Occult Inferno Crozier": {
+    "ID": 23001200,
+    "materialSetId": 0
+  },
+  "Watchdog's Staff": {
+    "ID": 23010000,
+    "materialSetId": 2200
+  },
+  "Great Club": {
+    "ID": 23020000,
+    "materialSetId": 0
+  },
+  "Fire Great Club": {
+    "ID": 23020400,
+    "materialSetId": 0
+  },
+  "Flame Art Great Club": {
+    "ID": 23020500,
+    "materialSetId": 0
+  },
+  "Lightning Great Club": {
+    "ID": 23020600,
+    "materialSetId": 0
+  },
+  "Sacred Great Club": {
+    "ID": 23020700,
+    "materialSetId": 0
+  },
+  "Magic Great Club": {
+    "ID": 23020800,
+    "materialSetId": 0
+  },
+  "Cold Great Club": {
+    "ID": 23020900,
+    "materialSetId": 0
+  },
+  "Poison Great Club": {
+    "ID": 23021000,
+    "materialSetId": 0
+  },
+  "Blood Great Club": {
+    "ID": 23021100,
+    "materialSetId": 0
+  },
+  "Occult Great Club": {
+    "ID": 23021200,
+    "materialSetId": 0
+  },
+  "Envoy's Greathorn": {
+    "ID": 23030000,
+    "materialSetId": 2200
+  },
+  "Duelist Greataxe": {
+    "ID": 23040000,
+    "materialSetId": 0
+  },
+  "Fire Duelist Greataxe": {
+    "ID": 23040400,
+    "materialSetId": 0
+  },
+  "Flame Art Duelist Greataxe": {
+    "ID": 23040500,
+    "materialSetId": 0
+  },
+  "Lightning Duelist Greataxe": {
+    "ID": 23040600,
+    "materialSetId": 0
+  },
+  "Sacred Duelist Greataxe": {
+    "ID": 23040700,
+    "materialSetId": 0
+  },
+  "Magic Duelist Greataxe": {
+    "ID": 23040800,
+    "materialSetId": 0
+  },
+  "Cold Duelist Greataxe": {
+    "ID": 23040900,
+    "materialSetId": 0
+  },
+  "Poison Duelist Greataxe": {
+    "ID": 23041000,
+    "materialSetId": 0
+  },
+  "Blood Duelist Greataxe": {
+    "ID": 23041100,
+    "materialSetId": 0
+  },
+  "Occult Duelist Greataxe": {
+    "ID": 23041200,
+    "materialSetId": 0
+  },
+  "Axe of Godfrey": {
+    "ID": 23050000,
+    "materialSetId": 2200
+  },
+  "Dragon Greatclaw": {
+    "ID": 23060000,
+    "materialSetId": 2200
+  },
+  "Staff of the Avatar": {
+    "ID": 23070000,
+    "materialSetId": 2200
+  },
+  "Fallingstar Beast Jaw": {
+    "ID": 23080000,
+    "materialSetId": 2200
+  },
+  "Ghiza's Wheel": {
+    "ID": 23100000,
+    "materialSetId": 2200
+  },
+  "Giant-Crusher": {
+    "ID": 23110000,
+    "materialSetId": 0
+  },
+  "Fire Giant-Crusher": {
+    "ID": 23110400,
+    "materialSetId": 0
+  },
+  "Flame Art Giant-Crusher": {
+    "ID": 23110500,
+    "materialSetId": 0
+  },
+  "Lightning Giant-Crusher": {
+    "ID": 23110600,
+    "materialSetId": 0
+  },
+  "Sacred Giant-Crusher": {
+    "ID": 23110700,
+    "materialSetId": 0
+  },
+  "Magic Giant-Crusher": {
+    "ID": 23110800,
+    "materialSetId": 0
+  },
+  "Cold Giant-Crusher": {
+    "ID": 23110900,
+    "materialSetId": 0
+  },
+  "Poison Giant-Crusher": {
+    "ID": 23111000,
+    "materialSetId": 0
+  },
+  "Blood Giant-Crusher": {
+    "ID": 23111100,
+    "materialSetId": 0
+  },
+  "Occult Giant-Crusher": {
+    "ID": 23111200,
+    "materialSetId": 0
+  },
+  "Golem's Halberd": {
+    "ID": 23120000,
+    "materialSetId": 0
+  },
+  "Golem's Heavy Halberd": {
+    "ID": 23120100,
+    "materialSetId": 0
+  },
+  "Golem's Keen Halberd": {
+    "ID": 23120200,
+    "materialSetId": 0
+  },
+  "Golem's Quality Halberd": {
+    "ID": 23120300,
+    "materialSetId": 0
+  },
+  "Golem's Fire Halberd": {
+    "ID": 23120400,
+    "materialSetId": 0
+  },
+  "Golem's Flame Art Halberd": {
+    "ID": 23120500,
+    "materialSetId": 0
+  },
+  "Golem's Lightning Halberd": {
+    "ID": 23120600,
+    "materialSetId": 0
+  },
+  "Golem's Sacred Halberd": {
+    "ID": 23120700,
+    "materialSetId": 0
+  },
+  "Golem's Magic Halberd": {
+    "ID": 23120800,
+    "materialSetId": 0
+  },
+  "Golem's Cold Halberd": {
+    "ID": 23120900,
+    "materialSetId": 0
+  },
+  "Golem's Poison Halberd": {
+    "ID": 23121000,
+    "materialSetId": 0
+  },
+  "Golem's Blood Halberd": {
+    "ID": 23121100,
+    "materialSetId": 0
+  },
+  "Golem's Occult Halberd": {
+    "ID": 23121200,
+    "materialSetId": 0
+  },
+  "Troll's Hammer": {
+    "ID": 23130000,
+    "materialSetId": 0
+  },
+  "Troll's Heavy Hammer": {
+    "ID": 23130100,
+    "materialSetId": 0
+  },
+  "Troll's Keen Hammer": {
+    "ID": 23130200,
+    "materialSetId": 0
+  },
+  "Troll's Quality Hammer": {
+    "ID": 23130300,
+    "materialSetId": 0
+  },
+  "Troll's Fire Hammer": {
+    "ID": 23130400,
+    "materialSetId": 0
+  },
+  "Troll's Flame Art Hammer": {
+    "ID": 23130500,
+    "materialSetId": 0
+  },
+  "Troll's Lightning Hammer": {
+    "ID": 23130600,
+    "materialSetId": 0
+  },
+  "Troll's Sacred Hammer": {
+    "ID": 23130700,
+    "materialSetId": 0
+  },
+  "Troll's Magic Hammer": {
+    "ID": 23130800,
+    "materialSetId": 0
+  },
+  "Troll's Cold Hammer": {
+    "ID": 23130900,
+    "materialSetId": 0
+  },
+  "Troll's Poison Hammer": {
+    "ID": 23131000,
+    "materialSetId": 0
+  },
+  "Troll's Blood Hammer": {
+    "ID": 23131100,
+    "materialSetId": 0
+  },
+  "Troll's Occult Hammer": {
+    "ID": 23131200,
+    "materialSetId": 0
+  },
+  "Rotten Staff": {
+    "ID": 23140000,
+    "materialSetId": 2200
+  },
+  "Rotten Greataxe": {
+    "ID": 23150000,
+    "materialSetId": 0
+  },
+  "Fire Rotten Greataxe": {
+    "ID": 23150400,
+    "materialSetId": 0
+  },
+  "Flame Art Rotten Greataxe": {
+    "ID": 23150500,
+    "materialSetId": 0
+  },
+  "Lightning Rotten Greataxe": {
+    "ID": 23150600,
+    "materialSetId": 0
+  },
+  "Sacred Rotten Greataxe": {
+    "ID": 23150700,
+    "materialSetId": 0
+  },
+  "Magic Rotten Greataxe": {
+    "ID": 23150800,
+    "materialSetId": 0
+  },
+  "Cold Rotten Greataxe": {
+    "ID": 23150900,
+    "materialSetId": 0
+  },
+  "Poison Rotten Greataxe": {
+    "ID": 23151000,
+    "materialSetId": 0
+  },
+  "Blood Rotten Greataxe": {
+    "ID": 23151100,
+    "materialSetId": 0
+  },
+  "Occult Rotten Greataxe": {
+    "ID": 23151200,
+    "materialSetId": 0
+  },
+  "Torch": {
+    "ID": 24000000,
+    "materialSetId": 0
+  },
+  "Steel-Wire Torch": {
+    "ID": 24020000,
+    "materialSetId": 0
+  },
+  "St. Trina's Torch": {
+    "ID": 24040000,
+    "materialSetId": 2200
+  },
+  "Ghostflame Torch": {
+    "ID": 24050000,
+    "materialSetId": 0
+  },
+  "Beast-Repellent Torch": {
+    "ID": 24060000,
+    "materialSetId": 0
+  },
+  "Sentry's Torch": {
+    "ID": 24070000,
+    "materialSetId": 2200
+  },
+  "Buckler": {
+    "ID": 30000000,
+    "materialSetId": 0
+  },
+  "Fire Buckler": {
+    "ID": 30000400,
+    "materialSetId": 0
+  },
+  "Flame Art Buckler": {
+    "ID": 30000500,
+    "materialSetId": 0
+  },
+  "Lightning Buckler": {
+    "ID": 30000600,
+    "materialSetId": 0
+  },
+  "Sacred Buckler": {
+    "ID": 30000700,
+    "materialSetId": 0
+  },
+  "Magic Buckler": {
+    "ID": 30000800,
+    "materialSetId": 0
+  },
+  "Cold Buckler": {
+    "ID": 30000900,
+    "materialSetId": 0
+  },
+  "Poison Buckler": {
+    "ID": 30001000,
+    "materialSetId": 0
+  },
+  "Bloody Buckler": {
+    "ID": 30001100,
+    "materialSetId": 0
+  },
+  "Occult Buckler": {
+    "ID": 30001200,
+    "materialSetId": 0
+  },
+  "Perfumer's Shield": {
+    "ID": 30010000,
+    "materialSetId": 0
+  },
+  "Perfumer's Heavy Shield": {
+    "ID": 30010100,
+    "materialSetId": 0
+  },
+  "Perfumer's Keen Shield": {
+    "ID": 30010200,
+    "materialSetId": 0
+  },
+  "Perfumer's Quality Shield": {
+    "ID": 30010300,
+    "materialSetId": 0
+  },
+  "Perfumer's Fire Shield": {
+    "ID": 30010400,
+    "materialSetId": 0
+  },
+  "Perfumer's Flame Art Shield": {
+    "ID": 30010500,
+    "materialSetId": 0
+  },
+  "Perfumer's Lightning Shield": {
+    "ID": 30010600,
+    "materialSetId": 0
+  },
+  "Perfumer's Sacred Shield": {
+    "ID": 30010700,
+    "materialSetId": 0
+  },
+  "Perfumer's Magic Shield": {
+    "ID": 30010800,
+    "materialSetId": 0
+  },
+  "Perfumer's Cold Shield": {
+    "ID": 30010900,
+    "materialSetId": 0
+  },
+  "Perfumer's Poison Shield": {
+    "ID": 30011000,
+    "materialSetId": 0
+  },
+  "Perfumer's Blood Shield": {
+    "ID": 30011100,
+    "materialSetId": 0
+  },
+  "Perfumer's Occult Shield": {
+    "ID": 30011200,
+    "materialSetId": 0
+  },
+  "Man-Serpent's Shield": {
+    "ID": 30020000,
+    "materialSetId": 0
+  },
+  "Man-serpent's Heavy Shield": {
+    "ID": 30020100,
+    "materialSetId": 0
+  },
+  "Man-serpent's Keen Shield": {
+    "ID": 30020200,
+    "materialSetId": 0
+  },
+  "Man-serpent's Quality Shield": {
+    "ID": 30020300,
+    "materialSetId": 0
+  },
+  "Man-serpent's Fire Shield": {
+    "ID": 30020400,
+    "materialSetId": 0
+  },
+  "Man-serpent's Flame Art Shield": {
+    "ID": 30020500,
+    "materialSetId": 0
+  },
+  "Man-serpent's Lightning Shield": {
+    "ID": 30020600,
+    "materialSetId": 0
+  },
+  "Man-serpent's Sacred Shield": {
+    "ID": 30020700,
+    "materialSetId": 0
+  },
+  "Man-serpent's Magic Shield": {
+    "ID": 30020800,
+    "materialSetId": 0
+  },
+  "Man-serpent's Cold Shield": {
+    "ID": 30020900,
+    "materialSetId": 0
+  },
+  "Man-serpent's Poison Shield": {
+    "ID": 30021000,
+    "materialSetId": 0
+  },
+  "Man-serpent's Blood Shield": {
+    "ID": 30021100,
+    "materialSetId": 0
+  },
+  "Man-serpent's Occult Shield": {
+    "ID": 30021200,
+    "materialSetId": 0
+  },
+  "Rickety Shield": {
+    "ID": 30030000,
+    "materialSetId": 0
+  },
+  "Fire Rickety Shield": {
+    "ID": 30030400,
+    "materialSetId": 0
+  },
+  "Flame Art Rickety Shield": {
+    "ID": 30030500,
+    "materialSetId": 0
+  },
+  "Lightning Rickety Shield": {
+    "ID": 30030600,
+    "materialSetId": 0
+  },
+  "Sacred Rickety Shield": {
+    "ID": 30030700,
+    "materialSetId": 0
+  },
+  "Magic Rickety Shield": {
+    "ID": 30030800,
+    "materialSetId": 0
+  },
+  "Cold Rickety Shield": {
+    "ID": 30030900,
+    "materialSetId": 0
+  },
+  "Poison Rickety Shield": {
+    "ID": 30031000,
+    "materialSetId": 0
+  },
+  "Bloody Rickety Shield": {
+    "ID": 30031100,
+    "materialSetId": 0
+  },
+  "Occult Rickety Shield": {
+    "ID": 30031200,
+    "materialSetId": 0
+  },
+  "Pillory Shield": {
+    "ID": 30040000,
+    "materialSetId": 0
+  },
+  "Fire Pillory Shield": {
+    "ID": 30040400,
+    "materialSetId": 0
+  },
+  "Flame Art Pillory Shield": {
+    "ID": 30040500,
+    "materialSetId": 0
+  },
+  "Lightning Pillory Shield": {
+    "ID": 30040600,
+    "materialSetId": 0
+  },
+  "Sacred Pillory Shield": {
+    "ID": 30040700,
+    "materialSetId": 0
+  },
+  "Magic Pillory Shield": {
+    "ID": 30040800,
+    "materialSetId": 0
+  },
+  "Cold Pillory Shield": {
+    "ID": 30040900,
+    "materialSetId": 0
+  },
+  "Poison Pillory Shield": {
+    "ID": 30041000,
+    "materialSetId": 0
+  },
+  "Blood Pillory Shield": {
+    "ID": 30041100,
+    "materialSetId": 0
+  },
+  "Occult Pillory Shield": {
+    "ID": 30041200,
+    "materialSetId": 0
+  },
+  "Beastman's Jar-Shield": {
+    "ID": 30060000,
+    "materialSetId": 0
+  },
+  "Beastman's Heavy Jar-Shield": {
+    "ID": 30060100,
+    "materialSetId": 0
+  },
+  "Beastman's Keen Jar-Shield": {
+    "ID": 30060200,
+    "materialSetId": 0
+  },
+  "Beastman's Quality Jar-Shield": {
+    "ID": 30060300,
+    "materialSetId": 0
+  },
+  "Beastman's Fire Jar-Shield": {
+    "ID": 30060400,
+    "materialSetId": 0
+  },
+  "Beastman's Flame Art Jar-Shield": {
+    "ID": 30060500,
+    "materialSetId": 0
+  },
+  "Beastman's Lightning Jar-Shield": {
+    "ID": 30060600,
+    "materialSetId": 0
+  },
+  "Beastman's Sacred Jar-Shield": {
+    "ID": 30060700,
+    "materialSetId": 0
+  },
+  "Beastman's Magic Jar-Shield": {
+    "ID": 30060800,
+    "materialSetId": 0
+  },
+  "Beastman's Cold Jar-Shield": {
+    "ID": 30060900,
+    "materialSetId": 0
+  },
+  "Beastman's Poison Jar-Shield": {
+    "ID": 30061000,
+    "materialSetId": 0
+  },
+  "Beastman's Blood Jar-Shield": {
+    "ID": 30061100,
+    "materialSetId": 0
+  },
+  "Beastman's Occult Jar-Shield": {
+    "ID": 30061200,
+    "materialSetId": 0
+  },
+  "Red Thorn Roundshield": {
+    "ID": 30070000,
+    "materialSetId": 0
+  },
+  "Fire Red Thorn Roundshield": {
+    "ID": 30070400,
+    "materialSetId": 0
+  },
+  "Flame Art Red Thorn Roundshield": {
+    "ID": 30070500,
+    "materialSetId": 0
+  },
+  "Lightning Red Thorn Roundshield": {
+    "ID": 30070600,
+    "materialSetId": 0
+  },
+  "Sacred Red Thorn Roundshield": {
+    "ID": 30070700,
+    "materialSetId": 0
+  },
+  "Magic Red Thorn Roundshield": {
+    "ID": 30070800,
+    "materialSetId": 0
+  },
+  "Cold Red Thorn Roundshield": {
+    "ID": 30070900,
+    "materialSetId": 0
+  },
+  "Poison Red Thorn Roundshield": {
+    "ID": 30071000,
+    "materialSetId": 0
+  },
+  "Bloody Red Thorn Roundshield": {
+    "ID": 30071100,
+    "materialSetId": 0
+  },
+  "Occult Red Thorn Roundshield": {
+    "ID": 30071200,
+    "materialSetId": 0
+  },
+  "Scripture Wooden Shield": {
+    "ID": 30080000,
+    "materialSetId": 0
+  },
+  "Fire Scripture Wooden Shield": {
+    "ID": 30080400,
+    "materialSetId": 0
+  },
+  "Flame Art Scripture Wooden Shield": {
+    "ID": 30080500,
+    "materialSetId": 0
+  },
+  "Lightning Scripture Wooden Shield": {
+    "ID": 30080600,
+    "materialSetId": 0
+  },
+  "Sacred Scripture Wooden Shield": {
+    "ID": 30080700,
+    "materialSetId": 0
+  },
+  "Magic Scripture Wooden Shield": {
+    "ID": 30080800,
+    "materialSetId": 0
+  },
+  "Cold Scripture Wooden Shield": {
+    "ID": 30080900,
+    "materialSetId": 0
+  },
+  "Poison Scripture Wooden Shield": {
+    "ID": 30081000,
+    "materialSetId": 0
+  },
+  "Blood Scripture Wooden Shield": {
+    "ID": 30081100,
+    "materialSetId": 0
+  },
+  "Occult Scripture Wooden Shield": {
+    "ID": 30081200,
+    "materialSetId": 0
+  },
+  "Riveted Wooden Shield": {
+    "ID": 30090000,
+    "materialSetId": 0
+  },
+  "Fire Riveted Wooden Shield": {
+    "ID": 30090400,
+    "materialSetId": 0
+  },
+  "Flame Art Riveted Wooden Shield": {
+    "ID": 30090500,
+    "materialSetId": 0
+  },
+  "Lightning Riveted Wooden Shield": {
+    "ID": 30090600,
+    "materialSetId": 0
+  },
+  "Sacred Riveted Wooden Shield": {
+    "ID": 30090700,
+    "materialSetId": 0
+  },
+  "Magic Riveted Wooden Shield": {
+    "ID": 30090800,
+    "materialSetId": 0
+  },
+  "Cold Riveted Wooden Shield": {
+    "ID": 30090900,
+    "materialSetId": 0
+  },
+  "Poison Riveted Wooden Shield": {
+    "ID": 30091000,
+    "materialSetId": 0
+  },
+  "Blood Riveted Wooden Shield": {
+    "ID": 30091100,
+    "materialSetId": 0
+  },
+  "Occult Riveted Wooden Shield": {
+    "ID": 30091200,
+    "materialSetId": 0
+  },
+  "Blue-White Wooden Shield": {
+    "ID": 30100000,
+    "materialSetId": 0
+  },
+  "Fire Blue-White Wooden Shield": {
+    "ID": 30100400,
+    "materialSetId": 0
+  },
+  "Flame Art Blue-White Wooden Shield": {
+    "ID": 30100500,
+    "materialSetId": 0
+  },
+  "Lightning Blue-White Wooden Shield": {
+    "ID": 30100600,
+    "materialSetId": 0
+  },
+  "Sacred Blue-White Wooden Shield": {
+    "ID": 30100700,
+    "materialSetId": 0
+  },
+  "Magic Blue-White Wooden Shield": {
+    "ID": 30100800,
+    "materialSetId": 0
+  },
+  "Cold Blue-White Wooden Shield": {
+    "ID": 30100900,
+    "materialSetId": 0
+  },
+  "Poison Blue-White Wooden Shield": {
+    "ID": 30101000,
+    "materialSetId": 0
+  },
+  "Blood Blue-White Wooden Shield": {
+    "ID": 30101100,
+    "materialSetId": 0
+  },
+  "Occult Blue-White Wooden Shield": {
+    "ID": 30101200,
+    "materialSetId": 0
+  },
+  "Rift Shield": {
+    "ID": 30110000,
+    "materialSetId": 0
+  },
+  "Fire Rift Shield": {
+    "ID": 30110400,
+    "materialSetId": 0
+  },
+  "Flame Art Rift Shield": {
+    "ID": 30110500,
+    "materialSetId": 0
+  },
+  "Lightning Rift Shield": {
+    "ID": 30110600,
+    "materialSetId": 0
+  },
+  "Sacred Rift Shield": {
+    "ID": 30110700,
+    "materialSetId": 0
+  },
+  "Magic Rift Shield": {
+    "ID": 30110800,
+    "materialSetId": 0
+  },
+  "Cold Rift Shield": {
+    "ID": 30110900,
+    "materialSetId": 0
+  },
+  "Poison Rift Shield": {
+    "ID": 30111000,
+    "materialSetId": 0
+  },
+  "Blood Rift Shield": {
+    "ID": 30111100,
+    "materialSetId": 0
+  },
+  "Occult Rift Shield": {
+    "ID": 30111200,
+    "materialSetId": 0
+  },
+  "Iron Roundshield": {
+    "ID": 30120000,
+    "materialSetId": 0
+  },
+  "Fire Iron Roundshield": {
+    "ID": 30120400,
+    "materialSetId": 0
+  },
+  "Flame Art Iron Roundshield": {
+    "ID": 30120500,
+    "materialSetId": 0
+  },
+  "Lightning Iron Roundshield": {
+    "ID": 30120600,
+    "materialSetId": 0
+  },
+  "Sacred Iron Roundshield": {
+    "ID": 30120700,
+    "materialSetId": 0
+  },
+  "Magic Iron Roundshield": {
+    "ID": 30120800,
+    "materialSetId": 0
+  },
+  "Cold Iron Roundshield": {
+    "ID": 30120900,
+    "materialSetId": 0
+  },
+  "Poison Iron Roundshield": {
+    "ID": 30121000,
+    "materialSetId": 0
+  },
+  "Bloody Iron Roundshield": {
+    "ID": 30121100,
+    "materialSetId": 0
+  },
+  "Occult Iron Roundshield": {
+    "ID": 30121200,
+    "materialSetId": 0
+  },
+  "Gilded Iron Shield": {
+    "ID": 30130000,
+    "materialSetId": 0
+  },
+  "Gilded Heavy Iron Shield": {
+    "ID": 30130100,
+    "materialSetId": 0
+  },
+  "Gilded Keen Iron Shield": {
+    "ID": 30130200,
+    "materialSetId": 0
+  },
+  "Gilded Quality Iron Shield": {
+    "ID": 30130300,
+    "materialSetId": 0
+  },
+  "Gilded Fire Iron Shield": {
+    "ID": 30130400,
+    "materialSetId": 0
+  },
+  "Gilded Flame Art Iron Shield": {
+    "ID": 30130500,
+    "materialSetId": 0
+  },
+  "Gilded Lightning Iron Shield": {
+    "ID": 30130600,
+    "materialSetId": 0
+  },
+  "Gilded Sacred Iron Shield": {
+    "ID": 30130700,
+    "materialSetId": 0
+  },
+  "Gilded Magic Iron Shield": {
+    "ID": 30130800,
+    "materialSetId": 0
+  },
+  "Gilded Cold Iron Shield": {
+    "ID": 30130900,
+    "materialSetId": 0
+  },
+  "Gilded Poison Iron Shield": {
+    "ID": 30131000,
+    "materialSetId": 0
+  },
+  "Gilded Blood Iron Shield": {
+    "ID": 30131100,
+    "materialSetId": 0
+  },
+  "Gilded Occult Iron Shield": {
+    "ID": 30131200,
+    "materialSetId": 0
+  },
+  "Ice Crest Shield": {
+    "ID": 30140000,
+    "materialSetId": 0
+  },
+  "Fire Ice Crest Shield": {
+    "ID": 30140400,
+    "materialSetId": 0
+  },
+  "Flame Art Ice Crest Shield": {
+    "ID": 30140500,
+    "materialSetId": 0
+  },
+  "Lightning Ice Crest Shield": {
+    "ID": 30140600,
+    "materialSetId": 0
+  },
+  "Sacred Ice Crest Shield": {
+    "ID": 30140700,
+    "materialSetId": 0
+  },
+  "Magic Ice Crest Shield": {
+    "ID": 30140800,
+    "materialSetId": 0
+  },
+  "Cold Ice Crest Shield": {
+    "ID": 30140900,
+    "materialSetId": 0
+  },
+  "Poison Ice Crest Shield": {
+    "ID": 30141000,
+    "materialSetId": 0
+  },
+  "Blood Ice Crest Shield": {
+    "ID": 30141100,
+    "materialSetId": 0
+  },
+  "Occult Ice Crest Shield": {
+    "ID": 30141200,
+    "materialSetId": 0
+  },
+  "Smoldering Shield": {
+    "ID": 30150000,
+    "materialSetId": 0
+  },
+  "Spiralhorn Shield": {
+    "ID": 30190000,
+    "materialSetId": 0
+  },
+  "Fire Spiralhorn Shield": {
+    "ID": 30190400,
+    "materialSetId": 0
+  },
+  "Flame Art Spiralhorn Shield": {
+    "ID": 30190500,
+    "materialSetId": 0
+  },
+  "Lightning Spiralhorn Shield": {
+    "ID": 30190600,
+    "materialSetId": 0
+  },
+  "Sacred Spiralhorn Shield": {
+    "ID": 30190700,
+    "materialSetId": 0
+  },
+  "Magic Spiralhorn Shield": {
+    "ID": 30190800,
+    "materialSetId": 0
+  },
+  "Cold Spiralhorn Shield": {
+    "ID": 30190900,
+    "materialSetId": 0
+  },
+  "Poison Spiralhorn Shield": {
+    "ID": 30191000,
+    "materialSetId": 0
+  },
+  "Blood Spiralhorn Shield": {
+    "ID": 30191100,
+    "materialSetId": 0
+  },
+  "Occult Spiralhorn Shield": {
+    "ID": 30191200,
+    "materialSetId": 0
+  },
+  "Coil Shield": {
+    "ID": 30200000,
+    "materialSetId": 2200
+  },
+  "Kite Shield": {
+    "ID": 31000000,
+    "materialSetId": 0
+  },
+  "Fire Kite Shield": {
+    "ID": 31000400,
+    "materialSetId": 0
+  },
+  "Flame Art Kite Shield": {
+    "ID": 31000500,
+    "materialSetId": 0
+  },
+  "Lightning Kite Shield": {
+    "ID": 31000600,
+    "materialSetId": 0
+  },
+  "Sacred Kite Shield": {
+    "ID": 31000700,
+    "materialSetId": 0
+  },
+  "Magic Kite Shield": {
+    "ID": 31000800,
+    "materialSetId": 0
+  },
+  "Cold Kite Shield": {
+    "ID": 31000900,
+    "materialSetId": 0
+  },
+  "Poison Kite Shield": {
+    "ID": 31001000,
+    "materialSetId": 0
+  },
+  "Blood Kite Shield": {
+    "ID": 31001100,
+    "materialSetId": 0
+  },
+  "Occult Kite Shield": {
+    "ID": 31001200,
+    "materialSetId": 0
+  },
+  "Marred Leather Shield": {
+    "ID": 31010000,
+    "materialSetId": 0
+  },
+  "Marred Heavy Leather Shield": {
+    "ID": 31010100,
+    "materialSetId": 0
+  },
+  "Marred Keen Leather Shield": {
+    "ID": 31010200,
+    "materialSetId": 0
+  },
+  "Marred Quality Leather Shield": {
+    "ID": 31010300,
+    "materialSetId": 0
+  },
+  "Marred Fire Leather Shield": {
+    "ID": 31010400,
+    "materialSetId": 0
+  },
+  "Marred Flame Art Leather Shield": {
+    "ID": 31010500,
+    "materialSetId": 0
+  },
+  "Marred Lightning Leather Shield": {
+    "ID": 31010600,
+    "materialSetId": 0
+  },
+  "Marred Sacred Leather Shield": {
+    "ID": 31010700,
+    "materialSetId": 0
+  },
+  "Marred Magic Leather Shield": {
+    "ID": 31010800,
+    "materialSetId": 0
+  },
+  "Marred Cold Leather Shield": {
+    "ID": 31010900,
+    "materialSetId": 0
+  },
+  "Marred Poison Leather Shield": {
+    "ID": 31011000,
+    "materialSetId": 0
+  },
+  "Marred Blood Leather Shield": {
+    "ID": 31011100,
+    "materialSetId": 0
+  },
+  "Marred Occult Leather Shield": {
+    "ID": 31011200,
+    "materialSetId": 0
+  },
+  "Marred Wooden Shield": {
+    "ID": 31020000,
+    "materialSetId": 0
+  },
+  "Marred Heavy Wooden Shield": {
+    "ID": 31020100,
+    "materialSetId": 0
+  },
+  "Marred Keen Wooden Shield": {
+    "ID": 31020200,
+    "materialSetId": 0
+  },
+  "Marred Quality Wooden Shield": {
+    "ID": 31020300,
+    "materialSetId": 0
+  },
+  "Marred Fire Wooden Shield": {
+    "ID": 31020400,
+    "materialSetId": 0
+  },
+  "Marred Flame Art Wooden Shield": {
+    "ID": 31020500,
+    "materialSetId": 0
+  },
+  "Marred Lightning Wooden Shield": {
+    "ID": 31020600,
+    "materialSetId": 0
+  },
+  "Marred Sacred Wooden Shield": {
+    "ID": 31020700,
+    "materialSetId": 0
+  },
+  "Marred Magic Wooden Shield": {
+    "ID": 31020800,
+    "materialSetId": 0
+  },
+  "Marred Cold Wooden Shield": {
+    "ID": 31020900,
+    "materialSetId": 0
+  },
+  "Marred Poison Wooden Shield": {
+    "ID": 31021000,
+    "materialSetId": 0
+  },
+  "Marred Blood Wooden Shield": {
+    "ID": 31021100,
+    "materialSetId": 0
+  },
+  "Marred Occult Wooden Shield": {
+    "ID": 31021200,
+    "materialSetId": 0
+  },
+  "Banished Knight's Shield": {
+    "ID": 31030000,
+    "materialSetId": 0
+  },
+  "Banished Knight's Heavy Shield": {
+    "ID": 31030100,
+    "materialSetId": 0
+  },
+  "Banished Knight's Keen Shield": {
+    "ID": 31030200,
+    "materialSetId": 0
+  },
+  "Banished Knight's Quality Shield": {
+    "ID": 31030300,
+    "materialSetId": 0
+  },
+  "Banished Knight's Fire Shield": {
+    "ID": 31030400,
+    "materialSetId": 0
+  },
+  "Banished Knight's Flame Art Shield": {
+    "ID": 31030500,
+    "materialSetId": 0
+  },
+  "Banished Knight's Lightning Shield": {
+    "ID": 31030600,
+    "materialSetId": 0
+  },
+  "Banished Knight's Sacred Shield": {
+    "ID": 31030700,
+    "materialSetId": 0
+  },
+  "Banished Knight's Magic Shield": {
+    "ID": 31030800,
+    "materialSetId": 0
+  },
+  "Banished Knight's Cold Shield": {
+    "ID": 31030900,
+    "materialSetId": 0
+  },
+  "Banished Knight's Poison Shield": {
+    "ID": 31031000,
+    "materialSetId": 0
+  },
+  "Banished Knight's Blood Shield": {
+    "ID": 31031100,
+    "materialSetId": 0
+  },
+  "Banished Knight's Occult Shield": {
+    "ID": 31031200,
+    "materialSetId": 0
+  },
+  "Albinauric Shield": {
+    "ID": 31040000,
+    "materialSetId": 0
+  },
+  "Fire Albinauric Shield": {
+    "ID": 31040400,
+    "materialSetId": 0
+  },
+  "Flame Art Albinauric Shield": {
+    "ID": 31040500,
+    "materialSetId": 0
+  },
+  "Lightning Albinauric Shield": {
+    "ID": 31040600,
+    "materialSetId": 0
+  },
+  "Sacred Albinauric Shield": {
+    "ID": 31040700,
+    "materialSetId": 0
+  },
+  "Magic Albinauric Shield": {
+    "ID": 31040800,
+    "materialSetId": 0
+  },
+  "Cold Albinauric Shield": {
+    "ID": 31040900,
+    "materialSetId": 0
+  },
+  "Poison Albinauric Shield": {
+    "ID": 31041000,
+    "materialSetId": 0
+  },
+  "Blood Albinauric Shield": {
+    "ID": 31041100,
+    "materialSetId": 0
+  },
+  "Occult Albinauric Shield": {
+    "ID": 31041200,
+    "materialSetId": 0
+  },
+  "Sun Realm Shield": {
+    "ID": 31050000,
+    "materialSetId": 0
+  },
+  "Fire Sun Realm Shield": {
+    "ID": 31050400,
+    "materialSetId": 0
+  },
+  "Flame Art Sun Realm Shield": {
+    "ID": 31050500,
+    "materialSetId": 0
+  },
+  "Lightning Sun Realm Shield": {
+    "ID": 31050600,
+    "materialSetId": 0
+  },
+  "Sacred Sun Realm Shield": {
+    "ID": 31050700,
+    "materialSetId": 0
+  },
+  "Magic Sun Realm Shield": {
+    "ID": 31050800,
+    "materialSetId": 0
+  },
+  "Cold Sun Realm Shield": {
+    "ID": 31050900,
+    "materialSetId": 0
+  },
+  "Poison Sun Realm Shield": {
+    "ID": 31051000,
+    "materialSetId": 0
+  },
+  "Blood Sun Realm Shield": {
+    "ID": 31051100,
+    "materialSetId": 0
+  },
+  "Occult Sun Realm Shield": {
+    "ID": 31051200,
+    "materialSetId": 0
+  },
+  "Silver Mirrorshield": {
+    "ID": 31060000,
+    "materialSetId": 2200
+  },
+  "Round Shield": {
+    "ID": 31070000,
+    "materialSetId": 0
+  },
+  "Fire Round Shield": {
+    "ID": 31070400,
+    "materialSetId": 0
+  },
+  "Flame Art Round Shield": {
+    "ID": 31070500,
+    "materialSetId": 0
+  },
+  "Lightning Round Shield": {
+    "ID": 31070600,
+    "materialSetId": 0
+  },
+  "Sacred Round Shield": {
+    "ID": 31070700,
+    "materialSetId": 0
+  },
+  "Magic Round Shield": {
+    "ID": 31070800,
+    "materialSetId": 0
+  },
+  "Cold Round Shield": {
+    "ID": 31070900,
+    "materialSetId": 0
+  },
+  "Poison Round Shield": {
+    "ID": 31071000,
+    "materialSetId": 0
+  },
+  "Blood Round Shield": {
+    "ID": 31071100,
+    "materialSetId": 0
+  },
+  "Occult Round Shield": {
+    "ID": 31071200,
+    "materialSetId": 0
+  },
+  "Scorpion Kite Shield": {
+    "ID": 31080000,
+    "materialSetId": 0
+  },
+  "Fire Scorpion Kite Shield": {
+    "ID": 31080400,
+    "materialSetId": 0
+  },
+  "Flame Art Scorpion Kite Shield": {
+    "ID": 31080500,
+    "materialSetId": 0
+  },
+  "Lightning Scorpion Kite Shield": {
+    "ID": 31080600,
+    "materialSetId": 0
+  },
+  "Sacred Scorpion Kite Shield": {
+    "ID": 31080700,
+    "materialSetId": 0
+  },
+  "Magic Scorpion Kite Shield": {
+    "ID": 31080800,
+    "materialSetId": 0
+  },
+  "Cold Scorpion Kite Shield": {
+    "ID": 31080900,
+    "materialSetId": 0
+  },
+  "Poison Scorpion Kite Shield": {
+    "ID": 31081000,
+    "materialSetId": 0
+  },
+  "Blood Scorpion Kite Shield": {
+    "ID": 31081100,
+    "materialSetId": 0
+  },
+  "Occult Scorpion Kite Shield": {
+    "ID": 31081200,
+    "materialSetId": 0
+  },
+  "Twinbird Kite Shield": {
+    "ID": 31090000,
+    "materialSetId": 0
+  },
+  "Fire Twinbird Kite Shield": {
+    "ID": 31090400,
+    "materialSetId": 0
+  },
+  "Flame Art Twinbird Kite Shield": {
+    "ID": 31090500,
+    "materialSetId": 0
+  },
+  "Lightning Twinbird Kite Shield": {
+    "ID": 31090600,
+    "materialSetId": 0
+  },
+  "Sacred Twinbird Kite Shield": {
+    "ID": 31090700,
+    "materialSetId": 0
+  },
+  "Magic Twinbird Kite Shield": {
+    "ID": 31090800,
+    "materialSetId": 0
+  },
+  "Cold Twinbird Kite Shield": {
+    "ID": 31090900,
+    "materialSetId": 0
+  },
+  "Poison Twinbird Kite Shield": {
+    "ID": 31091000,
+    "materialSetId": 0
+  },
+  "Blood Twinbird Kite Shield": {
+    "ID": 31091100,
+    "materialSetId": 0
+  },
+  "Occult Twinbird Kite Shield": {
+    "ID": 31091200,
+    "materialSetId": 0
+  },
+  "Blue-Gold Kite Shield": {
+    "ID": 31100000,
+    "materialSetId": 0
+  },
+  "Fire Blue-Gold Kite Shield": {
+    "ID": 31100400,
+    "materialSetId": 0
+  },
+  "Flame Art Blue-Gold Kite Shield": {
+    "ID": 31100500,
+    "materialSetId": 0
+  },
+  "Lightning Blue-Gold Kite Shield": {
+    "ID": 31100600,
+    "materialSetId": 0
+  },
+  "Sacred Blue-Gold Kite Shield": {
+    "ID": 31100700,
+    "materialSetId": 0
+  },
+  "Magic Blue-Gold Kite Shield": {
+    "ID": 31100800,
+    "materialSetId": 0
+  },
+  "Cold Blue-Gold Kite Shield": {
+    "ID": 31100900,
+    "materialSetId": 0
+  },
+  "Poison Blue-Gold Kite Shield": {
+    "ID": 31101000,
+    "materialSetId": 0
+  },
+  "Blood Blue-Gold Kite Shield": {
+    "ID": 31101100,
+    "materialSetId": 0
+  },
+  "Occult Blue-Gold Kite Shield": {
+    "ID": 31101200,
+    "materialSetId": 0
+  },
+  "Brass Shield": {
+    "ID": 31130000,
+    "materialSetId": 0
+  },
+  "Fire Brass Shield": {
+    "ID": 31130400,
+    "materialSetId": 0
+  },
+  "Flame Art Brass Shield": {
+    "ID": 31130500,
+    "materialSetId": 0
+  },
+  "Lightning Brass Shield": {
+    "ID": 31130600,
+    "materialSetId": 0
+  },
+  "Sacred Brass Shield": {
+    "ID": 31130700,
+    "materialSetId": 0
+  },
+  "Magic Brass Shield": {
+    "ID": 31130800,
+    "materialSetId": 0
+  },
+  "Cold Brass Shield": {
+    "ID": 31130900,
+    "materialSetId": 0
+  },
+  "Poison Brass Shield": {
+    "ID": 31131000,
+    "materialSetId": 0
+  },
+  "Blood Brass Shield": {
+    "ID": 31131100,
+    "materialSetId": 0
+  },
+  "Occult Brass Shield": {
+    "ID": 31131200,
+    "materialSetId": 0
+  },
+  "Great Turtle Shell": {
+    "ID": 31140000,
+    "materialSetId": 0
+  },
+  "Fire Great Turtle Shell": {
+    "ID": 31140400,
+    "materialSetId": 0
+  },
+  "Flame Art Great Turtle Shell": {
+    "ID": 31140500,
+    "materialSetId": 0
+  },
+  "Lightning Great Turtle Shell": {
+    "ID": 31140600,
+    "materialSetId": 0
+  },
+  "Sacred Great Turtle Shell": {
+    "ID": 31140700,
+    "materialSetId": 0
+  },
+  "Magic Great Turtle Shell": {
+    "ID": 31140800,
+    "materialSetId": 0
+  },
+  "Cold Great Turtle Shell": {
+    "ID": 31140900,
+    "materialSetId": 0
+  },
+  "Poison Great Turtle Shell": {
+    "ID": 31141000,
+    "materialSetId": 0
+  },
+  "Blood Great Turtle Shell": {
+    "ID": 31141100,
+    "materialSetId": 0
+  },
+  "Occult Great Turtle Shell": {
+    "ID": 31141200,
+    "materialSetId": 0
+  },
+  "Shield of the Guilty": {
+    "ID": 31170000,
+    "materialSetId": 0
+  },
+  "Fire Shield of the Guilty": {
+    "ID": 31170400,
+    "materialSetId": 0
+  },
+  "Flame Art Shield of the Guilty": {
+    "ID": 31170500,
+    "materialSetId": 0
+  },
+  "Lightning Shield of the Guilty": {
+    "ID": 31170600,
+    "materialSetId": 0
+  },
+  "Sacred Shield of the Guilty": {
+    "ID": 31170700,
+    "materialSetId": 0
+  },
+  "Magic Shield of the Guilty": {
+    "ID": 31170800,
+    "materialSetId": 0
+  },
+  "Cold Shield of the Guilty": {
+    "ID": 31170900,
+    "materialSetId": 0
+  },
+  "Poison Shield of the Guilty": {
+    "ID": 31171000,
+    "materialSetId": 0
+  },
+  "Blood Shield of the Guilty": {
+    "ID": 31171100,
+    "materialSetId": 0
+  },
+  "Occult Shield of the Guilty": {
+    "ID": 31171200,
+    "materialSetId": 0
+  },
+  "Carian Knight's Shield": {
+    "ID": 31190000,
+    "materialSetId": 0
+  },
+  "Carian Knight's Heavy Shield": {
+    "ID": 31190100,
+    "materialSetId": 0
+  },
+  "Carian Knight's Keen Shield": {
+    "ID": 31190200,
+    "materialSetId": 0
+  },
+  "Carian Knight's Quality Shield": {
+    "ID": 31190300,
+    "materialSetId": 0
+  },
+  "Carian Knight's Fire Shield": {
+    "ID": 31190400,
+    "materialSetId": 0
+  },
+  "Carian Knight's Flame Art Shield": {
+    "ID": 31190500,
+    "materialSetId": 0
+  },
+  "Carian Knight's Lightning Shield": {
+    "ID": 31190600,
+    "materialSetId": 0
+  },
+  "Carian Knight's Sacred Shield": {
+    "ID": 31190700,
+    "materialSetId": 0
+  },
+  "Carian Knight's Magic Shield": {
+    "ID": 31190800,
+    "materialSetId": 0
+  },
+  "Carian Knight's Cold Shield": {
+    "ID": 31190900,
+    "materialSetId": 0
+  },
+  "Carian Knight's Poison Shield": {
+    "ID": 31191000,
+    "materialSetId": 0
+  },
+  "Carian Knight's Bloody Shield": {
+    "ID": 31191100,
+    "materialSetId": 0
+  },
+  "Carian Knight's Occult Shield": {
+    "ID": 31191200,
+    "materialSetId": 2200
+  },
+  "Large Leather Shield": {
+    "ID": 31230000,
+    "materialSetId": 0
+  },
+  "Fire Large Leather Shield": {
+    "ID": 31230400,
+    "materialSetId": 0
+  },
+  "Flame Art Large Leather Shield": {
+    "ID": 31230500,
+    "materialSetId": 0
+  },
+  "Lightning Large Leather Shield": {
+    "ID": 31230600,
+    "materialSetId": 0
+  },
+  "Sacred Large Leather Shield": {
+    "ID": 31230700,
+    "materialSetId": 0
+  },
+  "Magic Large Leather Shield": {
+    "ID": 31230800,
+    "materialSetId": 0
+  },
+  "Cold Large Leather Shield": {
+    "ID": 31230900,
+    "materialSetId": 0
+  },
+  "Poison Large Leather Shield": {
+    "ID": 31231000,
+    "materialSetId": 0
+  },
+  "Bloody Large Leather Shield": {
+    "ID": 31231100,
+    "materialSetId": 0
+  },
+  "Occult Large Leather Shield": {
+    "ID": 31231200,
+    "materialSetId": 0
+  },
+  "Horse Crest Wooden Shield": {
+    "ID": 31240000,
+    "materialSetId": 0
+  },
+  "Fire Horse Crest Wooden Shield": {
+    "ID": 31240400,
+    "materialSetId": 0
+  },
+  "Flame Art Horse Crest Wooden Shield": {
+    "ID": 31240500,
+    "materialSetId": 0
+  },
+  "Lightning Horse Crest Wooden Shield": {
+    "ID": 31240600,
+    "materialSetId": 0
+  },
+  "Sacred Horse Crest Wooden Shield": {
+    "ID": 31240700,
+    "materialSetId": 0
+  },
+  "Magic Horse Crest Wooden Shield": {
+    "ID": 31240800,
+    "materialSetId": 0
+  },
+  "Cold Horse Crest Wooden Shield": {
+    "ID": 31240900,
+    "materialSetId": 0
+  },
+  "Poison Horse Crest Wooden Shield": {
+    "ID": 31241000,
+    "materialSetId": 0
+  },
+  "Blood Horse Crest Wooden Shield": {
+    "ID": 31241100,
+    "materialSetId": 0
+  },
+  "Occult Horse Crest Wooden Shield": {
+    "ID": 31241200,
+    "materialSetId": 0
+  },
+  "Candletree Wooden Shield": {
+    "ID": 31250000,
+    "materialSetId": 0
+  },
+  "Fire Candletree Wooden Shield": {
+    "ID": 31250400,
+    "materialSetId": 0
+  },
+  "Flame Art Candletree Wooden Shield": {
+    "ID": 31250500,
+    "materialSetId": 0
+  },
+  "Lightning Candletree Wooden Shield": {
+    "ID": 31250600,
+    "materialSetId": 0
+  },
+  "Sacred Candletree Wooden Shield": {
+    "ID": 31250700,
+    "materialSetId": 0
+  },
+  "Magic Candletree Wooden Shield": {
+    "ID": 31250800,
+    "materialSetId": 0
+  },
+  "Cold Candletree Wooden Shield": {
+    "ID": 31250900,
+    "materialSetId": 0
+  },
+  "Poison Candletree Wooden Shield": {
+    "ID": 31251000,
+    "materialSetId": 0
+  },
+  "Blood Candletree Wooden Shield": {
+    "ID": 31251100,
+    "materialSetId": 0
+  },
+  "Occult Candletree Wooden Shield": {
+    "ID": 31251200,
+    "materialSetId": 0
+  },
+  "Flame Crest Wooden Shield": {
+    "ID": 31260000,
+    "materialSetId": 0
+  },
+  "Fire Flame Crest Wooden Shield": {
+    "ID": 31260400,
+    "materialSetId": 0
+  },
+  "Flame Art Flame Crest Wooden Shield": {
+    "ID": 31260500,
+    "materialSetId": 0
+  },
+  "Lightning Flame Crest Wooden Shield": {
+    "ID": 31260600,
+    "materialSetId": 0
+  },
+  "Sacred Flame Crest Wooden Shield": {
+    "ID": 31260700,
+    "materialSetId": 0
+  },
+  "Magic Flame Crest Wooden Shield": {
+    "ID": 31260800,
+    "materialSetId": 0
+  },
+  "Cold Flame Crest Wooden Shield": {
+    "ID": 31260900,
+    "materialSetId": 0
+  },
+  "Poison Flame Crest Wooden Shield": {
+    "ID": 31261000,
+    "materialSetId": 0
+  },
+  "Blood Flame Crest Wooden Shield": {
+    "ID": 31261100,
+    "materialSetId": 0
+  },
+  "Occult Flame Crest Wooden Shield": {
+    "ID": 31261200,
+    "materialSetId": 0
+  },
+  "Hawk Crest Wooden Shield": {
+    "ID": 31270000,
+    "materialSetId": 0
+  },
+  "Fire Hawk Crest Wooden Shield": {
+    "ID": 31270400,
+    "materialSetId": 0
+  },
+  "Flame Art Hawk Crest Wooden Shield": {
+    "ID": 31270500,
+    "materialSetId": 0
+  },
+  "Lightning Hawk Crest Wooden Shield": {
+    "ID": 31270600,
+    "materialSetId": 0
+  },
+  "Sacred Hawk Crest Wooden Shield": {
+    "ID": 31270700,
+    "materialSetId": 0
+  },
+  "Magic Hawk Crest Wooden Shield": {
+    "ID": 31270800,
+    "materialSetId": 0
+  },
+  "Cold Hawk Crest Wooden Shield": {
+    "ID": 31270900,
+    "materialSetId": 0
+  },
+  "Poison Hawk Crest Wooden Shield": {
+    "ID": 31271000,
+    "materialSetId": 0
+  },
+  "Blood Hawk Crest Wooden Shield": {
+    "ID": 31271100,
+    "materialSetId": 0
+  },
+  "Occult Hawk Crest Wooden Shield": {
+    "ID": 31271200,
+    "materialSetId": 0
+  },
+  "Beast Crest Heater Shield": {
+    "ID": 31280000,
+    "materialSetId": 0
+  },
+  "Fire Beast Crest Heater Shield": {
+    "ID": 31280400,
+    "materialSetId": 0
+  },
+  "Flame Art Beast Crest Heater Shield": {
+    "ID": 31280500,
+    "materialSetId": 0
+  },
+  "Lightning Beast Crest Heater Shield": {
+    "ID": 31280600,
+    "materialSetId": 0
+  },
+  "Sacred Beast Crest Heater Shield": {
+    "ID": 31280700,
+    "materialSetId": 0
+  },
+  "Magic Beast Crest Heater Shield": {
+    "ID": 31280800,
+    "materialSetId": 0
+  },
+  "Cold Beast Crest Heater Shield": {
+    "ID": 31280900,
+    "materialSetId": 0
+  },
+  "Poison Beast Crest Heater Shield": {
+    "ID": 31281000,
+    "materialSetId": 0
+  },
+  "Blood Beast Crest Heater Shield": {
+    "ID": 31281100,
+    "materialSetId": 0
+  },
+  "Occult Beast Crest Heater Shield": {
+    "ID": 31281200,
+    "materialSetId": 0
+  },
+  "Red Crest Heater Shield": {
+    "ID": 31290000,
+    "materialSetId": 0
+  },
+  "Fire Red Crest Heater Shield": {
+    "ID": 31290400,
+    "materialSetId": 0
+  },
+  "Flame Art Red Crest Heater Shield": {
+    "ID": 31290500,
+    "materialSetId": 0
+  },
+  "Lightning Red Crest Heater Shield": {
+    "ID": 31290600,
+    "materialSetId": 0
+  },
+  "Sacred Red Crest Heater Shield": {
+    "ID": 31290700,
+    "materialSetId": 0
+  },
+  "Magic Red Crest Heater Shield": {
+    "ID": 31290800,
+    "materialSetId": 0
+  },
+  "Cold Red Crest Heater Shield": {
+    "ID": 31290900,
+    "materialSetId": 0
+  },
+  "Poison Red Crest Heater Shield": {
+    "ID": 31291000,
+    "materialSetId": 0
+  },
+  "Blood Red Crest Heater Shield": {
+    "ID": 31291100,
+    "materialSetId": 0
+  },
+  "Occult Red Crest Heater Shield": {
+    "ID": 31291200,
+    "materialSetId": 0
+  },
+  "Blue Crest Heater Shield": {
+    "ID": 31300000,
+    "materialSetId": 0
+  },
+  "Fire Blue Crest Heater Shield": {
+    "ID": 31300400,
+    "materialSetId": 0
+  },
+  "Flame Art Blue Crest Heater Shield": {
+    "ID": 31300500,
+    "materialSetId": 0
+  },
+  "Lightning Blue Crest Heater Shield": {
+    "ID": 31300600,
+    "materialSetId": 0
+  },
+  "Sacred Blue Crest Heater Shield": {
+    "ID": 31300700,
+    "materialSetId": 0
+  },
+  "Magic Blue Crest Heater Shield": {
+    "ID": 31300800,
+    "materialSetId": 0
+  },
+  "Cold Blue Crest Heater Shield": {
+    "ID": 31300900,
+    "materialSetId": 0
+  },
+  "Poison Blue Crest Heater Shield": {
+    "ID": 31301000,
+    "materialSetId": 0
+  },
+  "Blood Blue Crest Heater Shield": {
+    "ID": 31301100,
+    "materialSetId": 0
+  },
+  "Occult Blue Crest Heater Shield": {
+    "ID": 31301200,
+    "materialSetId": 0
+  },
+  "Eclipse Crest Heater Shield": {
+    "ID": 31310000,
+    "materialSetId": 0
+  },
+  "Fire Eclipse Crest Heater Shield": {
+    "ID": 31310400,
+    "materialSetId": 0
+  },
+  "Flame Art Eclipse Crest Heater Shield": {
+    "ID": 31310500,
+    "materialSetId": 0
+  },
+  "Lightning Eclipse Crest Heater Shield": {
+    "ID": 31310600,
+    "materialSetId": 0
+  },
+  "Sacred Eclipse Crest Heater Shield": {
+    "ID": 31310700,
+    "materialSetId": 0
+  },
+  "Magic Eclipse Crest Heater Shield": {
+    "ID": 31310800,
+    "materialSetId": 0
+  },
+  "Cold Eclipse Crest Heater Shield": {
+    "ID": 31310900,
+    "materialSetId": 0
+  },
+  "Poison Eclipse Crest Heater Shield": {
+    "ID": 31311000,
+    "materialSetId": 0
+  },
+  "Blood Eclipse Crest Heater Shield": {
+    "ID": 31311100,
+    "materialSetId": 0
+  },
+  "Occult Eclipse Crest Heater Shield": {
+    "ID": 31311200,
+    "materialSetId": 0
+  },
+  "Inverted Hawk Heater Shield": {
+    "ID": 31320000,
+    "materialSetId": 0
+  },
+  "Fire Inverted Hawk Heater Shield": {
+    "ID": 31320400,
+    "materialSetId": 0
+  },
+  "Flame Art Inverted Hawk Heater Shield": {
+    "ID": 31320500,
+    "materialSetId": 0
+  },
+  "Lightning Inverted Hawk Heater Shield": {
+    "ID": 31320600,
+    "materialSetId": 0
+  },
+  "Sacred Inverted Hawk Heater Shield": {
+    "ID": 31320700,
+    "materialSetId": 0
+  },
+  "Magic Inverted Hawk Heater Shield": {
+    "ID": 31320800,
+    "materialSetId": 0
+  },
+  "Cold Inverted Hawk Heater Shield": {
+    "ID": 31320900,
+    "materialSetId": 0
+  },
+  "Poison Inverted Hawk Heater Shield": {
+    "ID": 31321000,
+    "materialSetId": 0
+  },
+  "Blood Inverted Hawk Heater Shield": {
+    "ID": 31321100,
+    "materialSetId": 0
+  },
+  "Occult Inverted Hawk Heater Shield": {
+    "ID": 31321200,
+    "materialSetId": 0
+  },
+  "Heater Shield": {
+    "ID": 31330000,
+    "materialSetId": 0
+  },
+  "Fire Heater Shield": {
+    "ID": 31330400,
+    "materialSetId": 0
+  },
+  "Flame Art Heater Shield": {
+    "ID": 31330500,
+    "materialSetId": 0
+  },
+  "Lightning Heater Shield": {
+    "ID": 31330600,
+    "materialSetId": 0
+  },
+  "Sacred Heater Shield": {
+    "ID": 31330700,
+    "materialSetId": 0
+  },
+  "Magic Heater Shield": {
+    "ID": 31330800,
+    "materialSetId": 0
+  },
+  "Cold Heater Shield": {
+    "ID": 31330900,
+    "materialSetId": 0
+  },
+  "Poison Heater Shield": {
+    "ID": 31331000,
+    "materialSetId": 0
+  },
+  "Blood Heater Shield": {
+    "ID": 31331100,
+    "materialSetId": 0
+  },
+  "Occult Heater Shield": {
+    "ID": 31331200,
+    "materialSetId": 0
+  },
+  "Black Leather Shield": {
+    "ID": 31340000,
+    "materialSetId": 0
+  },
+  "Fire Black Leather Shield": {
+    "ID": 31340400,
+    "materialSetId": 0
+  },
+  "Flame Art Black Leather Shield": {
+    "ID": 31340500,
+    "materialSetId": 0
+  },
+  "Lightning Black Leather Shield": {
+    "ID": 31340600,
+    "materialSetId": 0
+  },
+  "Sacred Black Leather Shield": {
+    "ID": 31340700,
+    "materialSetId": 0
+  },
+  "Magic Black Leather Shield": {
+    "ID": 31340800,
+    "materialSetId": 0
+  },
+  "Cold Black Leather Shield": {
+    "ID": 31340900,
+    "materialSetId": 0
+  },
+  "Poison Black Leather Shield": {
+    "ID": 31341000,
+    "materialSetId": 0
+  },
+  "Blood Black Leather Shield": {
+    "ID": 31341100,
+    "materialSetId": 0
+  },
+  "Occult Black Leather Shield": {
+    "ID": 31341200,
+    "materialSetId": 0
+  },
+  "Dragon Towershield": {
+    "ID": 32000000,
+    "materialSetId": 0
+  },
+  "Fire Dragon Towershield": {
+    "ID": 32000400,
+    "materialSetId": 0
+  },
+  "Flame Art Dragon Towershield": {
+    "ID": 32000500,
+    "materialSetId": 0
+  },
+  "Lightning Dragon Towershield": {
+    "ID": 32000600,
+    "materialSetId": 0
+  },
+  "Sacred Dragon Towershield": {
+    "ID": 32000700,
+    "materialSetId": 0
+  },
+  "Magic Dragon Towershield": {
+    "ID": 32000800,
+    "materialSetId": 0
+  },
+  "Cold Dragon Towershield": {
+    "ID": 32000900,
+    "materialSetId": 0
+  },
+  "Poison Dragon Towershield": {
+    "ID": 32001000,
+    "materialSetId": 0
+  },
+  "Blood Dragon Towershield": {
+    "ID": 32001100,
+    "materialSetId": 0
+  },
+  "Occult Dragon Towershield": {
+    "ID": 32001200,
+    "materialSetId": 0
+  },
+  "Distinguished Greatshield": {
+    "ID": 32020000,
+    "materialSetId": 0
+  },
+  "Distinguished Heavy Greatshield": {
+    "ID": 32020100,
+    "materialSetId": 0
+  },
+  "Distinguished Keen Greatshield": {
+    "ID": 32020200,
+    "materialSetId": 0
+  },
+  "Distinguished Quality Greatshield": {
+    "ID": 32020300,
+    "materialSetId": 0
+  },
+  "Distinguished Fire Greatshield": {
+    "ID": 32020400,
+    "materialSetId": 0
+  },
+  "Distinguished Flame Art Greatshield": {
+    "ID": 32020500,
+    "materialSetId": 0
+  },
+  "Distinguished Lightning Greatshield": {
+    "ID": 32020600,
+    "materialSetId": 0
+  },
+  "Distinguished Sacred Greatshield": {
+    "ID": 32020700,
+    "materialSetId": 0
+  },
+  "Distinguished Magic Greatshield": {
+    "ID": 32020800,
+    "materialSetId": 0
+  },
+  "Distinguished Cold Greatshield": {
+    "ID": 32020900,
+    "materialSetId": 0
+  },
+  "Distinguished Poison Greatshield": {
+    "ID": 32021000,
+    "materialSetId": 0
+  },
+  "Distinguished Blood Greatshield": {
+    "ID": 32021100,
+    "materialSetId": 0
+  },
+  "Distinguished Occult Greatshield": {
+    "ID": 32021200,
+    "materialSetId": 0
+  },
+  "Crucible Hornshield": {
+    "ID": 32030000,
+    "materialSetId": 2200
+  },
+  "Dragonclaw Shield": {
+    "ID": 32040000,
+    "materialSetId": 2200
+  },
+  "Briar Greatshield": {
+    "ID": 32050000,
+    "materialSetId": 0
+  },
+  "Fire Briar Greatshield": {
+    "ID": 32050400,
+    "materialSetId": 0
+  },
+  "Flame Art Briar Greatshield": {
+    "ID": 32050500,
+    "materialSetId": 0
+  },
+  "Lightning Briar Greatshield": {
+    "ID": 32050600,
+    "materialSetId": 0
+  },
+  "Sacred Briar Greatshield": {
+    "ID": 32050700,
+    "materialSetId": 0
+  },
+  "Magic Briar Greatshield": {
+    "ID": 32050800,
+    "materialSetId": 0
+  },
+  "Cold Briar Greatshield": {
+    "ID": 32050900,
+    "materialSetId": 0
+  },
+  "Poison Briar Greatshield": {
+    "ID": 32051000,
+    "materialSetId": 0
+  },
+  "Blood Briar Greatshield": {
+    "ID": 32051100,
+    "materialSetId": 0
+  },
+  "Occult Briar Greatshield": {
+    "ID": 32051200,
+    "materialSetId": 0
+  },
+  "Erdtree Greatshield": {
+    "ID": 32080000,
+    "materialSetId": 2200
+  },
+  "Golden Beast Crest Shield": {
+    "ID": 32090000,
+    "materialSetId": 0
+  },
+  "Fire Golden Beast Crest Shield": {
+    "ID": 32090400,
+    "materialSetId": 0
+  },
+  "Flame Art Golden Beast Crest Shield": {
+    "ID": 32090500,
+    "materialSetId": 0
+  },
+  "Lightning Golden Beast Crest Shield": {
+    "ID": 32090600,
+    "materialSetId": 0
+  },
+  "Sacred Golden Beast Crest Shield": {
+    "ID": 32090700,
+    "materialSetId": 0
+  },
+  "Magic Golden Beast Crest Shield": {
+    "ID": 32090800,
+    "materialSetId": 0
+  },
+  "Cold Golden Beast Crest Shield": {
+    "ID": 32090900,
+    "materialSetId": 0
+  },
+  "Poison Golden Beast Crest Shield": {
+    "ID": 32091000,
+    "materialSetId": 0
+  },
+  "Blood Golden Beast Crest Shield": {
+    "ID": 32091100,
+    "materialSetId": 0
+  },
+  "Occult Golden Beast Crest Shield": {
+    "ID": 32091200,
+    "materialSetId": 0
+  },
+  "Jellyfish Shield": {
+    "ID": 32120000,
+    "materialSetId": 2200
+  },
+  "Fingerprint Stone Shield": {
+    "ID": 32130000,
+    "materialSetId": 0
+  },
+  "Fire Fingerprint Stone Shield": {
+    "ID": 32130400,
+    "materialSetId": 0
+  },
+  "Flame Art Fingerprint Stone Shield": {
+    "ID": 32130500,
+    "materialSetId": 0
+  },
+  "Lightning Fingerprint Stone Shield": {
+    "ID": 32130600,
+    "materialSetId": 0
+  },
+  "Sacred Fingerprint Stone Shield": {
+    "ID": 32130700,
+    "materialSetId": 0
+  },
+  "Magic Fingerprint Stone Shield": {
+    "ID": 32130800,
+    "materialSetId": 0
+  },
+  "Cold Fingerprint Stone Shield": {
+    "ID": 32130900,
+    "materialSetId": 0
+  },
+  "Poison Fingerprint Stone Shield": {
+    "ID": 32131000,
+    "materialSetId": 0
+  },
+  "Blood Fingerprint Stone Shield": {
+    "ID": 32131100,
+    "materialSetId": 0
+  },
+  "Occult Fingerprint Stone Shield": {
+    "ID": 32131200,
+    "materialSetId": 0
+  },
+  "Icon Shield": {
+    "ID": 32140000,
+    "materialSetId": 2200
+  },
+  "One-Eyed Shield": {
+    "ID": 32150000,
+    "materialSetId": 2200
+  },
+  "Visage Shield": {
+    "ID": 32160000,
+    "materialSetId": 2200
+  },
+  "Spiked Palisade Shield": {
+    "ID": 32170000,
+    "materialSetId": 0
+  },
+  "Fire Spiked Palisade Shield": {
+    "ID": 32170400,
+    "materialSetId": 0
+  },
+  "Flame Art Spiked Palisade Shield": {
+    "ID": 32170500,
+    "materialSetId": 0
+  },
+  "Lightning Spiked Palisade Shield": {
+    "ID": 32170600,
+    "materialSetId": 0
+  },
+  "Sacred Spiked Palisade Shield": {
+    "ID": 32170700,
+    "materialSetId": 0
+  },
+  "Magic Spiked Palisade Shield": {
+    "ID": 32170800,
+    "materialSetId": 0
+  },
+  "Cold Spiked Palisade Shield": {
+    "ID": 32170900,
+    "materialSetId": 0
+  },
+  "Poison Spiked Palisade Shield": {
+    "ID": 32171000,
+    "materialSetId": 0
+  },
+  "Blood Spiked Palisade Shield": {
+    "ID": 32171100,
+    "materialSetId": 0
+  },
+  "Occult Spiked Palisade Shield": {
+    "ID": 32171200,
+    "materialSetId": 0
+  },
+  "Manor Towershield": {
+    "ID": 32190000,
+    "materialSetId": 0
+  },
+  "Fire Manor Towershield": {
+    "ID": 32190400,
+    "materialSetId": 0
+  },
+  "Flame Art Manor Towershield": {
+    "ID": 32190500,
+    "materialSetId": 0
+  },
+  "Lightning Manor Towershield": {
+    "ID": 32190600,
+    "materialSetId": 0
+  },
+  "Sacred Manor Towershield": {
+    "ID": 32190700,
+    "materialSetId": 0
+  },
+  "Magic Manor Towershield": {
+    "ID": 32190800,
+    "materialSetId": 0
+  },
+  "Cold Manor Towershield": {
+    "ID": 32190900,
+    "materialSetId": 0
+  },
+  "Poison Manor Towershield": {
+    "ID": 32191000,
+    "materialSetId": 0
+  },
+  "Blood Manor Towershield": {
+    "ID": 32191100,
+    "materialSetId": 0
+  },
+  "Occult Manor Towershield": {
+    "ID": 32191200,
+    "materialSetId": 0
+  },
+  "Crossed-Tree Towershield": {
+    "ID": 32200000,
+    "materialSetId": 0
+  },
+  "Fire Crossed-Tree Towershield": {
+    "ID": 32200400,
+    "materialSetId": 0
+  },
+  "Flame Art Crossed-Tree Towershield": {
+    "ID": 32200500,
+    "materialSetId": 0
+  },
+  "Lightning Crossed-Tree Towershield": {
+    "ID": 32200600,
+    "materialSetId": 0
+  },
+  "Sacred Crossed-Tree Towershield": {
+    "ID": 32200700,
+    "materialSetId": 0
+  },
+  "Magic Crossed-Tree Towershield": {
+    "ID": 32200800,
+    "materialSetId": 0
+  },
+  "Cold Crossed-Tree Towershield": {
+    "ID": 32200900,
+    "materialSetId": 0
+  },
+  "Poison Crossed-Tree Towershield": {
+    "ID": 32201000,
+    "materialSetId": 0
+  },
+  "Blood Crossed-Tree Towershield": {
+    "ID": 32201100,
+    "materialSetId": 0
+  },
+  "Occult Crossed-Tree Towershield": {
+    "ID": 32201200,
+    "materialSetId": 0
+  },
+  "Inverted Hawk Towershield": {
+    "ID": 32210000,
+    "materialSetId": 0
+  },
+  "Fire Inverted Hawk Towershield": {
+    "ID": 32210400,
+    "materialSetId": 0
+  },
+  "Flame Art Inverted Hawk Towershield": {
+    "ID": 32210500,
+    "materialSetId": 0
+  },
+  "Lightning Inverted Hawk Towershield": {
+    "ID": 32210600,
+    "materialSetId": 0
+  },
+  "Sacred Inverted Hawk Towershield": {
+    "ID": 32210700,
+    "materialSetId": 0
+  },
+  "Magic Inverted Hawk Towershield": {
+    "ID": 32210800,
+    "materialSetId": 0
+  },
+  "Cold Inverted Hawk Towershield": {
+    "ID": 32210900,
+    "materialSetId": 0
+  },
+  "Poison Inverted Hawk Towershield": {
+    "ID": 32211000,
+    "materialSetId": 0
+  },
+  "Blood Inverted Hawk Towershield": {
+    "ID": 32211100,
+    "materialSetId": 0
+  },
+  "Occult Inverted Hawk Towershield": {
+    "ID": 32211200,
+    "materialSetId": 0
+  },
+  "Ant's Skull Plate": {
+    "ID": 32220000,
+    "materialSetId": 2200
+  },
+  "Redmane Greatshield": {
+    "ID": 32230000,
+    "materialSetId": 0
+  },
+  "Fire Redmane Greatshield": {
+    "ID": 32230400,
+    "materialSetId": 0
+  },
+  "Flame Art Redmane Greatshield": {
+    "ID": 32230500,
+    "materialSetId": 0
+  },
+  "Lightning Redmane Greatshield": {
+    "ID": 32230600,
+    "materialSetId": 0
+  },
+  "Sacred Redmane Greatshield": {
+    "ID": 32230700,
+    "materialSetId": 0
+  },
+  "Magic Redmane Greatshield": {
+    "ID": 32230800,
+    "materialSetId": 0
+  },
+  "Cold Redmane Greatshield": {
+    "ID": 32230900,
+    "materialSetId": 0
+  },
+  "Poison Redmane Greatshield": {
+    "ID": 32231000,
+    "materialSetId": 0
+  },
+  "Blood Redmane Greatshield": {
+    "ID": 32231100,
+    "materialSetId": 0
+  },
+  "Occult Redmane Greatshield": {
+    "ID": 32231200,
+    "materialSetId": 0
+  },
+  "Eclipse Crest Greatshield": {
+    "ID": 32240000,
+    "materialSetId": 0
+  },
+  "Fire Eclipse Crest Greatshield": {
+    "ID": 32240400,
+    "materialSetId": 0
+  },
+  "Flame Art Eclipse Crest Greatshield": {
+    "ID": 32240500,
+    "materialSetId": 0
+  },
+  "Lightning Eclipse Crest Greatshield": {
+    "ID": 32240600,
+    "materialSetId": 0
+  },
+  "Sacred Eclipse Crest Greatshield": {
+    "ID": 32240700,
+    "materialSetId": 0
+  },
+  "Magic Eclipse Crest Greatshield": {
+    "ID": 32240800,
+    "materialSetId": 0
+  },
+  "Cold Eclipse Crest Greatshield": {
+    "ID": 32240900,
+    "materialSetId": 0
+  },
+  "Poison Eclipse Crest Greatshield": {
+    "ID": 32241000,
+    "materialSetId": 0
+  },
+  "Blood Eclipse Crest Greatshield": {
+    "ID": 32241100,
+    "materialSetId": 0
+  },
+  "Occult Eclipse Crest Greatshield": {
+    "ID": 32241200,
+    "materialSetId": 0
+  },
+  "Cuckoo Greatshield": {
+    "ID": 32250000,
+    "materialSetId": 0
+  },
+  "Fire Cuckoo Greatshield": {
+    "ID": 32250400,
+    "materialSetId": 0
+  },
+  "Flame Art Cuckoo Greatshield": {
+    "ID": 32250500,
+    "materialSetId": 0
+  },
+  "Lightning Cuckoo Greatshield": {
+    "ID": 32250600,
+    "materialSetId": 0
+  },
+  "Sacred Cuckoo Greatshield": {
+    "ID": 32250700,
+    "materialSetId": 0
+  },
+  "Magic Cuckoo Greatshield": {
+    "ID": 32250800,
+    "materialSetId": 0
+  },
+  "Cold Cuckoo Greatshield": {
+    "ID": 32250900,
+    "materialSetId": 0
+  },
+  "Poison Cuckoo Greatshield": {
+    "ID": 32251000,
+    "materialSetId": 0
+  },
+  "Blood Cuckoo Greatshield": {
+    "ID": 32251100,
+    "materialSetId": 0
+  },
+  "Occult Cuckoo Greatshield": {
+    "ID": 32251200,
+    "materialSetId": 0
+  },
+  "Golden Greatshield": {
+    "ID": 32260000,
+    "materialSetId": 0
+  },
+  "Fire Golden Greatshield": {
+    "ID": 32260400,
+    "materialSetId": 0
+  },
+  "Flame Art Golden Greatshield": {
+    "ID": 32260500,
+    "materialSetId": 0
+  },
+  "Lightning Golden Greatshield": {
+    "ID": 32260600,
+    "materialSetId": 0
+  },
+  "Sacred Golden Greatshield": {
+    "ID": 32260700,
+    "materialSetId": 0
+  },
+  "Magic Golden Greatshield": {
+    "ID": 32260800,
+    "materialSetId": 0
+  },
+  "Cold Golden Greatshield": {
+    "ID": 32260900,
+    "materialSetId": 0
+  },
+  "Poison Golden Greatshield": {
+    "ID": 32261000,
+    "materialSetId": 0
+  },
+  "Blood Golden Greatshield": {
+    "ID": 32261100,
+    "materialSetId": 0
+  },
+  "Occult Golden Greatshield": {
+    "ID": 32261200,
+    "materialSetId": 0
+  },
+  "Gilded Greatshield": {
+    "ID": 32270000,
+    "materialSetId": 0
+  },
+  "Fire Gilded Greatshield": {
+    "ID": 32270400,
+    "materialSetId": 0
+  },
+  "Flame Art Gilded Greatshield": {
+    "ID": 32270500,
+    "materialSetId": 0
+  },
+  "Lightning Gilded Greatshield": {
+    "ID": 32270600,
+    "materialSetId": 0
+  },
+  "Sacred Gilded Greatshield": {
+    "ID": 32270700,
+    "materialSetId": 0
+  },
+  "Magic Gilded Greatshield": {
+    "ID": 32270800,
+    "materialSetId": 0
+  },
+  "Cold Gilded Greatshield": {
+    "ID": 32270900,
+    "materialSetId": 0
+  },
+  "Poison Gilded Greatshield": {
+    "ID": 32271000,
+    "materialSetId": 0
+  },
+  "Blood Gilded Greatshield": {
+    "ID": 32271100,
+    "materialSetId": 0
+  },
+  "Occult Gilded Greatshield": {
+    "ID": 32271200,
+    "materialSetId": 0
+  },
+  "Haligtree Crest Greatshield": {
+    "ID": 32280000,
+    "materialSetId": 0
+  },
+  "Fire Haligtree Crest Greatshield": {
+    "ID": 32280400,
+    "materialSetId": 0
+  },
+  "Flame Art Haligtree Crest Greatshield": {
+    "ID": 32280500,
+    "materialSetId": 0
+  },
+  "Lightning Haligtree Crest Greatshield": {
+    "ID": 32280600,
+    "materialSetId": 0
+  },
+  "Sacred Haligtree Crest Greatshield": {
+    "ID": 32280700,
+    "materialSetId": 0
+  },
+  "Magic Haligtree Crest Greatshield": {
+    "ID": 32280800,
+    "materialSetId": 0
+  },
+  "Cold Haligtree Crest Greatshield": {
+    "ID": 32280900,
+    "materialSetId": 0
+  },
+  "Poison Haligtree Crest Greatshield": {
+    "ID": 32281000,
+    "materialSetId": 0
+  },
+  "Blood Haligtree Crest Greatshield": {
+    "ID": 32281100,
+    "materialSetId": 0
+  },
+  "Occult Haligtree Crest Greatshield": {
+    "ID": 32281200,
+    "materialSetId": 0
+  },
+  "Wooden Greatshield": {
+    "ID": 32290000,
+    "materialSetId": 0
+  },
+  "Fire Wooden Greatshield": {
+    "ID": 32290400,
+    "materialSetId": 0
+  },
+  "Flame Art Wooden Greatshield": {
+    "ID": 32290500,
+    "materialSetId": 0
+  },
+  "Lightning Wooden Greatshield": {
+    "ID": 32290600,
+    "materialSetId": 0
+  },
+  "Sacred Wooden Greatshield": {
+    "ID": 32290700,
+    "materialSetId": 0
+  },
+  "Magic Wooden Greatshield": {
+    "ID": 32290800,
+    "materialSetId": 0
+  },
+  "Cold Wooden Greatshield": {
+    "ID": 32290900,
+    "materialSetId": 0
+  },
+  "Poison Wooden Greatshield": {
+    "ID": 32291000,
+    "materialSetId": 0
+  },
+  "Blood Wooden Greatshield": {
+    "ID": 32291100,
+    "materialSetId": 0
+  },
+  "Occult Wooden Greatshield": {
+    "ID": 32291200,
+    "materialSetId": 0
+  },
+  "Lordsworn's Shield": {
+    "ID": 32300000,
+    "materialSetId": 0
+  },
+  "Fire Lordsworn's Shield": {
+    "ID": 32300400,
+    "materialSetId": 0
+  },
+  "Flame Art Lordsworn's Shield": {
+    "ID": 32300500,
+    "materialSetId": 0
+  },
+  "Lightning Lordsworn's Shield": {
+    "ID": 32300600,
+    "materialSetId": 0
+  },
+  "Sacred Lordsworn's Shield": {
+    "ID": 32300700,
+    "materialSetId": 0
+  },
+  "Magic Lordsworn's Shield": {
+    "ID": 32300800,
+    "materialSetId": 0
+  },
+  "Cold Lordsworn's Shield": {
+    "ID": 32300900,
+    "materialSetId": 0
+  },
+  "Poison Lordsworn's Shield": {
+    "ID": 32301000,
+    "materialSetId": 0
+  },
+  "Blood Lordsworn's Shield": {
+    "ID": 32301100,
+    "materialSetId": 0
+  },
+  "Occult Lordsworn's Shield": {
+    "ID": 32301200,
+    "materialSetId": 0
+  },
+  "Glintstone Staff": {
+    "ID": 33000000,
+    "materialSetId": 0
+  },
+  "Crystal Staff": {
+    "ID": 33040000,
+    "materialSetId": 2200
+  },
+  "Gelmir Glintstone Staff": {
+    "ID": 33050000,
+    "materialSetId": 0
+  },
+  "Demi-Human Queen's Staff": {
+    "ID": 33060000,
+    "materialSetId": 0
+  },
+  "Carian Regal Scepter": {
+    "ID": 33090000,
+    "materialSetId": 2200
+  },
+  "Digger's Staff": {
+    "ID": 33120000,
+    "materialSetId": 0
+  },
+  "Astrologer's Staff": {
+    "ID": 33130000,
+    "materialSetId": 0
+  },
+  "Carian Glintblade Staff": {
+    "ID": 33170000,
+    "materialSetId": 0
+  },
+  "Prince of Death's Staff": {
+    "ID": 33180000,
+    "materialSetId": 0
+  },
+  "Albinauric Staff": {
+    "ID": 33190000,
+    "materialSetId": 0
+  },
+  "Academy Glintstone Staff": {
+    "ID": 33200000,
+    "materialSetId": 0
+  },
+  "Carian Glintstone Staff": {
+    "ID": 33210000,
+    "materialSetId": 0
+  },
+  "Azur's Glintstone Staff": {
+    "ID": 33230000,
+    "materialSetId": 2200
+  },
+  "Lusat's Glintstone Staff": {
+    "ID": 33240000,
+    "materialSetId": 2200
+  },
+  "Meteorite Staff": {
+    "ID": 33250000,
+    "materialSetId": 0
+  },
+  "Staff of the Guilty": {
+    "ID": 33260000,
+    "materialSetId": 0
+  },
+  "Rotten Crystal Staff": {
+    "ID": 33270000,
+    "materialSetId": 2200
+  },
+  "Staff of Loss": {
+    "ID": 33280000,
+    "materialSetId": 0
+  },
+  "Finger Seal": {
+    "ID": 34000000,
+    "materialSetId": 0
+  },
+  "Godslayer's Seal": {
+    "ID": 34010000,
+    "materialSetId": 0
+  },
+  "Giant's Seal": {
+    "ID": 34020000,
+    "materialSetId": 0
+  },
+  "Gravel Stone Seal": {
+    "ID": 34030000,
+    "materialSetId": 0
+  },
+  "Clawmark Seal": {
+    "ID": 34040000,
+    "materialSetId": 0
+  },
+  "Golden Order Seal": {
+    "ID": 34060000,
+    "materialSetId": 2200
+  },
+  "Erdtree Seal": {
+    "ID": 34070000,
+    "materialSetId": 2200
+  },
+  "Dragon Communion Seal": {
+    "ID": 34080000,
+    "materialSetId": 2200
+  },
+  "Frenzied Flame Seal": {
+    "ID": 34090000,
+    "materialSetId": 2200
+  },
+  "Shortbow": {
+    "ID": 40000000,
+    "materialSetId": 0
+  },
+  "Misbegotten Shortbow": {
+    "ID": 40010000,
+    "materialSetId": 0
+  },
+  "Red Branch Shortbow": {
+    "ID": 40020000,
+    "materialSetId": 0
+  },
+  "Harp Bow": {
+    "ID": 40030000,
+    "materialSetId": 2200
+  },
+  "Composite Bow": {
+    "ID": 40050000,
+    "materialSetId": 0
+  },
+  "Longbow": {
+    "ID": 41000000,
+    "materialSetId": 0
+  },
+  "Albinauric Bow": {
+    "ID": 41010000,
+    "materialSetId": 0
+  },
+  "Horn Bow": {
+    "ID": 41020000,
+    "materialSetId": 0
+  },
+  "Erdtree Bow": {
+    "ID": 41030000,
+    "materialSetId": 2200
+  },
+  "Serpent Bow": {
+    "ID": 41040000,
+    "materialSetId": 2200
+  },
+  "Pulley Bow": {
+    "ID": 41060000,
+    "materialSetId": 2200
+  },
+  "Black Bow": {
+    "ID": 41070000,
+    "materialSetId": 2200
+  },
+  "Lion Greatbow": {
+    "ID": 42000000,
+    "materialSetId": 2200
+  },
+  "Golem Greatbow": {
+    "ID": 42010000,
+    "materialSetId": 2200
+  },
+  "Erdtree Greatbow": {
+    "ID": 42030000,
+    "materialSetId": 2200
+  },
+  "Greatbow": {
+    "ID": 42040000,
+    "materialSetId": 0
+  },
+  "Soldier's Crossbow": {
+    "ID": 43000000,
+    "materialSetId": 0
+  },
+  "Light Crossbow": {
+    "ID": 43020000,
+    "materialSetId": 0
+  },
+  "Pulley Crossbow": {
+    "ID": 43050000,
+    "materialSetId": 2200
+  },
+  "Full Moon Crossbow": {
+    "ID": 43060000,
+    "materialSetId": 2200
+  },
+  "Arbalest": {
+    "ID": 43080000,
+    "materialSetId": 0
+  },
+  "Crepus's Black-Key Crossbow": {
+    "ID": 43110000,
+    "materialSetId": 2200
+  },
+  "Hand Ballista": {
+    "ID": 44000000,
+    "materialSetId": 0
+  },
+  "Jar Cannon": {
+    "ID": 44010000,
+    "materialSetId": 2200
+  },
+  "Radahn's Spear": {
+    "ID": 51040000,
+    "materialSetId": -1
+  }
+}
